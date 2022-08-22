@@ -1,0 +1,103 @@
+input: .  # The local path from this retype.yml file to your content files.
+          # See also: output
+
+
+# -----------------------------------------------------------------------------
+
+output: .retype # Custom path to the output directory.
+                # See also: input
+
+# -----------------------------------------------------------------------------
+
+url: https://zalf-rdm.github.io/  # The base URL of your website.
+
+# -----------------------------------------------------------------------------
+
+branding:
+  title: BonaRes - Data Standards for Soil- and Agricultural Research   # Your custom website title; keep it short.
+  logo: img/bonares_logo.png                                            # Path to a logo file.
+  logoAlign: left                                                       # Align the logo to the right or the left.
+  label: Docs
+  colors:
+      label:                  # Label colors
+        text: "#2BA2DB"       # Custom color for the label text.
+        background: "#dddddd" # Custom color for the label background.
+
+# -----------------------------------------------------------------------------
+
+poweredByRetype: true # Set to false to remove the Powered by Retype branding.
+                      # A Retype Pro license is required.
+                      # See: https://retype.com/pro
+
+# -----------------------------------------------------------------------------
+
+links: # A list of custom links to add to the top bar of the generated website.
+  # See also: footer.links
+  - text: Home                    # The text to use for the link
+    link: index.md                # start page of this report
+    icon: home                    # A custom icon name, :emoji:, <svg>, or path to a file.
+    conAlign: left                # Icon alignment, to the left or right. Default is left.
+  - text: BonaRes
+    link: https://www.bonares.de  # Link to an internal file or external URL.
+    target: blank                 # Custom target. Use blank to open link in a new window.
+
+# -----------------------------------------------------------------------------
+
+footer:
+  copyright: "&copy; Copyright . All rights reserved." # A custom copyright statement
+  links:                                          # A list of links to include in the footer.
+                                                  # See also: links
+    - text: Imprint                               # The text to use for the link
+      link: https://www.bonares.de/imprint
+    - text: Privacy Policy
+      link: https://www.bonares.de/privacypolicy
+    - text: License
+      link: license.md
+
+
+# -----------------------------------------------------------------------------
+
+cache:
+  busting: query # Cache busting strategy.
+                 # Options include: none | path | query (default)
+
+# -----------------------------------------------------------------------------
+
+exclude: # A list of files or folders to exclude from the build process.
+         # See also: include
+  #- "*_pluginstemp/"      # Wildcards are valid.
+  - "markdown_example.md"  # Exclude a specific file.
+
+# -----------------------------------------------------------------------------
+
+favicon: img/favicon.png  # Path to a custom favicon, or.
+                          # just put a favicon.ico in your project root.
+
+# -----------------------------------------------------------------------------
+
+generator:
+  recase: all # Set to `none` to not recase any file or folder names.
+              # By default, all generated file and folder names are
+              # generated in all lowercase.
+
+# -----------------------------------------------------------------------------
+
+
+
+search:          # Custom configuration of the website search component.
+  hotkeys:
+    - "/"        # Keyboard key to set the cursor focus into the search field.
+  maxResults: 20 # Max number of search results to render.
+  minChars: 2    # Min number of characters required to trigger a sear.ch
+  mode: full     # The search index creation mode.
+                 # Options include: full | partial | basic
+  noResultsFoundMsg: "No results" # Message when no results are found.
+  placeholder: Search # Placeholder text used in the search input field.
+
+# -----------------------------------------------------------------------------
+
+templating:
+  enabled: true # Enable or disable the Retype content templating engine.
+  liquid: false # Is Liquid syntax {% ... %} enabled?
+                # If true, Retype is incompatible with
+                # GitBook style of component configuration.
