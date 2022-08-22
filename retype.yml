@@ -29,11 +29,11 @@ poweredByRetype: true # Set to false to remove the Powered by Retype branding.
 
 links: # A list of custom links to add to the top bar of the generated website.
   # See also: footer.links
-  - text: Home                    # The text to use for the link
+  - text: Home of this report                   # The text to use for the link
     link: index.md                # start page of this report
     icon: home                    # A custom icon name, :emoji:, <svg>, or path to a file.
     conAlign: left                # Icon alignment, to the left or right. Default is left.
-  - text: BonaRes
+  - text: BonaRes Portal
     link: https://www.bonares.de  # Link to an internal file or external URL.
     target: blank                 # Custom target. Use blank to open link in a new window.
 

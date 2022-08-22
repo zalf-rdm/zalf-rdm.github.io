@@ -4,6 +4,8 @@ authors:
     email: hoffmann@zalf.de    
   - name: Xenia Specka
     specka@zalf.de
+label: Data Standards for Soil- and Agricultural Research
+icon: home
 ---
 
 ## Data Standards for Soil- and Agricultural Research
