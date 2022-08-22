@@ -1,3 +1,8 @@
+'''
+label: Home
+icon: home
+'''
+
 # Data Standards for Soil- and Agricultural Research
 
 **Authors**: Carsten Hoffmann, Sina Schulz, Einar Eberhardt, Meike Grosse, Susanne Stein, Xenia Specka, Nikolai Svoboda, 

@@ -1,3 +1,9 @@
+'''
+label: Data Management
+icon: stack
+expanded: true
+'''
+
 # Data management
 
 The topic data management includes methodical standards to structure and quality assure research data as recorded by

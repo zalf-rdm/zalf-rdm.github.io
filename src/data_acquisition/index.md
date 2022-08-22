@@ -1,3 +1,8 @@
+'''
+label: Data acquisition
+icon: search
+expanded: true
+'''
 # Data acquisition
 
 The acquisition of soil-, crop-, agricultural machinery-, farming-, business, and other, soil- and agricultural related
