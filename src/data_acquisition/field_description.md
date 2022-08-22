@@ -1,8 +1,12 @@
+---
+label: Field Soil Description and Soil Classification
+order: 100
+---
 # Field Soil Description and Soil Classification
 
 ## Overview of existing standards
 
-### German Soil Survey Guidelines <img src="img/two_star.jpg" width="60" valign="bottom" >
+### German Soil Survey Guidelines <img src="/img/two_star.jpg" width="60" valign="bottom" >
 
 !!!
 German Soil Survey Guidelines (“Bodenkundliche Kartieranleitung”), 5th edition, Ad-hoc-AG Boden (2005, KA5), short: KA5
@@ -24,7 +28,7 @@ A new edition is awaited (possibly in 2020) with improvements in the soil system
 notation, code lists and in the mapping part. The simplification of soil description (AHB) shall be included in the new
 edition.
 
-### World Reference Base for Soil Resources <img src="img/two_star.jpg" width="60" valign="bottom" >
+### World Reference Base for Soil Resources <img src="/img/two_star.jpg" width="60" valign="bottom" >
 
 !!!
 WRB, IUSS Working Group (2014). World reference base for soil resources 2014: International soil classification system
