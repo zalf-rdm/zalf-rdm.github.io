@@ -1,7 +1,7 @@
-'''
+---
 label: Home
 icon: home
-'''
+---
 
 # Data Standards for Soil- and Agricultural Research
 
