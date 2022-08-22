@@ -48,7 +48,7 @@ on reuse. Metadata are always available and, after a limited embargo-time, also 
 for the international research community. Further information is given in the BonaRes Data
 Policy ([Svoboda 2021](https://doi.org/https://doi.org/10.20387/BonaRes-RYCV-30RK)).
 
-[!embed width=600](https://youtu.be/wo0Rv4YPjCo)
+[!embed width=1000](https://youtu.be/wo0Rv4YPjCo)
 
 According to the [GitHub FAIRMetrics](https://github.com/FAIRMetrics/Metrics), the BonaRes data repository serves all
 relevant elements of FAIR data principles (Findable, Accessible, Interoperable, Reusable, see Wilkinson et al., 2016),
