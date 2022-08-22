@@ -6,7 +6,7 @@ order: 100
 
 ## Overview of existing standards
 
-### German Soil Survey Guidelines <img src="/img/two_star.jpg" width="60" valign="bottom" >
+### German Soil Survey Guidelines <img src="/img/two_star.jpg" width="60" valign="top" >
 
 !!!
 German Soil Survey Guidelines (“Bodenkundliche Kartieranleitung”), 5th edition, Ad-hoc-AG Boden (2005, KA5), short: KA5
