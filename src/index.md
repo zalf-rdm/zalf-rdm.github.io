@@ -3,12 +3,12 @@ label: Home
 icon: home
 ---
 
-# Data Standards for Soil- and Agricultural Research
+## Data Standards for Soil- and Agricultural Research
 
 **Authors**: Carsten Hoffmann, Sina Schulz, Einar Eberhardt, Meike Grosse, Susanne Stein, Xenia Specka, Nikolai Svoboda, 
 Uwe Heinrich
 
-his living document has been produced in the framework of the German research initiative “BonaRes”
+This living document has been produced in the framework of the German research initiative [BonaRes](https://www.bonares.de)
 (Soil as a sustainable resource for the bio-economy). In this recent third version more than 600 standards, as relevant
 for the soil- and agricultural research data management, are compiled, discussed and/or recommended. It is grouped based
 on three major data life stages and might act as a helpful reference work for the soil-agricultural research data
@@ -32,11 +32,7 @@ highlighted and summarized to recommendations:
 In the Appendix the highly recommended standards as well as many code lists, glossaries and web links are listed in
 tables
 
-## Contents
-
-
-
-# The BonaRes data repository
+## The BonaRes data repository
 
 In July 2017, the BonaRes Data Centre launched a data repository for soil and agricultural research data and
 accompanying metadata. Beside data from national research projects, the repository is open for other soil-related data,
@@ -46,6 +42,8 @@ initiative “Digitale Information” (Alliance of Science Organizations in Germ
 not be subject to any restrictions on reuse. Metadata are always available and, after a limited embargo-time, also
 research data are provided accessible for the international research community. Further information is given in the
 BonaRes Data Policy ([Svoboda 2021](https://doi.org/https://doi.org/10.20387/BonaRes-RYCV-30RK)).
+
+[!embed](https://youtu.be/wo0Rv4YPjCo)
 
 According to the [GitHub FAIRMetrics](https://github.com/FAIRMetrics/Metrics), the BonaRes data repository serves all relevant elements of FAIR
 data principles (Findable, Accessible, Interoperable, Reusable, see Wilkinson et al., 2016), and
