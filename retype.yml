@@ -1,11 +1,8 @@
-input: .  # The local path from this retype.yml file to your content files.
-          # See also: output
-
+input: src  # The local path from this retype.yml file to your content files.
 
 # -----------------------------------------------------------------------------
 
-output: .retype # Custom path to the output directory.
-                # See also: input
+output: docs # Custom path to the output directory.
 
 # -----------------------------------------------------------------------------
 
@@ -17,7 +14,6 @@ branding:
   title: BonaRes - Data Standards for Soil- and Agricultural Research   # Your custom website title; keep it short.
   logo: img/bonares_logo.png                                            # Path to a logo file.
   logoAlign: left                                                       # Align the logo to the right or the left.
-  label: Docs
   colors:
       label:                  # Label colors
         text: "#2BA2DB"       # Custom color for the label text.
@@ -53,13 +49,6 @@ footer:
       link: https://www.bonares.de/privacypolicy
     - text: License
       link: license.md
-
-
-# -----------------------------------------------------------------------------
-
-cache:
-  busting: query # Cache busting strategy.
-                 # Options include: none | path | query (default)
 
 # -----------------------------------------------------------------------------
 

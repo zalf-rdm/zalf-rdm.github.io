@@ -1,3 +1,11 @@
+---
+authors:
+  - name: Carsten Hoffmann
+    email: hoffmann@zalf.de    
+  - name: Xenia Specka
+    specka@zalf.de
+---
+
 ## Data Standards for Soil- and Agricultural Research
 
 **Authors**: Carsten Hoffmann, Sina Schulz, Einar Eberhardt, Meike Grosse, Susanne Stein, Xenia Specka, Nikolai Svoboda, 
