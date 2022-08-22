@@ -1,4 +1,4 @@
-# German Soil Survey Guideline
+# German Soil Survey Guideline - File
 
 **German Soil Survey Guidelines** (“Bodenkundliche Kartieranleitung”), 5th edition, Ad-hoc-AG Boden
 (2005, KA5), short: KA5 <img src="img/two_star.jpg" width="60" valign="bottom" >
