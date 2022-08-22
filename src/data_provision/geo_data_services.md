@@ -1,5 +1,5 @@
 ---
 label: Geo-data Services
-index: 20
+order: 20
 ---
 # Geo-data Services

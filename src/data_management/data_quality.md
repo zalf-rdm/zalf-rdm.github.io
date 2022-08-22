@@ -1,4 +1,4 @@
 ---
 label: Data Quality
-index: 10
+order: 10
 ---

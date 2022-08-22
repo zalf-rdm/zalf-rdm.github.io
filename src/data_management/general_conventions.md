@@ -1,6 +1,6 @@
 ---
 label: General Conventions
-index: 20
+order: 20
 ---
 # General Conventions
 

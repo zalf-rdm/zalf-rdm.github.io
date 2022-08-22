@@ -1,4 +1,4 @@
 ---
 label: Data Publication
-index: 30
+order: 30
 ---
