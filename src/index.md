@@ -29,8 +29,10 @@ and accessible in the long-term for any reuse. Missing and competitive national 
 potential conflicts are stated and, based on internal and external expert knowledge, outstanding standards are
 highlighted and summarized to recommendations:
 
+!!!light Recommendation explanation
 <img src="/static/img/two_star.jpg" width="60" valign="bottom" > Favored = highly recommended for application <br>
 <img src="/static/img/one_star.jpg" width="60" valign="bottom" > OK = acceptable alternative but maybe requires later transformation
+!!!
 
 In the [Appendix](appendix/index.md) the highly recommended standards as well as many code lists, glossaries and web links are listed in
 tables

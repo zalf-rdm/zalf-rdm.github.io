@@ -8,7 +8,7 @@ order: 100
 
 ### German Soil Survey Guidelines ![](/static/img/two_star.jpg)
 
-!!!
+!!!secondary
 German Soil Survey Guidelines (“Bodenkundliche Kartieranleitung”), 5th edition, Ad-hoc-AG Boden (2005, KA5), short: KA5
 !!!
 
@@ -30,7 +30,7 @@ edition.
 
 ### World Reference Base for Soil Resources ![](/static/img/two_star.jpg)
 
-!!!
+!!!secondary
 WRB, IUSS Working Group (2014). World reference base for soil resources 2014: International soil classification system
 for naming soils and creating legends for soil maps: Update 2015. World Soil Resources Reports No. 106: 203.
 !!!
