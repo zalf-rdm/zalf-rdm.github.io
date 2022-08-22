@@ -11,12 +11,12 @@ url: https://zalf-rdm.github.io/  # The base URL of your website.
 # -----------------------------------------------------------------------------
 
 branding:
-  title: BonaRes - Data Standards for Soil- and Agricultural Research   # Your custom website title; keep it short.
+  title: Data Standards for Soil- and Agricultural Research   # Your custom website title; keep it short.
   logo: img/bonares_logo.png                                            # Path to a logo file.
   logoAlign: left                                                       # Align the logo to the right or the left.
   colors:
       label:                  # Label colors
-        text: "#2BA2DB"       # Custom color for the label text.
+        text: "#2ba2db"       # Custom color for the label text.
         background: "#dddddd" # Custom color for the label background.
 
 # -----------------------------------------------------------------------------
