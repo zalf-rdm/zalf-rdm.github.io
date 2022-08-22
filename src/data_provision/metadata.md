@@ -1,5 +1,5 @@
 ---
 label: Metadata
-order: 10
+order: 100
 ---
 # Metadata

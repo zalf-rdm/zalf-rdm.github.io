@@ -1,5 +1,5 @@
 ---
 label: Data Quality and Statistics
-order: 20
+order: 10
 ---
 # Data Quality and Statistics
