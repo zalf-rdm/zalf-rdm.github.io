@@ -1,8 +1,8 @@
-'''
+---
 label: Data Provision
 icon: download
 expanded: true
-'''
+---
 # Data Provision
 
 Structured research data, reasonably described by standardized metadata facilitates its provision and increase its

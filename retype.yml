@@ -35,6 +35,7 @@ links: # A list of custom links to add to the top bar of the generated website.
     conAlign: left                # Icon alignment, to the left or right. Default is left.
   - text: BonaRes Portal
     link: https://www.bonares.de  # Link to an internal file or external URL.
+    icon: globe
     target: blank                 # Custom target. Use blank to open link in a new window.
 
 # -----------------------------------------------------------------------------

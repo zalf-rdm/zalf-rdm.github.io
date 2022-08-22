@@ -1,8 +1,8 @@
-'''
+---
 label: Data Management
 icon: stack
 expanded: true
-'''
+---
 
 # Data management
 

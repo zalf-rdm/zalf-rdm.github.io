@@ -1,6 +1,7 @@
-'''
+---
+label: General Conventions
 index: 20
-'''
+---
 # General Conventions
 
 This chapter summarize general data conventions which should be considered during the data collection and preparation.
