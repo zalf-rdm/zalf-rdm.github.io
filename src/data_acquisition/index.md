@@ -15,5 +15,6 @@ In this chapter, standards in soil science from field and lab work (e.g. soil ma
 personal data (e.g., farm size, attitudes of farmers, income, and property rights) are collected, described and
 evaluated.
 
-## [Field Soil Description and Soil Classification](data_acquisition/field_description.md)
-## [Soil Sampling](data_acquisition/soil_sampling.md)
+[!ref](/data_acquisition/field_description.md)
+[!ref](/data_acquisition/soil_sampling.md)
+
