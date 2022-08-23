@@ -18,3 +18,9 @@ a {
     color: #222222;
 
 }
+
+.bonares_reference p {
+    font-size: 0.95em;
+    color: #222222;
+    margin-bottom: 1.3rem !important;
+}
