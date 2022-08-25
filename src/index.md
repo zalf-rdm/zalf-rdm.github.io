@@ -5,18 +5,22 @@ icon: home
 
 # Data Standards for Soil- and Agricultural Research
 
-## Hallo Welt
+
 
 **Authors**: Carsten Hoffmann, Sina Schulz, Einar Eberhardt, Meike Grosse, Susanne Stein, Xenia Specka, Nikolai Svoboda,
 Uwe Heinrich
 
 This living document has been produced in the framework of the German research
-initiative [BonaRes](https://www.bonares.de) (Soil as a sustainable resource for the bio-economy). In this recent third
-version more than 600 standards, as relevant for the soil- and agricultural research data management, are compiled,
-discussed and/or recommended. It is grouped based on three major data life stages and might act as a helpful reference
+initiative [BonaRes](https://www.bonares.de) (Soil as a sustainable resource for the bio-economy). The third
+version is published in the [BonaRes Series, 2020] (https://tools.bonares.de/doi/doc/25/) with more than 600 standards, 
+as relevant for the soil- and agricultural research data management. As the report is a living document, the report is
+transferred to this web application to compile, discuss and recommend the latest state of data standards for 
+soil and agricultural research. 
+
+It is grouped based on three major data life stages and might act as a helpful reference
 work for the soil-agricultural research data community.
 
-1. Data acquisition
+1. [Data acquisition](/data_acquisition)
 2. Data management
 3. Data provision
 
