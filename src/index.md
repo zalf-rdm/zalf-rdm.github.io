@@ -21,8 +21,8 @@ It is grouped based on three major data life stages and might act as a helpful r
 work for the soil-agricultural research data community.
 
 1. [Data acquisition](/data_acquisition)
-2. Data management
-3. Data provision
+2. [Data management](/data_managment)
+3. [Data provision](/data_provision)
 
 ## Motivation
 
@@ -77,7 +77,7 @@ Transformation tools may help to translate data from national to international v
 
 :::bonares_reference
 
-## References 123
+## References
 
 [1] Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and
 stewardship. Sci Data 3, 160018 (2016). DOI: [10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
