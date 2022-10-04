@@ -21,7 +21,7 @@ It is grouped based on three major data life stages and might act as a helpful r
 work for the soil-agricultural research data community.
 
 1. [Data acquisition](/data_acquisition)
-2. [Data management](/data_managment)
+2. [Data management](/data_management)
 3. [Data provision](/data_provision)
 
 ## Motivation
