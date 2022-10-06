@@ -2,6 +2,7 @@
 label: Data acquisition
 icon: search
 expanded: true
+order: 130
 ---
 # Data acquisition
 

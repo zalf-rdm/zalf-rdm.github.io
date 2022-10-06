@@ -1,6 +1,6 @@
 ---
 label: Recommended standards
-
+order: 20
 ---
 
 # Recommended standards
