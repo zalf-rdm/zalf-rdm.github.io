@@ -1,6 +1,6 @@
 ---
 label: Field Soil Description and Soil Classification
-order: 100
+order: 90
 ---
 # Field Soil Description and Soil Classification
 

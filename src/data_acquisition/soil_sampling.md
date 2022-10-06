@@ -1,6 +1,6 @@
 ---
 label: Soil Sampling
-order: 90
+order: 80
 ---
 # Soil Sampling
 
