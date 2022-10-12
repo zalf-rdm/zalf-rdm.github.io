@@ -7,6 +7,6 @@ order: 100
 
 # Appendix
 
-[!ref](/data_acquisition/recommended_standards.md)
-[!ref](/data_acquisition/code_lists.md)
-[!ref](/data_acquisition/web_links.md)
+[!ref](/appendix/recommended_standards.md)
+[!ref](/appendix/code_lists.md)
+[!ref](/appendix/web_links.md)
