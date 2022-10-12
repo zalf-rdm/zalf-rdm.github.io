@@ -29,8 +29,8 @@ OpenAIRE, CGIAR, EUDAT, EOSC, and INSPIRE.
 This chapter provides an overview of standards with general requirements on data quality, -structure -formats, and
 –types as well as geographic reference systems, units and dimensions.
 
-[!ref](/data_acquisition/general_conventions.md)
-[!ref](/data_acquisition/data_quality.md)
-[!ref](/data_acquisition/data_transformation.md)
-[!ref](/data_acquisition/data_exchange.md)
-[!ref](/data_acquisition/data_archiving.md)
+[!ref](/data_management/general_conventions.md)
+[!ref](/data_management/data_quality.md)
+[!ref](/data_management/data_transformation.md)
+[!ref](/data_management/data_exchange.md)
+[!ref](/data_management/data_archiving.md)
