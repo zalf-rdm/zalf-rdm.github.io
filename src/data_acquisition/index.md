@@ -18,4 +18,11 @@ evaluated.
 
 [!ref](/data_acquisition/field_description.md)
 [!ref](/data_acquisition/soil_sampling.md)
+[!ref](/data_acquisition/laboratory_methods.md)
+[!ref](/data_acquisition/soil_management.md)
+[!ref](/data_acquisition/agricultural_tools.md)
+[!ref](/data_acquisition/field_crops_fertilization_and_plant_protection.md)
+[!ref](/data_acquisition/accompanying_disciplines.md)
+[!ref](/data_acquisition/business_and_personal_data.md)
+
 
