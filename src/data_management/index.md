@@ -19,12 +19,13 @@ database management becomes relevant. Data (base) management includes e.g. rules
 formats used. These need to meet the requirements on later data applications such as archiving, evaluation, reuse, and
 publishing. Research data management is widely implemented within research institutes in so-called Current Research
 Information Systems (CRIS) and in national or international (inter-)disciplinary data repositories. An example for
-national agricultural data management is the PIAF system (Planning, Information and Analysis for Field trials). An
-international and interdisciplinary open data repository for the wide field of environmental science is the PANGAEA.
+national agricultural data management is the [PIAF](https://www.gil-net.de/Publikationen/131_26.pdf) system (<strong>P</strong>lanning, 
+<strong>I</strong>nformation and <strong>A</strong>nalysis for <strong>F</strong>ield trials). An
+international and interdisciplinary open data repository for the wide field of environmental science is the [PANGAEA](https://pangaea.de/).
 
 Internationally accepted Data Management Plans (DMP) and open research data portals may help to plan, manage and publish
-research data. Tools and guidelines are provided by open access platforms and repositories such as ReDBox (Australia),
-OpenAIRE, CGIAR, EUDAT, EOSC, and INSPIRE.
+research data. Tools and guidelines are provided by open access platforms and repositories such as [ReDBox](https://www.redboxresearchdata.com.au/) (Australia),
+[OpenAIRE](https://www.openaire.eu/), [CGIAR](https://www.cgiar.org/), [EUDAT](https://eudat.eu/), [EOSC](https://eosc-portal.eu/), and [INSPIRE](https://inspire.ec.europa.eu/).
 
 This chapter provides an overview of standards with general requirements on data quality, -structure -formats, and
 –types as well as geographic reference systems, units and dimensions.
