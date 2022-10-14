@@ -26,8 +26,7 @@ work for the soil-agricultural research data community.
 
 ## Motivation
 
-The use of open and widely accepted standards is the basis for modern (FAIR,
- [[1]](https://doi.org/10.1038/sdata.2016.18)) research data management. In this context, task of
+The use of open and widely accepted standards is the basis for modern (FAIR, [[1]](https://doi.org/10.1038/sdata.2016.18)) research data management. In this context, task of
 this report is to describe, compare, review and recommend standards for the whole data life and to assist soil- and
 agricultural scientists to store their research data into a data infrastructure to make them findable and accessible in
 the long-term for any reuse. Missing and competitive national and international standards and potential conflicts are

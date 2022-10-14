@@ -24,7 +24,7 @@ German soil system (“Bodensystematik”) as well as a classification of the so
 record auxiliary information (form, degree of expression, share, and size) are provided. It is thus one of the most
 detailed guidelines for soil description in the world. However, a strict data model is not included.
 
-A new edition is awaited (possibly in 2020) with improvements in the soil system and substrate classification, horizon
+A new edition is awaited (“KA6”, possibly in 2023) with improvements in the soil system and substrate classification, horizon
 notation, code lists and in the mapping part. The simplification of soil description (AHB) shall be included in the new
 edition.
 
@@ -42,6 +42,26 @@ systems. The WRB classification system contains two hierarchical levels: On the 
 units are differentiated. On the second level the RSG is described more precisely by the use of “Qualifiers”. For every
 RSG a list with corresponding principal and supplementary Qualifiers is defined. Classification is done by using both
 levels via diagnostic horizons, materials and features.
+
+### DIN 19682-1ff – Soil Quality - Field Investigation ![](/static/img/one_star.jpg)
+
+The DIN 19682 series describes in 9 parts determination and measurement techniques for soil properties which are applicable in the field. 
+Those parts that address description of soil properties (color (1), particle size distribution and soil type (2), soil moisture (5), 
+soil structure (10) and decomposition level of peat soils (12)) are adopted from the German Soil Survey Guidelines. 
+The other parts contain analytical methods for field-measurements of the following parameters: water infiltration rate (7), water and air permeability (8 & 9), 
+carbonates, sulfides, pH-value and iron(II)-ions (13). This German standard is often used in international soil studies and can be a helpful supplement for general soil descriptions in the field by **ISO 25177:2008**.
+
+### Guidelines Soil Assessment ![](/static/img/one_star.jpg)
+*(„Arbeitsanleitung neues Feldschätzungsbuch: Bodenschätzung”, Bundesministerium)* 
+
+Soil assessment (“Bodenschätzung”) is the basis for the taxation of arable land in Germany. 
+Soil mapping according to these guidelines is required by law and organized by the German fiscal authorities. 
+Mapping is realized by the description of soil profiles with 1 m depth at intervals of 50 m, resulting in large scale soil information. 
+The guidelines provide a soil taxation framework for field assessments (“Bewertungsrahmen”) which combines soil type, 
+soil condition/development and the parent material of which the soil is composed. Soil investigation which is following this standard,
+results in a soil value (“Bodenwertzahl”). It expresses the relative net income that, under normal and proper management, 
+is determined only by the profitability of the soil. It is the basis for taxation of every plot used as crop- or grassland.
+
 
 ## Conflicts and solutions (transformation and derivation tools)
 
