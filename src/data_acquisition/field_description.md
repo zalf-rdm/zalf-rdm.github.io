@@ -1,6 +1,7 @@
 ---
 label: Field Soil Description and Soil Classification
 order: 90
+<link href="bonares.css" rel="stylesheet">
 ---
 # Field Soil Description and Soil Classification
 
@@ -45,7 +46,8 @@ RSG a list with corresponding principal and supplementary Qualifiers is defined.
 levels via diagnostic horizons, materials and features.
 
 
-### DIN 19682-1ff – Soil Quality - Field Investigation ![](/static/img/one_star.jpg)
+### DIN 19682-1ff ![](/static/img/one_star.jpg) 
+#### Soil Quality - Field Investigation 
 
 The DIN 19682 series describes in 9 parts determination and measurement techniques for soil properties which are applicable in the field. 
 Those parts that address description of soil properties (color (1), particle size distribution and soil type (2), soil moisture (5), 
@@ -74,7 +76,8 @@ for Soil Resources (WRB, 2006). Notes for classification purposes are added to e
 and explain the relevance of the described feature for classification according to the WRB.
 
 
-### ISO 25177:2008 Soil Quality – Field Soil Description ![](/static/img/one_star.jpg)
+### ISO 25177:2008 ![](/static/img/one_star.jpg)
+#### Soil Quality – Field Soil Description 
 
 ISO 25177 traditionally was based on the FAO Guidelines, but was removed from it during
 the last editions. A current revision process aims at amalgamating the soil scientific soil
@@ -91,7 +94,8 @@ measurements. Several parameters are mentioned that have to be observed for soil
 investigation and partially corresponding code lists are provided (Appendix, Table 10).
 
 
-### DIN 4220:2008-11 - Pedologic Site Assessment - Designation, Classification and Deduction of Soil Parameters ![](/static/img/one_star.jpg)
+### DIN 4220:2008-11 ![](/static/img/one_star.jpg)
+#### Pedologic Site Assessment - Designation, Classification and Deduction of Soil Parameters 
 
 This German standard provides guidelines with several code lists, based on the German Soil
 Survey Guidelines, for pedologic site assessment in various fields, e.g. agriculture, forestry
@@ -106,7 +110,8 @@ erosion by water (DIN 19708:2017) and wind (DIN 19706:2013). The DIN 19706 corre
 to the international “Universal Soil Loss Equation” USLE and its modifications.
 
 
-### DIN 19707:2004 Classification of the nutrient supply conditions of soil ![](/static/img/one_star.jpg)
+### DIN 19707:2004 ![](/static/img/one_star.jpg)
+#### Classification of the nutrient supply conditions of soil 
 
 This national standard is used to classify nutrient supply conditions of agricultural used soils.
 The classification is based on nitrogen, phosphorous, and potassium and can be used to
@@ -150,12 +155,12 @@ to national law.
 | USA: USDA-NRCS Field Book for Describing and Sampling Soils and US Soil Taxonomy (Schoeneberger et al. 2012) | summarizes the present science and type of describing and documenting soils and soilscapes in the USA. Intended to be used by professionals who describe soils for various purposes, includes key descriptors, conventions, and concepts from soil science and geomorphology, support for understanding soil descriptions and data of soil surveys and soil scientific research              |
 | UK: English and Welsh Soil Survey Field Handbook (Hodgson, 1997)                                             | technical guidelines for describing soil profiles                                                                                                                                                                                                                                                                                                                                            |
 | France: Guide pour la description des sols (Baize and Jabiol 1995)                                           | description of soils and their environment, one part deals with interpretation of soil observations in terms of e.g. pedogenesis and soil. The classic French soil classification system (Classification des sols, Commission de Pédologie et de Cartographie des Sols CPCS 1967) seems to be still in use, in particular in tropical and subtropical areas with French colonization history |
-| France: Référentiel Pédologique. (Baize and Girard 2009)                                                     | soil classification of the reference system type that is applicable world wide. In contrast to WRB, the system is open, i.e. classes can be added if the user may them deem necessary                                                                                                                                                                                                                                                                                                                                                                                             |
-| Australia: Soil and Land Survey Field Handbook. (National_Committee_for_Soil_and_Terrain, 2009)              | follows a more landscape-oriented approach with extensive parts on landform, vegetation and land surface description. Includes short substrate classification, the soil description part resembles the English & Welsh handbook                                                                                                                                                                                                                                                                                                                                                                                             |
+| France: Référentiel Pédologique. (Baize and Girard 2009)                                                     | soil classification of the reference system type that is applicable world wide. In contrast to WRB, the system is open, i.e. classes can be added if the user may them deem necessary                                                                                                                                                                                                        |
+| Australia: Soil and Land Survey Field Handbook. (National_Committee_for_Soil_and_Terrain, 2009)              | follows a more landscape-oriented approach with extensive parts on landform, vegetation and land surface description. Includes short substrate classification, the soil description part resembles the English & Welsh handbook                                                                                                                                                              |
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
-<thead>
+<thead style="font-size: 24px;">
 <tr>
 <th><strong>Standard</strong></th>
 <th><strong>Contents</strong></th>
@@ -163,31 +168,31 @@ to national law.
 </thead>
 <tbody>
 <tr style="background-color: #d3d3d3;">
-<td>Germany: 2. bundesweite Bodenzustandserhebung Wald (BZE Wald II, Arbeitsanleitung), (Wellbrock, 2006)</td>
+<td><strong>Germany:</strong> 2. bundesweite Bodenzustandserhebung Wald (BZE Wald II, Arbeitsanleitung), (Wellbrock, 2006)</td>
 <td>investigation of state and changes of forest soils, vegetation, treetops and forest nutrition at about 2000 sites</td>
 </tr>
 <tr>
-<td>Germany: Forstliche Standortsaufnahme (Arbeitskreis_Standortkartierung, 2016)</td>
+<td> <strong>Germany:</strong> Forstliche Standortsaufnahme (Arbeitskreis_Standortkartierung, 2016)</td>
 <td>national standard in the field of forest site survey, suited for functional use in the field, mentions federal state-specific differences</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>USA: USDA-NRCS Field Book for Describing and Sampling Soils and US Soil Taxonomy (Schoeneberger et al. 2012)</td>
+<td><strong>USA:</strong> USDA-NRCS Field Book for Describing and Sampling Soils and US Soil Taxonomy (Schoeneberger et al. 2012)</td>
 <td>summarizes the present science and type of describing and documenting soils and soilscapes in the USA. Intended to be used by professionals who describe soils for various purposes, includes key descriptors, conventions, and concepts from soil science and geomorphology, support for understanding soil descriptions and data of soil surveys and soil scientific research</td>
 </tr>
 <tr>
-<td>UK: English and Welsh Soil Survey Field Handbook (Hodgson, 1997)</td>
+<td><strong>UK:</strong> English and Welsh Soil Survey Field Handbook (Hodgson, 1997)</td>
 <td>technical guidelines for describing soil profiles</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>France: Guide pour la description des sols (Baize and Jabiol 1995)</td>
+<td><strong>France:</strong> Guide pour la description des sols (Baize and Jabiol 1995)</td>
 <td>description of soils and their environment, one part deals with interpretation of soil observations in terms of e.g. pedogenesis and soil. The classic French soil classification system (Classification des sols, Commission de Pédologie et de Cartographie des Sols CPCS 1967) seems to be still in use, in particular in tropical and subtropical areas with French colonization history</td>
 </tr>
 <tr>
-<td>France: Référentiel Pédologique. (Baize and Girard 2009)</td>
+<td><strong>France:</strong> Référentiel Pédologique. (Baize and Girard 2009)</td>
 <td>soil classification of the reference system type that is applicable world wide. In contrast to WRB, the system is open, i.e. classes can be added if the user may them deem necessary</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>Australia: Soil and Land Survey Field Handbook. (National_Committee_for_Soil_and_Terrain, 2009)</td>
+<td><strong>Australia:</strong> Soil and Land Survey Field Handbook. (National_Committee_for_Soil_and_Terrain, 2009)</td>
 <td>follows a more landscape-oriented approach with extensive parts on landform, vegetation and land surface description. Includes short substrate classification, the soil description part resembles the English &amp; Welsh handbook</td>
 </tr>
 </tbody>
