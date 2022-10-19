@@ -6,14 +6,15 @@ order: 80
 
 ## Overview of existing standards
 
-### 1. GlobalSoilMap (Sampling depths) ![](/static/img/two_star.jpg)
+### GlobalSoilMap (Sampling depths) ![](/static/img/two_star.jpg)
 
 The GlobalSoilMap initiative of the Digital Soil Mapping Working Group, International Union of Soil Science (IUSS),
 supports generating and providing standardized soil data for the world. It sets-up an internationally accepted
 specification for six sampling and modelling depths: 0−5, 5−15, 15−30, 30−60, 60−100, and 100-200 cm.
 
 
-### 2. ISO 18400-1ff, Soil quality - Sampling ![](/static/img/two_star.jpg)
+### ISO 18400-1ff ![](/static/img/two_star.jpg) 
+#### Soil quality - Sampling
 
 Standardized soil sampling methods used to be described in the ISO 10381 series which has been technically and
 structurally revised and replaced by the ISO 18400-1ff series. ISO 18400 is currently in development and has, in
@@ -21,7 +22,8 @@ contrast to its precursor, a modular structure. Examples are the framework for a
 safety aspects (ISO 18400-103:2015) and quality control/assurance (ISO 18400-106:2015).
 
 
-### 3. ISO 15903:2000 - Soil quality - Format for recording soil and site information ![](/static/img/one_star.jpg)
+### ISO 15903:2000 ![](/static/img/one_star.jpg)
+#### Soil quality - Format for recording soil and site information
 
 This standard regulates the format and recording of soil information, including
 recommendations on sample design and -transport with the aim to “achieve a high degree
