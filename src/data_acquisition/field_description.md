@@ -1,7 +1,6 @@
 ---
 label: Field Soil Description and Soil Classification
 order: 90
-<link href="bonares.css" rel="stylesheet">
 ---
 # Field Soil Description and Soil Classification
 
@@ -147,20 +146,9 @@ to national law.
 
 *Table 1: Selected national standards in the field of soil description and classification*
 
-
-| **Standard**                                                                                                 | **Contents**                                                                                                                                                                                                                                                                                                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Germany: 2. bundesweite Bodenzustandserhebung Wald (BZE Wald II, Arbeitsanleitung), (Wellbrock, 2006)        | investigation of state and changes of forest soils, vegetation, treetops and forest nutrition at about 2000 sites                                                                                                                                                                                                                                                                            |
-| Germany: Forstliche Standortsaufnahme (Arbeitskreis_Standortkartierung, 2016)                                | national standard in the field of forest site survey, suited for functional use in the field, mentions federal state-specific differences                                                                                                                                                                                                                                                    |
-| USA: USDA-NRCS Field Book for Describing and Sampling Soils and US Soil Taxonomy (Schoeneberger et al. 2012) | summarizes the present science and type of describing and documenting soils and soilscapes in the USA. Intended to be used by professionals who describe soils for various purposes, includes key descriptors, conventions, and concepts from soil science and geomorphology, support for understanding soil descriptions and data of soil surveys and soil scientific research              |
-| UK: English and Welsh Soil Survey Field Handbook (Hodgson, 1997)                                             | technical guidelines for describing soil profiles                                                                                                                                                                                                                                                                                                                                            |
-| France: Guide pour la description des sols (Baize and Jabiol 1995)                                           | description of soils and their environment, one part deals with interpretation of soil observations in terms of e.g. pedogenesis and soil. The classic French soil classification system (Classification des sols, Commission de Pédologie et de Cartographie des Sols CPCS 1967) seems to be still in use, in particular in tropical and subtropical areas with French colonization history |
-| France: Référentiel Pédologique. (Baize and Girard 2009)                                                     | soil classification of the reference system type that is applicable world wide. In contrast to WRB, the system is open, i.e. classes can be added if the user may them deem necessary                                                                                                                                                                                                        |
-| Australia: Soil and Land Survey Field Handbook. (National_Committee_for_Soil_and_Terrain, 2009)              | follows a more landscape-oriented approach with extensive parts on landform, vegetation and land surface description. Includes short substrate classification, the soil description part resembles the English & Welsh handbook                                                                                                                                                              |
-
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
-<thead style="font-size: 24px;">
+<thead style="font-size: 24px; background-color: grey;">
 <tr>
 <th><strong>Standard</strong></th>
 <th><strong>Contents</strong></th>
