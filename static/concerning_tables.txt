@@ -1,0 +1,4 @@
+All tables are made with HTML tags and CSS styles,
+based on the sourcecode from the reytpe table.
+The reason for that is, retype didn´t include
+a feature where rows can be colored (24.10.2022, ReType V3.0.0)
