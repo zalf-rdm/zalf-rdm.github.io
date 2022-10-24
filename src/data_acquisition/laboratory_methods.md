@@ -53,34 +53,241 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>air permeability</td> <td>DIN 19682-9:2011</td>
+</tr>
 <tr style="background-color: #d3d3d3;">
-<td>air permeability</td>
-<td>DIN 19682-9:2011</td>
+<td>Al-oxides/hydroxides extraction (oxalate acid)</td> <td>ISO 12782-3:2012</td>
 </tr>
 <tr>
-<td> <strong>Germany:</strong> Forstliche Standortsaufnahme (Arbeitskreis_Standortkartierung, 2016)</td>
-<td>national standard in the field of forest site survey, suited for functional use in the field, mentions federal state-specific differences</td>
+<td>ammonium</td> <td>ISO/TS 14256-1:2003, -2:2005 </td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td><strong>USA:</strong> USDA-NRCS Field Book for Describing and Sampling Soils and US Soil Taxonomy (Schoeneberger et al. 2012)</td>
-<td>summarizes the present science and type of describing and documenting soils and soilscapes in the USA. Intended to be used by professionals who describe soils for various purposes, includes key descriptors, conventions, and concepts from soil science and geomorphology, support for understanding soil descriptions and data of soil surveys and soil scientific research</td>
+<td>carbon (TOC)</td> <td>ISO 14235:1998, ISO 10694:1995, EN 15936:2012, DIN 18128:2002</td>
 </tr>
 <tr>
-<td><strong>UK:</strong> English and Welsh Soil Survey Field Handbook (Hodgson, 1997)</td>
-<td>technical guidelines for describing soil profiles</td>
+<td>carbonate</td> <td>ISO 10693:1995, DIN 19682-13:2009</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td><strong>France:</strong> Guide pour la description des sols (Baize and Jabiol 1995)</td>
-<td>description of soils and their environment, one part deals with interpretation of soil observations in terms of e.g. pedogenesis and soil. The classic French soil classification system (Classification des sols, Commission de Pédologie et de Cartographie des Sols CPCS 1967) seems to be still in use, in particular in tropical and subtropical areas with French colonization history</td>
+<td>cation exchange capacity</td> <td>(CEC) ISO 11260:1994</td>
 </tr>
 <tr>
-<td><strong>France:</strong> Référentiel Pédologique. (Baize and Girard 2009)</td>
-<td>soil classification of the reference system type that is applicable world wide. In contrast to WRB, the system is open, i.e. classes can be added if the user may them deem necessary</td>
+<td>color</td> <td>DIN 19682-1:2007/td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td><strong>Australia:</strong> Soil and Land Survey Field Handbook. (National_Committee_for_Soil_and_Terrain, 2009)</td>
-<td>follows a more landscape-oriented approach with extensive parts on landform, vegetation and land surface description. Includes short substrate classification, the soil description part resembles the English &amp; Welsh handbook</td>
+<td>compression stress</td> <td>ISO 17892-5:2014</td>
+</tr>
+<tr>
+<td>DNA extraction</td> <td>ISO 11063:2012</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>dry bulk density</td> <td>ISO 11272:1998, ISO 17892-2:2015</td>
+</tr>
+<tr>
+<td>dry matter fraction</td> <td>EN 15934:2012</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>ecotoxicological characterization</td> <td>ISO 15799:2003</td>
+</tr>
+<tr>
+<td>electrical conductivity</td> <td>ISO 11265:1994</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>
+<p>(trace) element contents (total, dissolution) </p> 
+<p>
+(DTPA solution) <br>
+(Aqua Regia extraction) <br>
+(X-ray fluorescence) <br>
+(ICP-AES -spectroscopy) <br>
+(dilute nitric acid) <br>
+(ammonium nitrate)
+</p>
+</td>
+<td>
+<p>ISO 14869-1:2001, -2:2002</p>
+<br>
+<p>
+ISO 14870:2001 <br>
+ISO 11466:1995, ISO 11047:2003 <br>
+ISO 13196:2013, DIN EN 15309:2007 <br>
+ISO 22036:2008 <br>
+ISO 17586:2016 <br>
+ISO 19730:2008
+</p>
+</td>
+</tr>
+<tr>
+<td>exchangeable acidity</td> <td>ISO 14254:2001</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>Fe-oxides/hydroxides extraction/ions</td> <td>ISO 12782-1:2012, -2:2012,
+DIN 19682-13:2009</td>
+</tr>
+<tr>
+<td>humic substances extraction</td> <td>ISO 12782-4:2012, -5:2012</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>hydraulic conductivity</td> <td>ISO 11275:2004, DIN 19682-8:2012</td>
+</tr>
+<tr>
+<td>infiltration rate</td> <td>DIN 19682-7:2015</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td><p>microbial abundance and activity</p>
+<p>biomass <br>
+diversity</p></td>
+<td><p>ISO 17155:2012</p>
+<p>ISO 14240-1:2011, -2:2011 <br>
+ISO/TS 29843-1:2014, -2:2014</p></td>
+</tr>
+<tr>
+<td>nitrate, nitrite</td> <td>ISO/TS 14256-1:2003</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>nitrification (potential)</td> <td>ISO 15685:2012</td>
+</tr>
+<tr>
+<td><p>nitrogen (mineral, nitrate and ammonium)</p>
+<p>(nitrate, ammonium, solute) </p>
+<p>(total)</p></td>
+<td><p>DIN 19746:2005</p>
+<br>
+<p>ISO 14255:1998 </p>
+<p>ISO 11261:1995, ISO 13878:1998, ISO 25663:1993</p></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>nutrient supply condition</td> <td>DIN 19707:2004</td>
+</tr>
+<tr>
+<td>pH</td> <td>ISO 10390:2005, DIN 19682-13:2009, ASTM-E1910</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>particle density</td> <td>ISO 17892-3:2015</td>
+</tr>
+<tr>
+<td>phosphorus</td> <td>ISO 11263:1996</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>pore water pressure</td> <td>ISO 11276:1995</td>
+</tr>
+<tr>
+<td>sampling of soil invertebrates</td> <td>ISO 23611 (1-6)</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>shear strength</td> <td>ISO 17892-6:2014</td>
+</tr>
+<tr>
+<td>soil structure</td> <td>DIN 19682-10:2014</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil texture</td>
+<td>ISO 11277:1998, ISO 17892-4:2014, <br>
+DIN 18123:2011, DIN 19682-2:2014, <br>
+DIN 66115:1983</td>
+</tr>
+<tr>
+<td>Sulfide</td> <td>DIN 19682-13:2009</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>sulfur (total)</td> <td>ISO 15178:2000</td>
+</tr>
+<tr>
+<td>thermal conductivity</td> <td>ISO 17628:2015</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>water retention</td> <td>ISO 11274:1998</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+<br>
+
+### VDLUFA Method Book “The Investigation of Soils” ![](/static/img/two_star.jpg)
+!!!secondary
+(Methodenbuch “Die Untersuchung von Böden”, VDLUFA, 2016)
+!!!
+
+Loose-leaf collection with seven supplements (1991-2016) . One of the main issues of VDLUFA
+(Association of German Agricultural Analytic and Research Institutes) is to establish uniform methods
+and evaluation principles in agricultural research. The methods book treats analysis on soil quality for
+agricultural issues, including methods which are not (yet) described in international ISO standards. The
+methods include sampling, determination of total element contents, characterization of organic
+matter, and many other soil chemical and physical analyses and field methods (Table 3).
+
+<br>
+
+_Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Book (VDLUFA, 2016)_ ![](/static/img/two_star.jpg)
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead style="font-size: 24px; background-color: grey;">
+<tr>
+<th><strong>Parameter</strong></th>
+<th><strong>Chapter</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr style="text-align: right;"><td>Chemical analyses (Section A)</td></tr>
+<tr style="background-color: #d3d3d3;">
+<td>air permeability</td> <td>DIN 19682-9:2011</td>
+</tr>
+<tr>
+<td>Al-oxides/hydroxides extraction (oxalate acid)</td> <td>ISO 12782-3:2012</td>
+</tr>
+<tr  style="background-color: #d3d3d3;">
+<td>ammonium</td> <td>ISO/TS 14256-1:2003, -2:2005 </td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br>
+
+### Laboratory Methods for Soil Testing ![](/static/img/one_star.jpg)
+!!!secondary
+("Labormethoden-Dokumentation", Utermann et al., 2000)
+!!!
+
+This method book contains preferred analytical procedures for investigation of the most important soil
+parameters. This selection was discussed and agreed with the Geological Surveys of the Federal States
+in Germany. It was designed as a method database containing descriptions of analytical procedures,
+references to existing standards and method codes that link methods with analytical results in the
+laboratory database of the Federal Institute for Geosciences and Natural Resources (BGR). Information
+about the application range of analytical methods, plausibility of analytical results, restrictions, and
+common sources of errors are given in this documentation of laboratory methods.
+
+
+### Handbook of Forestal Analytics, GAFA 
+!!!secondary
+(Handbuch Forstliche Analytik, HFA)
+!!!
+!!!secondary
+(2005, suppl.1–5, 2014)
+!!!
+
+Loose-leaf collection with 5 supplements containing harmonized analytical methods for the resources
+soil/humus, plant and water in forest context, starting from sample preparation up to determination
+of physical and chemical parameters. Moreover the handbook provides a customized method coding
+system that was developed in order to enable complex documentation of analytical methods in a
+database and to make them evaluable and interoperable. Analytical methods and method codification
+are applied for the National Forest Soil Inventory in Germany and for Environmental monitoring in
+Europe. Several methods are based on accepted national and international standards (DIN, EN, ISO),
+which is tagged in the handbook. If there are deviations from certain standards, these are marked as
+well.
+
+<br>
+
+_Conflicts and solutions_
+
+Soil analytical methods which are described within VDLUFA Method Book are considered to be national
+standards. In Germany the VDLUFA Method Books for soil analyses are established as standard field
+and lab methods for soil quality analyses on national scale and compete with existing other national
+standards and ISO standards. Numerous soil analytical laboratories in Germany use these methods for
+a long time to ensure comparability of national data. However national standards may complicate data
+transfer to international databases and reduce comparability of data sets in international contexts.
+The future challenge will be to develop transfer procedures for soil quality methods and results within
+different countries. The establishment of an international IT-infrastructure on soil and agricultural data
+could be an important step on this process.
+The authors can give support to find and use derivation tools (if any exist) to transfer data that was
+acquired according to national standards into international standards (see Chapter 2.3).
