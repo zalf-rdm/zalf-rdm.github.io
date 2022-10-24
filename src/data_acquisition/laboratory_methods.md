@@ -230,13 +230,17 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 <tbody>
 <tr style="text-align: right;"><td>Chemical analyses (Section A)</td></tr>
 <tr style="background-color: #d3d3d3;">
-<td>air permeability</td> <td>DIN 19682-9:2011</td>
+<td>Ammonium</td> <td>A 6.1.2, 8.2</td>
 </tr>
 <tr>
-<td>Al-oxides/hydroxides extraction (oxalate acid)</td> <td>ISO 12782-3:2012</td>
+<td>boron (plant available)</td> <td> A 7.1</td>
 </tr>
 <tr  style="background-color: #d3d3d3;">
-<td>ammonium</td> <td>ISO/TS 14256-1:2003, -2:2005 </td>
+<td>carbonate (total, demand)</td> <td>A 5.3, 5.2</td>
+</tr>
+<tr style="text-align: right;"><td>Physical analyses (Section C)</td></tr>
+<tr style="background-color: #d3d3d3;">
+<td>bulk density</td> <td>C 1.3</td>
 </tr>
 </tbody>
 </table>
