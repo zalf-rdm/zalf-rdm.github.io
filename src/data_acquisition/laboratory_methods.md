@@ -48,14 +48,14 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: grey;">
 <tr>
+<th><strong>Soil quality parameter</strong></th>
 <th><strong>Standard</strong></th>
-<th><strong>Contents</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr style="background-color: #d3d3d3;">
-<td><strong>Germany:</strong> 2. bundesweite Bodenzustandserhebung Wald (BZE Wald II, Arbeitsanleitung), (Wellbrock, 2006)</td>
-<td>investigation of state and changes of forest soils, vegetation, treetops and forest nutrition at about 2000 sites</td>
+<td>air permeability</td>
+<td>DIN 19682-9:2011</td>
 </tr>
 <tr>
 <td> <strong>Germany:</strong> Forstliche Standortsaufnahme (Arbeitskreis_Standortkartierung, 2016)</td>
