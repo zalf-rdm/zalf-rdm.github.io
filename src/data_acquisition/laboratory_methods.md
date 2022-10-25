@@ -239,10 +239,11 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 <tr  style="background-color: #d3d3d3;">
 <td>carbonate (total, demand)</td> <td>A 5.3, 5.2</td>
 </tr>
-<tr>CEC (potential)</td> <tr>A 9.1</td>
+<tr>
+<td>CEC (potential)</td> <td>A 9.1</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td> TEST</td> <td> TEST</td>
 </tr>
 <tr>
 <td></td>
