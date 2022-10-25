@@ -219,6 +219,7 @@ matter, and many other soil chemical and physical analyses and field methods (Ta
 <br>
 
 _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Book (VDLUFA, 2016)_ ![](/static/img/two_star.jpg)
+
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: grey;">
@@ -237,6 +238,74 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 </tr>
 <tr  style="background-color: #d3d3d3;">
 <td>carbonate (total, demand)</td> <td>A 5.3, 5.2</td>
+</tr>
+<tr></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
 </tr>
 <tr style="text-align: right;"><td>Physical analyses (Section C)</td></tr>
 <tr style="background-color: #d3d3d3;">
