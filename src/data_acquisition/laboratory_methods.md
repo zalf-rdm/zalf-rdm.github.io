@@ -316,22 +316,22 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 <td>compression stress</td> <td>C 7.3</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>load capacity</td> <td>C 7.4</td>
 </tr>
 <tr>
-<td></td>
+<td>permeability air/water</td> <td>C 6.1 / 5.11</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>pore size distribution</td> <td>C 4.3</td>
 </tr>
 <tr>
-<td></td>
+<td>sediment density</td> <td>C 1.2</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>soil texture</td> <td>C 2.2</td>
 </tr>
 <tr>
-<td></td>
+<td>soil water content</td> <td>C 1.1</td>
 </tr>
 </tbody>
 </table>
