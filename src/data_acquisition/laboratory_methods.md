@@ -243,74 +243,95 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 <td>CEC (potential)</td> <td>A 9.1</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td> TEST</td> <td> TEST</td>
+<td> copper (plant available)</td> <td> A 7.3</td>
 </tr>
 <tr>
-<td></td>
+<td> heavy metals, Aqua Regia  </td> <td> A 2.4.3.1</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td> humic substances, extraction, fractionation </td> <td>A 4.4.2</td>
 </tr>
 <tr>
-<td></td>
+<td> magnesium (plant available)</td> <td> A 6.2.4.1 </td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td> manganese (plant available) </td> <td> A 7.2</td>
 </tr>
 <tr>
-<td></td>
+<td>Mercury</td> <td> A 2.5.1</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>molybdenum (plant available)</td> <td>A 7.4</td>
 </tr>
 <tr>
-<td></td>
+<td>Nickel</td> <td>A 3.4.1</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>nitrogen (total), Kjehldahl</td> <td>A 2.2.1</td>
 </tr>
 <tr>
-<td></td>
+<td>nitrogen (plant available) nitrate, mineral-bound</td> <td>A 6.1.1, 6.1.4.1</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>pH</td> <td>A 5.1.1</td>
 </tr>
 <tr>
-<td></td>
+<td>phosphorus (total)</td> <td>A 2.4.2.1,</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>phosphorus (plant available)</td> <td>A 6.2.1.1, 6.2.1.2, 6.2.3.1</td>
 </tr>
 <tr>
-<td></td>
+<td>potassium (total)</td> <td>A 8.1</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>potassium (plant available)</td> <td>A 6.2.1.2, 6.2.1.7</td>
 </tr>
 <tr>
-<td></td>
+<td>radio nuclides</td> <td>A 12.2</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>Salinity</td> <td>A 10.1.1</td>
 </tr>
 <tr>
-<td></td>
+<td>sodium (plant available)</td> <td>A 6.2.5</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>soil organic matter (total)</td> <td>A 4.1</td>
 </tr>
 <tr>
-<td></td>
+<td>strontium (90Sr)</td> <td>A 12.1</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>sulfur (plant available)</td> <td>A 6.3.1</td>
 </tr>
 <tr>
-<td></td>
+<td>zinc (plant available)</td> <td>A 7.5</td>
 </tr>
 <tr style="text-align: right;"><td>Physical analyses (Section C)</td></tr>
 <tr style="background-color: #d3d3d3;">
 <td>bulk density</td> <td>C 1.3</td>
+</tr>
+<tr>
+<td>compression stress</td> <td>C 7.3</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+</tr>
+<tr>
+<td></td>
 </tr>
 </tbody>
 </table>
