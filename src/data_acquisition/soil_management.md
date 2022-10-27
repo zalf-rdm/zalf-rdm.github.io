@@ -35,7 +35,12 @@ erosion and prevent soil functions such as soil fertility as a contribution to a
 
 <br>
 
-### ICASA Data Standards for Agricultural Field Experiments and Production (Version 2.0, 2013)
+### ICASA 
+#### Data Standards for Agricultural Field Experiments and Production 
+
+!!!secondary
+Version 2.0, 2013)
+!!!
 
 Published by the International Consortium for Agricultural System Applications (ICASA), it was set-up
 for documenting agricultural field experiments and modeling crop growth and development. It is used
@@ -44,7 +49,8 @@ standard is XML and was assessed by the FAO (White et al., 2013).
 
 <br>
 
-### NRCS (Natural Resources Conservation Service)
+### NRCS 
+#### Natural Resources Conservation Service
 
 This service provides numerous technical guidelines and conservation practice standards for soil and
 water conservation in agriculture. Examples are Terraces (Code 600), Grassed Waterways (Code 412),
@@ -70,7 +76,8 @@ and BBodSchV do not go into detail but are frameworks for more detailed policies
 
 <br>
 
-### WOCAT (World Overview of Conservation Approaches and Technologies)
+### WOCAT 
+##### World Overview of Conservation Approaches and Technologies
 
 WOCAT is a global network. It supports decision-making processes for best management practices and
 sustainable land management and aims to unite the efforts in knowledge management and decision
