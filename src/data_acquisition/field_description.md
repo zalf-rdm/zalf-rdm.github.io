@@ -148,7 +148,7 @@ to national law.
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
-<thead style="font-size: 24px; background-color: grey;">
+<thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
 <th><strong>Standard</strong></th>
 <th><strong>Contents</strong></th>

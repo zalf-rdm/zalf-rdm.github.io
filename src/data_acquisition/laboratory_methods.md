@@ -46,7 +46,7 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
-<thead style="font-size: 24px; background-color: grey;">
+<thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
 <th><strong>Soil quality parameter</strong></th>
 <th><strong>Standard</strong></th>
@@ -222,7 +222,7 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
-<thead style="font-size: 24px; background-color: grey;">
+<thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
 <th><strong>Parameter</strong></th>
 <th><strong>Chapter</strong></th>
