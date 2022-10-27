@@ -17,7 +17,7 @@ _Overview of existing standards_
 
 ### Association for Technologies and Structures in Agriculture (KTBL), Germany
 
-The handbook “Operation Planning Agriculture 2014/15“ (KTBL, 2014) provides methodical
+The handbook “Operation Planning Agriculture 2014/15“![](/static/img/two_star.jpg)(KTBL, 2014) provides methodical
 information on soil management questions. For soil management sequences, key parameters for
 economic success and costs per unit agricultural products are listed. The Pocket Book Agriculture
 (KTBL, 2015) provides, beside others, information on agricultural machines, prices for services and
@@ -27,7 +27,7 @@ of Soil Tillage and Management Systems”.
 
 <br>
 
-### Good Agricultural Practice (GAP)
+### Good Agricultural Practice (GAP) ![](/static/img/two_star.jpg)
 
 GAP for soil management are national and international commitments and principles to reduce soil
 erosion and prevent soil functions such as soil fertility as a contribution to assure food security (FAO,
@@ -35,7 +35,7 @@ erosion and prevent soil functions such as soil fertility as a contribution to a
 
 <br>
 
-### ICASA 
+### ICASA ![](/static/img/one_star.jpg)
 #### Data Standards for Agricultural Field Experiments and Production 
 
 !!!secondary
@@ -49,7 +49,7 @@ standard is XML and was assessed by the FAO (White et al., 2013).
 
 <br>
 
-### NRCS 
+### NRCS ![](/static/img/one_star.jpg)
 #### Natural Resources Conservation Service
 
 This service provides numerous technical guidelines and conservation practice standards for soil and
