@@ -13,26 +13,29 @@ _Overview of existing standards_
 
 <br>
 
-### Crop varieties (Bundessortenamt 2015) ![](/static/img/two_star.jpg)
+### Crop varieties  ![](/static/img/two_star.jpg)
+#### (Bundessortenamt 2015)
 
 The Federal Plant Variety Office (BSA) provides descriptive variety lists e.g. for cereals, maize, oil and fiber plants (Bundessortenamt, 2015). 
 The BSA frequently sends variety names and codes to the International Union for the Protection of New Varieties of Plants (UPOV).
 
-### Directive for agricultural value analyses and variety trials (Bundessortenamt, 2000) ![](/static/img/two_star.jpg)
+### Directive for agricultural value analyses and variety trials ![](/static/img/two_star.jpg)
+#### (Bundessortenamt, 2000) 
 
 In Germany several professional, rating methods (“Boniturmethoden”) exist. Beside rating (“Bonitur”) different field crops
 it additionally provides recommendations on sowing dates, amounts and periods and densities, plant maintenance, fertilization, 
 and soil and plant sampling for lab analyses. The State Offices of Germany regularly published recommendations for numerous
 agricultural products, e.g. maize, pasture grass and soy beans.
 
-### EU Regulation No. 2003/2003 (European Parliament and of the Council relating to fertilizers) ![](/static/img/two_star.jpg)
+### EU Regulation No. 2003/2003 ![](/static/img/two_star.jpg)
+#### (European Parliament and of the Council relating to fertilizers) 
 
 The regulation treats all issues which are connected with fertilizers. In Annex IV numerous methods of
 samplings and laboratory analysis of fertilizers are given. 
 
 ### European Plant Protection Organization (EPPO) ![](/static/img/two_star.jpg)
 
-The EPPO provides numerous free available code lists and standards and guidelines on pest risk, plant protection products, risk assessment and diagnostic.
+The [EPPO](https://www.eppo.int) provides numerous free available code lists and standards and guidelines on pest risk, plant protection products, risk assessment and diagnostic.
 
 ### VDLUFA Method Books, manure and fertilizing regulations ![](/static/img/two_star.jpg)
 
@@ -40,12 +43,14 @@ Similar to soil management, crops, crop protection and fertilizing are predomina
 While the legal fertilizing regulation in Germany (DüV, Bundesministerium der Justiz und für Verbraucherschutz, 2006) only
 treats nitrogen and phosphorus, VDLUFA Method Books volumes II.1 and II.2 (VDLUFA, 2016) deal with all other relevant soil nutrients.
 
-### Cross-compliance (COUNCIL OF THE EUROPEAN UNION, 2009)
+### Cross-compliance 
+#### (COUNCIL OF THE EUROPEAN UNION, 2009)
 
 Cross-compliance mechanisms link payments to farmers with requirements on plant, animal and soil
 protection.
 
-### Water Framework Directive (COUNCIL OF THE EUROPEAN UNION, 2000)
+### Water Framework Directive 
+#### (COUNCIL OF THE EUROPEAN UNION, 2000)
 
 The directive addresses, beside others, the water pollution by nitrates from agriculture, and is thus a
 legal framework for agricultural activities on crop protection and fertilization.
@@ -56,15 +61,15 @@ It regulates the protection of field crops and agricultural products against har
 damages for plants, animals, natural systems and humans from the agriculture (Bundesministeriums der Justiz und für Verbraucherschutz, 2012).
 
 _Further standards_ ![](/static/img/two_star.jpg)
-- For the investigation of the yield structure the determination of the mass of 1000 grains is a common approach, which is defined in EN ISO 520:2010.
-- In the field of seed testing, standard procedures are published by the International Seed Testing Association (ISTA)
-- VDI 3957-1:2014 describes biomonitoring as a method to determine and assess air pollutants effects on plants.
-- The determination mass per hectoliter (bulk density or “Schüttdichte”) of grain is described in ISO 7971-1ff series.
-- DIN 19707:2004 is used to determine fertilizing requirements and defines target values for different crops and soil texture types.
-- The determination of components of grain which does not belong to the good cultivated grain (=”Besatz”) is regulated in DIN EN 15587:2014.
-- The DIN 18916:2016-06 includes activities on agricultural plant and soil works including mulch (which inhibits evapotranspiration) and measures against wildlife.
+- For the investigation of the yield structure the determination of the mass of 1000 grains is a common approach, which is defined in **EN ISO 520:2010**.
+- In the field of seed testing, standard procedures are published by the International Seed Testing Association ([ISTA](https://www.seedtest.org/en/home.html))
+- **VDI 3957-1:2014** describes biomonitoring as a method to determine and assess air pollutants effects on plants.
+- The determination mass per hectoliter (bulk density or “Schüttdichte”) of grain is described in **ISO 7971-1ff series**.
+- **DIN 19707:2004** is used to determine fertilizing requirements and defines target values for different crops and soil texture types.
+- The determination of components of grain which does not belong to the good cultivated grain (=”Besatz”) is regulated in **DIN EN 15587:2014**.
+- The **DIN 18916:2016-06** includes activities on agricultural plant and soil works including mulch (which inhibits evapotranspiration) and measures against wildlife.
 
 _Conflicts and solutions_
 
-Binding European regulations on seed saving and reproduction. European seed certification agencies (ESCAA) works on the 
-harmonization between national certifications and EU legislation.
+Binding European regulations on seed saving and reproduction. European seed certification agencies ([ESCAA](http://www.escaa.org)) 
+works on the harmonization between national certifications and EU legislation.
