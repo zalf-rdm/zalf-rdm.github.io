@@ -95,6 +95,12 @@ The quality management system (QMS) is closely coupled to **ISO 9000ff** and **I
 focusing on the management aspect to achieve costumer’s satisfaction. The **DIN 55350** series describes concepts and definitions
 in quality and statistics. Examples are:
 
-**EN ISO 9001:2015** contains the general requirements for the competence to carry out tests and / or calibrations, including sampling. It refers to tests and calibrations that are based on specified in normative documents methods of methods that are not defined in normative documents, and those that were developed in the laboratory (ISO/IEC 17025:2005). ISO 9001 specifies requirements for a QMS. 
-**EN ISO 9004:2009** gives guidance on a wider range of objectives of a QMS, for long-term success and improved performance. These standards can be applied to support organizations to develop a coherent quality management system. Guidelines for technical subjects in support of QMS are provided by e.g. ISO 10005, 10006, 10007, 10014, and 19011.    
-**EN ISO 10012:2003** defines measurement processes and emphasizes the requirement of suitable equipment for an effective measurement management system. It aims to control risks of wrong data and results. Other management systems are given in the EN ISO 14001ff (Environmental management systems) and EN ISO 50001 (Energy management system).
+**EN ISO 9001:2015** contains the general requirements for the competence to carry out tests and / or calibrations, including sampling. 
+It refers to tests and calibrations that are based on specified in normative documents methods of methods that are not defined in normative documents,
+and those that were developed in the laboratory (ISO/IEC 17025:2005). ISO 9001 specifies requirements for a QMS.        <br>
+**EN ISO 9004:2009** gives guidance on a wider range of objectives of a QMS, for long-term success and improved performance. 
+These standards can be applied to support organizations to develop a coherent quality management system. 
+Guidelines for technical subjects in support of QMS are provided by e.g. ISO 10005, 10006, 10007, 10014, and 19011.     <br> 
+**EN ISO 10012:2003** defines measurement processes and emphasizes the requirement of suitable equipment for an effective
+measurement management system. It aims to control risks of wrong data and results. Other management systems are given
+in the EN ISO 14001ff (Environmental management systems) and EN ISO 50001 (Energy management system).                   <br>

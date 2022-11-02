@@ -20,7 +20,6 @@ as well as samples for ex-situ observations. The schema includes relationships b
 
 _Table 6: Recommended data conventions (Standard for general and geographic data)_ <img src="/static/img/two_star.jpg" width="60" valign="bottom" >
 
-
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: #A8A8A8">
