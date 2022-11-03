@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.719996480071">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.720801336678">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -11,6 +11,7 @@
     <!-- Primary Meta Tags -->
     <title>Data Transformation</title>
     <meta name="title" content="Data Transformation">
+    <meta name="description" content="A data transformation is the process of reorganizing or restructuring data from the source format into destination data" />
 
     <!-- Canonical -->
     <link rel="canonical" href="https://zalf-rdm.github.io/data_management/data_transformation/" />
@@ -19,20 +20,24 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://zalf-rdm.github.io/data_management/data_transformation/">
     <meta property="og:title" content="Data Transformation">
+    <meta property="og:description" content="A data transformation is the process of reorganizing or restructuring data from the source format into destination data">
+    <meta property="og:image" content="https://zalf-rdm.github.io/static/img/two_star.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://zalf-rdm.github.io/data_management/data_transformation/">
     <meta property="twitter:title" content="Data Transformation">
+    <meta property="twitter:description" content="A data transformation is the process of reorganizing or restructuring data from the source format into destination data">
+    <meta property="twitter:image" content="https://zalf-rdm.github.io/static/img/two_star.jpg">
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/img/favicon.png" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.719996480071" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.720801336678" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.719996480071" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.720801336678" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.719996480071" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.720801336678" data-turbo-eval="false" defer></script>
 
     <link href="/static/bonares.css" rel="stylesheet" />
 </head>
@@ -210,6 +215,59 @@
         <span>Data Transformation</span>
     </h1>
 </doc-anchor-target>
+<p>A data transformation is the process of reorganizing or restructuring data from the source format into destination data
+format in order to enhance data usability. When data are obtained by national standard methods or classified by national
+systems they may need to be transferred into international classification systems. Gaps in data-sets could preclude the
+direct use within models and thus require gap-filling methods.</p>
+<br>
+<p><em>Overview of existing standards and tools</em></p>
+<br>
+<doc-anchor-target id="transformation-tool-for-the-5th-edition-of-the-german-soil-survey-guidelines-ka5">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#transformation-tool-for-the-5th-edition-of-the-german-soil-survey-guidelines-ka5">#</doc-anchor-trigger>
+        <span>Transformation tool for the 5th edition of the German Soil Survey Guidelines (KA5)  <img src="../../static/img/two_star.jpg" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>The revision of the German Soil Survey Guidelines resulted in a modified data encoding and classification of soils.
+For the transformation of soil data from a previous towards the following edition of the German Soil Survey Guidelines
+a software tool has been developed by the Federal Institute for Geosciences and Natural Resources (BGR) in cooperation
+with the Geological Surveys of the German federal states. It enables the translation of horizon symbols and derivation
+of soil systematic units based on the horizon data, as well as translation of substrate types and substrate systematic units. This software tool is available for the transformation of data recorded according to the 3rd edition of the German Soil Survey Guideline (KA3) towards its 4th edition (KA4) and KA4 towards KA5. The function for derivation of soil systematic units according to the German soil classification is only implemented in the last-mentioned version (KA4/KA5). A free download for both versions is provided on the homepage of BGR.</p>
+<br>
+<doc-anchor-target id="derivation-tool-ka5-2005-to-wrb-2007">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#derivation-tool-ka5-2005-to-wrb-2007">#</doc-anchor-trigger>
+        <span>Derivation tool - KA5 (2005) to WRB (2007)  <img src="../../static/img/two_star.jpg" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>The BGR devised a software tool to derivate international common soil notations (WRB 2006, update 2007) from soil data,
+which were acquired according to the German Soil Survey Guidelines. However, criteria for the determination of distinct
+diagnostic and naming elements of the WRB classification system are very complex. For each of these elements a graphic algorithm
+has been developed that refers directly to parameters of the KA5-nomenclature and selective laboratory values.
+Feasible input data (arrays of KA5- and laboratory parameters) are interrogated in order of decreasing reliability.
+If less appropriate arrays have to be used for derivation of WRB-names, this is documented in a report for the user in order
+to prove the results’ quality. The application is currently in further development: The next edition is aimed to derive soil
+notation according to WRB 2014, update 2015.</p>
+<br>
+<doc-anchor-target id="transformation-tool-for-soil-assessment-data">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#transformation-tool-for-soil-assessment-data">#</doc-anchor-trigger>
+        <span>Transformation tool for Soil Assessment data <img src="../../static/img/two_star.jpg" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>A software tool for the transformation of Soil Assessment data (”Bodenschaetzungsdaten”) into the nomenclature of
+the German Soil Survey Guidelines (4th edition) has been developed by the Geological Survey of Lower Saxony (LBEG).
+It is also used by some other federal states. This software tool enables transformation of certain soil features
+(substrate type, soil color, humus content) into KA4-nomenclature. Horizon symbols and soil types are derived on basis
+of the transformed features. For further information see Bartsch et al. (2003), Engel and Mithöfer (2003) and (Hangen and Förster, 2013)</p>
+<br>
+<p><em>Other transfer functions</em></p>
+<ul>
+<li>a taxotransfer scheme allows to estimate missing soil properties based on taxon information (Batjes, 2016).
+Such a tool was developed for the SOTER database and is used to fill gaps by a defined procedure (Batjes, 2003).</li>
+<li>numerous pedotransfer functions (PTFs) using basic soil properties such as pH, texture and/or bulk density to model
+non-measured soil properties or soil functions. Van Looy et al. (2017) evaluate PTFs and outline perspectives for their development and applications</li>
+</ul>
 
                                 
                                 <!-- Required only on API pages -->
