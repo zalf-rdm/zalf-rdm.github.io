@@ -48,7 +48,7 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
-<th><strong>Soil quality parameter</strong></th>
+<th style="width: 300px;"><strong>Soil quality parameter</strong></th>
 <th><strong>Standard</strong></th>
 </tr>
 </thead>
@@ -94,20 +94,23 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>
-<p>(trace) element contents (total, dissolution) </p> 
 <p style="text-align: center;">
-(DTPA solution) <br>
-(Aqua Regia extraction) <br>
-(X-ray fluorescence) <br>
-(ICP-AES -spectroscopy) <br>
-(dilute nitric acid) <br>
-(ammonium nitrate)
+(trace) element contents </p> 
+<p style="text-align: center;">
+total, dissolution <br>
+DTPA solution <br>
+Aqua Regia extraction <br>
+X-ray fluorescence <br>
+ICP-AES -spectroscopy <br>
+dilute nitric acid <br>
+ammonium nitrate
 </p>
 </td>
 <td>
-<p>ISO 14869-1:2001, -2:2002</p>
+<p></p>
 <br>
 <p>
+ISO 14869-1:2001, -2:2002 <br>
 ISO 14870:2001 <br>
 ISO 11466:1995, ISO 11047:2003 <br>
 ISO 13196:2013, DIN EN 15309:2007 <br>
