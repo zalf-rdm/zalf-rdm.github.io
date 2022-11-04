@@ -107,7 +107,7 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 <td>
 <p>ISO 14869-1:2001, -2:2002</p>
 <br>
-<p>
+<p style="text-align: center;">
 ISO 14870:2001 <br>
 ISO 11466:1995, ISO 11047:2003 <br>
 ISO 13196:2013, DIN EN 15309:2007 <br>
