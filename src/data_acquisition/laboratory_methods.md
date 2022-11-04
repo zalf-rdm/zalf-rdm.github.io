@@ -95,7 +95,7 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 <tr style="background-color: #d3d3d3;">
 <td>
 <p>(trace) element contents (total, dissolution) </p> 
-<p>
+<p style="text-align: center;">
 (DTPA solution) <br>
 (Aqua Regia extraction) <br>
 (X-ray fluorescence) <br>
@@ -107,7 +107,7 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 <td>
 <p>ISO 14869-1:2001, -2:2002</p>
 <br>
-<p style="text-align: center;">
+<p>
 ISO 14870:2001 <br>
 ISO 11466:1995, ISO 11047:2003 <br>
 ISO 13196:2013, DIN EN 15309:2007 <br>
