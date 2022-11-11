@@ -29,20 +29,135 @@ _Table 6: Recommended data conventions (Standard for general and geographic data
 </tr>
 </thead>
 <tbody>
+<tr style="text-align: center;"><td>Data General</td></tr>
+<tr style=" background-color: #d3d3d3">
+<td>Alphabet (Latin) -8-bit single-byte coded graphic character set</td>	
+<td>ISO/IEC 8859-1:1998</td>
+</tr>
 <tr>
-<td></td>
+<td>ASCII (American Standard Code for Information Interchange), 7-bit</td>
+<td>ISO/IEC 646:1991</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
-<td></td>
+<td>Country codes, Region codes</td>
+<td>ISO 3166-1:2013 and ISO 3166-2:2013</td>
 </tr>
 <tr>
-<td></td>
+<td>Data Types</td>
+<td>ISO/IEC 11404:2007</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
-<td></td>
+<td>Dates and times representation (interchange formats)</td>
+<td>ISO 8601:2004</td>
 </tr>
 <tr>
-<td></td>
+<td>Languages</td>
+<td>E DIN 2335:2014</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Meteorological parameter e.g. air pressure (kPa), relative humidity (%) and wind velocity (m/s)</td>
+<td>ISO 4226:2007 </td>
+</tr>
+<tr>
+<td>SI-units <br>
+Unit names <br>
+Unit symbols</td>
+<td>EN ISO 80000-1:2013 <br>
+DIN 1301-1:2010 <br>
+DIN 1313:1998 <br>
+</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Territorial units</td>
+<td>NUTS (EUROSTAT statistics)</td>
+</tr>
+<tr>
+<td>Universal coded character set</td>
+<td>ISO/IEC 10646:2014</td>
+</tr>
+<tr style="text-align: center;"><td>Geographic General</td></tr>
+<tr style=" background-color: #d3d3d3">
+<td>Application schema (rules)</td>
+<td>ISO/DIS 19109:2013</td>
+</tr>
+<tr>
+<td>Conformance</td>
+<td>EN ISO 19105:2005</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Coverage standards</td>
+<td>EN ISO 19123:2007</td>
+</tr>
+<tr>
+<td>Data product specifications</td>
+<td>EN ISO 19131:2008</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Encoding</td>
+<td>EN ISO 19118:2011</td>
+</tr>
+<tr>
+<td>Feature cataloguing</td>
+<td>ISO/DIS 19110:2013</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Filter encoding</td>
+<td>EN ISO 19143:2012</td>
+</tr>
+<tr>
+<td>Imagery and Gridded data</td>
+<td>ISO/TR 19121:2000</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Item Registration</td>
+<td>EN ISO 19135:2015</td>
+</tr>
+<tr>
+<td>Observation and measurements</td>
+<td>EN ISO 19156:2013</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Point location by coordinates</td>
+<td>EN ISO 6709:2009</td>
+</tr>
+<tr>
+<td>Positioning service</td>
+<td>EN ISO 19116:2006</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Profiles</td>
+<td>EN ISO 19106:2006</td>
+</tr>
+<tr>
+<td>Reference Model and System</td>
+<td>EN ISO 19101-1:2014 <br>
+DIN 18709-6:2016
+</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Simple Feature Access</td>
+<td>EN ISO 19125-2:2006</td>
+</tr>
+<tr>
+<td>Spatial referencing by coordinates (geodetic reference systems) <br>
+(ISO 19111)     
+</td>
+<td>WGS84 <br>
+ETRS89 <br>
+GRS80 
+</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Spatial referencing by geographic identifier</td>
+<td>EN ISO 19112:2005</td>
+</tr>
+<tr>
+<td>Spatial schema</td>
+<td>EN ISO 19107:2005</td>
+</tr>
+<tr style=" background-color: #d3d3d3">
+<td>Temporal schema</td>
+<td>EN ISO 19108:2005</td>
 </tr>
 </tbody>
 </table>

@@ -95,9 +95,11 @@ _Table 5: Standards and guidelines for methodological approaches_ ![](/static/im
 <td>ISO/TR 14047:2012</td>
 </tr>
 <tr>
-<td>Environmental management - Life cycle assessment- Requirements & Guidelines 
+<td> <p>Environmental management - Life cycle assessment- Requirements & Guidelines </p>
 (refers to the environmental aspects and potential environmental impacts e.g. resource use and impact of emissions over the product life cycle from raw material acquisition through production, use, waste treatment, recycling to final disposal)</td>
-<td>EN ISO 14044:2006</td>
+<td>
+<div style="padding-bottom: 160px">EN ISO 14044:2006</div>
+</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>Environmental management - Life cycle assessment- Principles & Framework</td>
@@ -112,14 +114,20 @@ _Table 5: Standards and guidelines for methodological approaches_ ![](/static/im
 </tr>
 <tr>
 <td> <p style="text-align: center;">Resource efficiency</p>
-<p style="text-align: center;"> - Methodical principles and strategies and <br>
-- Raw Materials</p></td>
+<p style="text-align: center;"> 
+Methodical principles and strategies <br>
+Raw Materials
+</p>
+</td>
 <td>
+<div style="text-align: center; padding-top: 20px;">
 VDI 4800-1:2016 <br>
-VDI 4800-2:2016</td>
+VDI 4800-2:2016
+</div>
+</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>Stakeholder Engagement - Guidelines for decision making processes dealing with climate change (REGKLAM project)</td>
+<td>Stakeholder Engagement - Guidelines for decision-making processes dealing with climate change (REGKLAM project)</td>
 <td>DIN SPEC 35810:2014 </td>
 </tr>
 <tr>
