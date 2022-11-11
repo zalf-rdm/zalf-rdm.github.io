@@ -4,7 +4,9 @@ order: 90
 ---
 # Field Soil Description and Soil Classification
 
-## Overview of existing standards
+<br>
+
+_Overview of existing standards_
 
 ### German Soil Survey Guidelines ![](/static/img/two_star.jpg)
 
@@ -28,6 +30,7 @@ A new edition is awaited (“KA6”, possibly in 2023) with improvements in the 
 notation, code lists and in the mapping part. The simplification of soil description (AHB) shall be included in the new
 edition.
 
+<br>
 
 ### World Reference Base for Soil Resources ![](/static/img/two_star.jpg)
 
@@ -44,6 +47,7 @@ units are differentiated. On the second level the RSG is described more precisel
 RSG a list with corresponding principal and supplementary Qualifiers is defined. Classification is done by using both
 levels via diagnostic horizons, materials and features.
 
+<br>
 
 ### DIN 19682-1ff ![](/static/img/one_star.jpg) 
 #### Soil Quality - Field Investigation 
@@ -54,6 +58,7 @@ soil structure (10) and decomposition level of peat soils (12)) are adopted from
 The other parts contain analytical methods for field-measurements of the following parameters: water infiltration rate (7), water and air permeability (8 & 9), 
 carbonates, sulfides, pH-value and iron(II)-ions (13). This German standard is often used in international soil studies and can be a helpful supplement for general soil descriptions in the field by **ISO 25177:2008**.
 
+<br>
 
 ### Guidelines Soil Assessment ![](/static/img/one_star.jpg)
 *(„Arbeitsanleitung neues Feldschätzungsbuch: Bodenschätzung”, Bundesministerium)* 
@@ -66,6 +71,7 @@ soil condition/development and the parent material of which the soil is composed
 results in a soil value (“Bodenwertzahl”). It expresses the relative net income that, under normal and proper management, 
 is determined only by the profitability of the soil. It is the basis for taxation of every plot used as crop- or grassland.
 
+<br>
 
 ### FAO Guidelines for Soil Description (FAO, 2006) ![](/static/img/one_star.jpg)
 
@@ -74,6 +80,7 @@ data necessary for classification according to second edition of the World Refer
 for Soil Resources (WRB, 2006). Notes for classification purposes are added to each chapte
 and explain the relevance of the described feature for classification according to the WRB.
 
+<br>
 
 ### ISO 25177:2008 ![](/static/img/one_star.jpg)
 #### Soil Quality – Field Soil Description 
@@ -92,6 +99,7 @@ provide guidelines or requirements for specific aspects of soil observation and
 measurements. Several parameters are mentioned that have to be observed for soil
 investigation and partially corresponding code lists are provided (Appendix, Table 10).
 
+<br>
 
 ### DIN 4220:2008-11 ![](/static/img/one_star.jpg)
 #### Pedologic Site Assessment - Designation, Classification and Deduction of Soil Parameters 
@@ -101,6 +109,7 @@ Survey Guidelines, for pedologic site assessment in various fields, e.g. agricul
 or water economy. It defines rules for procedures of soil survey in the field, classification
 and deduction of pedologic parameters.
 
+<br>
 
 ### DIN 19706 and DIN 19708 Soil erosion risk ![](/static/img/one_star.jpg)
 
@@ -108,6 +117,7 @@ National standards provide guidelines and determination keys to quantify the ris
 erosion by water (DIN 19708:2017) and wind (DIN 19706:2013). The DIN 19706 corresponds
 to the international “Universal Soil Loss Equation” USLE and its modifications.
 
+<br>
 
 ### DIN 19707:2004 ![](/static/img/one_star.jpg)
 #### Classification of the nutrient supply conditions of soil 
@@ -117,8 +127,11 @@ The classification is based on nitrogen, phosphorous, and potassium and can be u
 determine fertilizing requirements and defines target values for different crops and soil
 texture types.
 
+<br>
 
-## Conflicts and solutions (transformation and derivation tools)
+### Conflicts and solutions (transformation and derivation tools)
+
+<br>
 
 ### National
 
@@ -143,6 +156,8 @@ standards (e.g. DIN 4220) nor to replace them. It rather should facilitate soil 
 Europe. In principle, soil description is feasible according to ISO 25177 also for soils occurring in Germany. But for
 most national purposes the application of the German Soil Survey Guidelines is recommended or even mandatory, according
 to national law.
+
+<br>
 
 *Table 1: Selected national standards in the field of soil description and classification*
 
@@ -186,6 +201,8 @@ to national law.
 </tbody>
 </table>
 </div>
+
+<br>
 
 ### International
 

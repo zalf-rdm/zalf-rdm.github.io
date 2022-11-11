@@ -103,7 +103,7 @@ Management Standards).
 
 <br>
 
-_Conflicts and solutions_
+### Conflicts and solutions
 
 Some LTE in Germany were set-up within the former German Democratic Republic (GDR). In the GDR,
 so called “TGL standards” were applied for agricultural field experiments such as plant production

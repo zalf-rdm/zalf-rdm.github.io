@@ -73,22 +73,37 @@ interchange format, and a repository query interface.
 <br>
 
 ### XML (eXtended Markup Language)  ![](/static/img/two_star.jpg)
-This widespread and simple markup language defines rules for encoding human- and machine readable documents. XML schemas (XSD) are used to define XML document structures. XML is a basic tool for multiple data management and exchange applications.  
+This widespread and simple markup language defines rules for encoding human- and machine readable documents. XML schemas 
+(XSD) are used to define XML document structures. XML is a basic tool for multiple data management and exchange applications.  
 
 <br>
 
 ### XMI (XML Metadata Interchange, OMG)  ![](/static/img/two_star.jpg)
-XMI enables the metadata information exchange between software development tools. Based on XML-format, data can easily be produced, processed, stored and exchanged via internet.
+XMI enables the metadata information exchange between software development tools. Based on XML-format, data can easily be
+produced, processed, stored and exchanged via internet.
 
 <br>
 
-### ISO 28258:2013 Soil quality - Digital Exchange of soil-related data (SoilML)  ![](/static/img/one_star.jpg)
-This standard provides a generic, conceptual schema for soil-related data and the structural framework for the interoperable exchange of individually defined data. It contains a data model (following the rules of Unified Modeling Language UML) with (feature-) types that are generally applicable types with the aim of covering most of the individual, country or data provider specific types. Essential feature types included in the model are, e.g. Plot, Profile, Horizon or Layer. These feature types are defined in a feature catalogue, which is non-extensible. Provider-specific feature types are only allowed to be used, if a taxonomic subtype relationship to at least one of the generic feature types defined in the catalogue is explicitly stated. ISO 28258 encodes soil data using XML that is encoded according to the structure given in an XML schema definition file (XSD). The XSD file for SoilML data files is called “soilml.xsd”. An amendment with editorial and conceptual modifications, such as renaming of feature types and improvement of the UML-data model, was published in 2019.
+### ISO 28258:2013   ![](/static/img/one_star.jpg)
+#### Soil quality - Digital Exchange of soil-related data (SoilML)
+
+This standard provides a generic, conceptual schema for soil-related data and the structural framework for the interoperable
+exchange of individually defined data. It contains a data model (following the rules of Unified Modeling Language UML) with (feature-)
+types that are generally applicable types with the aim of covering most of the individual, country or data provider specific types.
+Essential feature types included in the model are, e.g. Plot, Profile, Horizon or Layer. These feature types are defined in a feature catalogue,
+which is non-extensible. Provider-specific feature types are only allowed to be used, if a taxonomic subtype relationship to at least one of the generic 
+feature types defined in the catalogue is explicitly stated. ISO 28258 encodes soil data using XML that is encoded according
+to the structure given in an XML schema definition file (XSD). The XSD file for SoilML data files is called “soilml.xsd”.
+An amendment with editorial and conceptual modifications, such as renaming of feature types and improvement of the UML-data model, was published in 2019.
 
 <br>
 
 ### SoTerML (Soil and Terrain Markup Language)   ![](/static/img/one_star.jpg)
-For the exchange of soil and terrain data between various sources an XML schema was developed within the European FP7 project ‘e-SOTER’. It comprises the existing SOTER database conceptual modelling, the WRB and FAO soil data structures and classifications. In SOTER major soil and terrain databases as the European Soil Database (ESD) are covered. The principles of SoTerML are generic, so that they should be applicable to other geo-scientific domains and not only to soil data (Pourabdollah et al., 2012).
+
+For the exchange of soil and terrain data between various sources an XML schema was developed within the European FP7 project ‘e-SOTER’.
+It comprises the existing SOTER database conceptual modelling, the WRB and FAO soil data structures and classifications.
+In SOTER major soil and terrain databases as the European Soil Database (ESD) are covered. The principles of SoTerML are generic,
+so that they should be applicable to other geo-scientific domains and not only to soil data (Pourabdollah et al., 2012).
 
 <br>
 
@@ -98,9 +113,16 @@ For the exchange of soil and terrain data between various sources an XML schema 
 (Soil, 2013)
 !!!
 
-Providing data according to INSPIRE is a legal obligation to public administration in the European Union. Due to this obligation no explicit recommendation is provided in this report.
-INSPIRE is not only about data interoperability, but aims at data harmonization. In the INSPIRE data model real soil objects were designed as feature types, and not features created to represent real objects. Thus soil maps were not introduced in the model (handled as metadata, see following section). The INSPIRE model can be extended regarding the parameters for describing features. Extensible parameter lists and code lists are kept in registries.
-The INSPIRE data model differentiates between observed and derived soil profiles. An observed profile is directly linked to a soil plot, whereas a derived soil profile describes a soil body without a connection to a certain plot. Soil-related information can be provided as vector data by using the SoilDerivedObject feature type, information structured as raster data is supplied by using the SoilThemeCoverage. 
+Providing data according to INSPIRE is a legal obligation to public administration in the European Union. 
+Due to this obligation no explicit recommendation is provided in this report.
+INSPIRE is not only about data interoperability, but aims at data harmonization. In the INSPIRE data model real soil objects
+were designed as feature types, and not features created to represent real objects. Thus soil maps were not introduced in
+the model (handled as metadata, see following section). The INSPIRE model can be extended regarding the parameters for describing features.
+Extensible parameter lists and code lists are kept in registries.
+The INSPIRE data model differentiates between observed and derived soil profiles. An observed profile is directly linked
+to a soil plot, whereas a derived soil profile describes a soil body without a connection to a certain plot.
+Soil-related information can be provided as vector data by using the SoilDerivedObject feature type,
+information structured as raster data is supplied by using the SoilThemeCoverage. 
 
 <br>
 
@@ -110,20 +132,26 @@ Developed by ISA-Tools, this hierarchical structured file format focuses on the 
 <br>
 
 ### GlobalSoilMap 
-The GlobalSoilMap Specification provides an internationally agreed set of attributes and terminologies for soil data. It is the basis for the generic soil information model GSMML. Global soil map data is published as GSMML compliant data service (Wilson et al., 2014).
+The GlobalSoilMap Specification provides an internationally agreed set of attributes and terminologies for soil data. 
+It is the basis for the generic soil information model GSMML. Global soil map data is published as GSMML compliant data service (Wilson et al., 2014).
 
 _Other data formats of accompanying disciplines_
 
 Geodata:
--	GeoRSS (Geographically Encoded Objects for RSS feeds) is a geotagged RSS feed which describes the locations of a web feed, blog or any news. It is available in XML or GML format and provides meta information of a web content like authors, date, title, narrative description, hypertext link and, at least, one location per feed.
--	GeoJSON and Esri-JSON are JavaScript notations to represent Simple-Feature-Access-Specifications e.g. for data exchange. It is used to transform and safe structured data. 
+-	GeoRSS (Geographically Encoded Objects for RSS feeds) is a geotagged RSS feed which describes the locations of a web 
+feed, blog or any news. It is available in XML or GML format and provides meta information of a web content like authors,
+date, title, narrative description, hypertext link and, at least, one location per feed.
+-	GeoJSON and Esri-JSON are JavaScript notations to represent Simple-Feature-Access-Specifications e.g. for data exchange.
+It is used to transform and safe structured data. 
 -	Others: gdb, GeoTIFF, Feature Class
 
 Beside geo-, soil- and agricultural data, other common data formats are widely used  
 -	most important data formats for databases are based on the SQL language, such as the database engine SQLite
--	The query language SPARQL was developed by the RDF Data Access Working Group of W3C. It is compatible to RDF data model and used as a data access protocol for the Semantic Web. 
+-	The query language SPARQL was developed by the RDF Data Access Working Group of W3C. It is compatible to RDF data model
+and used as a data access protocol for the Semantic Web. 
 -	GRIB (GRIdded Binary) format for meteorological data as well as historical and forecast weather data (WMO)
--	netCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
+-	netCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation,
+access, and sharing of array-oriented scientific data.
 
 <br>
 
@@ -193,7 +221,9 @@ _Table 8: Further standards on data exchange and languages_
 
 <br>
 
-_Conflicts and solutions_
+### Conflicts and solutions
+
+<br> 
 
 ### ISO 28258 vs. INSPIRE DS Soil
 The most significant difference between both models for soil-related data is, that the INSPIRE model provides two subtypes
@@ -209,9 +239,10 @@ of data to the users. ISO aims to data exchange in a wide range, even for scient
 the data provider regarding definition of parameters, which is rather simple with ISO, whereas there are more formal procedures in INSPIRE. 
 
 ### Relation between OGC and ISO standards 
+
 In the field of data exchange formats OGC and ISO developed standards in cooperation. As a result, these standards are double
 branded or divided into different parts with regard to contents. These standards do not compete with each other and have a broad acceptance. 
--	
+
 - The XML encoding of the OGC standard GML is consistent with EN ISO 19118:2011 and, more specifically, with EN ISO 19136:2009
 in terms of transport and storage of geographic information. The basic concepts used by GML to model geographic information
 are drawn from the EN ISO 19101ff series and the OpenGIS Abstract Specification. Current version GML 3.3 is backwards compatible

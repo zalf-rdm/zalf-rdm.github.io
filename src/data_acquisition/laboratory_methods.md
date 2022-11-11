@@ -13,12 +13,12 @@ comparability and interoperability.
 
 _Overview of existing standards_
 
-Soil sample pretreatment for laboratory analysis are defined by **ISO 11464:2006** and
-<br> **DIN 19747:2009**. The national standard **DIN 32645:2008-11** contains
-statistical approaches and calibration features for chemical analysis and describes limits of
+Soil sample pretreatment for laboratory analysis are defined by **ISO 11464:2006**![](/static/img/two_star.png) and
+<br> **DIN 19747:2009** ![](/static/img/one_star.png). The national standard **DIN 32645:2008-11** ![](/static/img/one_star.png)
+contains statistical approaches and calibration features for chemical analysis and describes limits of
 detection and determination under statistical replication conditions. Alternative methods
 on detection limits and calibration can be found within the international standard **DIN ISO
-11843-1ff** series (see below). In Table 2 important standards for soil quality analysis
+11843-1ff** series![](/static/img/two_star.png) (see below). In Table 2 important standards for soil quality analysis
 are listed.
 
 ### Methods of Soil Analysis (SSSA, 2017), Book Series 5 ![](/static/img/two_star.jpg)
@@ -376,7 +376,7 @@ well.
 
 <br>
 
-_Conflicts and solutions_
+### Conflicts and solutions
 
 Soil analytical methods which are described within VDLUFA Method Book are considered to be national
 standards. In Germany the VDLUFA Method Books for soil analyses are established as standard field
