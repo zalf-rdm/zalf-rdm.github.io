@@ -111,9 +111,11 @@ _Table 5: Standards and guidelines for methodological approaches_ ![](/static/im
 <td>ISO 26000:2010 </td>
 </tr>
 <tr>
-<td>Resource efficiency - Methodical principles and strategies and <br>
-<div style="text-align: center;">- Raw Materials</div></td>
-<td>VDI 4800-1:2016 <br>
+<td> <p style="text-align: center;">Resource efficiency</p>
+<p style="text-align: center;"> - Methodical principles and strategies and <br>
+- Raw Materials</p></td>
+<td>
+VDI 4800-1:2016 <br>
 VDI 4800-2:2016</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
