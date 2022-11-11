@@ -15,9 +15,14 @@ and peakedness (single or multiple), data gaps, systematic errors, syntactical c
 are relevant for data quality evaluation and systematic data error identification. Data assessment needs also additional 
 information on the quality criteria of the data set.
 
+<br>
+
 _Overview of existing standards_
 
-### EN ISO 19157:2013 - Data quality  ![](/static/img/two_star.jpg)
+<br>
+
+### EN ISO 19157:2013 ![](/static/img/two_star.jpg)
+#### Data quality 
 
 Information about the quality of available geo-data is vital to the process of selecting a data set 
 because the value of data is directly related to its quality. ISO 19157 provides:
@@ -26,6 +31,8 @@ because the value of data is directly related to its quality. ISO 19157 provides
 -	principles how geo-data can be described and guidance on assessing the quality of actual datasets, and 
 -	a framework of procedures for determining and evaluating data quality that is applicable to digital geographic datasets.
 
+<br>
+
 ### Conformity key for KA5  ![](/static/img/two_star.jpg)
 BGR developed a quality assurance tool for soil data according to the KA5. With this database application users can check 
 their soil data for conformity according to the rules of the KA5. Complex algorithms test soil and substrate types as well
@@ -33,30 +40,49 @@ as horizon symbols. The enumeration of horizons and depth information is tested 
 datasets are identified. Correction of errors can be performed by the user and KA5-compliant data can be exported. 
 This application helps to improve data quality of either newly acquired data or already existing databases.
 
+<br>
+
 ### Core Trust Seal  ![](/static/img/two_star.jpg)
 Best practices for high data quality and interoperability for data repositories are given by the “Core trustworthy
 data repository requirements”. A checklist with mandatory repository requirements helps to proof the data repository
 if it fulfills all the necessary quality standards. Repository operator can apply for the Core Trust Seal via an
 Application Management Tool (AMT).
 
-### DIN ISO 11843-1:2004ff series - Capability of detection  ![](/static/img/two_star.jpg)
+<br>
+
+### DIN ISO 11843-1:2004ff series  ![](/static/img/two_star.jpg)
+#### Capability of detection 
 This norm has five parts including terms (1), linear calibration of data (2), determination of the critical value for the
 response variable (3), comparing the minimum detectable value with a given value (4) and linear and non-linear calibration cases (5).
 
-### ISO 3534-1/-2:2006 - Statistics and terms  ![](/static/img/two_star.jpg)
+<br>
+
+### ISO 3534-1/-2:2006   ![](/static/img/two_star.jpg)
+#### Statistics and terms
 Define statistical terms and terms used in probability. They provide also rules on probability calculations, random sampling,
 correlations, and estimation functions. 
 
-### ISO 16269 series - Statistical interpretation of data ![](/static/img/two_star.jpg)
+<br>
+
+### ISO 16269 series ![](/static/img/two_star.jpg)
+#### Statistical interpretation of data 
 This ISO series provides descriptions of sound statistical testing procedures and graphical data analysis methods. 
 In different parts statistical procedures are defined, such as detection of outliers ( -4:2010) or confidence interval (-7:2001).
 Other standards are under development, e.g. test of normal distribution (ISO/DIS 16269-3).
 
+<br>
+<br>
+
 _National standards on data quality and statistics_
 
-### DIN 66270:1998 - Software document evaluation, Quality characteristics  ![](/static/img/two_star.jpg)
+<br>
+
+### DIN 66270:1998  ![](/static/img/two_star.jpg)
+#### Software document evaluation, Quality characteristics 
 The German standard defines requirements of documents according to its identification, content (completeness, adequacy, correctness, and consistency),
 and representation (comprehensibility and clarity).
+
+<br>
 
 _Table 7: National standards on statistic evaluation and tests_ ![](/static/img/two_star.jpg)
 
@@ -70,23 +96,37 @@ _Table 7: National standards on statistic evaluation and tests_ ![](/static/img/
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>Methods for the examination of water, waste water and sludge
+(describes statistical data evaluation and treatments)</td>
+<td>DIN 38402-1:2011-09</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
-<td></td>
+<td>Stochastics, probability theory, concepts, signs, terms, symbols, formula</td>
+<td>DIN 13303-1:1982, -2:1982</td>
 </tr>
 <tr>
-<td></td>
+<td>Chemical analysis – Decision limit, detection limit and determination limit
+under repeatability conditions – Terms, methods, evaluation</td>
+<td>DIN 32645:2008-11</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
-<td></td>
+<td>Limit of detection and limit of determination (quantitation) 
+as processing parameters. Estimation in an interlaboratory
+test under reproducibility conditions; Terms, meaning, proceeding 
+(are used for statistical evaluation of chemical analysis.
+Define e.g. detection limits under repeatability conditions)</td>
+<td>DIN 32646:2003</td>
 </tr>
 <tr>
-<td></td>
+<td>Statistical evaluation (provides continuous features e.g. frequency distributions,
+random sample, frequency distribution, tests on normal distribution, and outlier)</td>
+<td>DIN 53804-1:2002-04</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+<br>
 
 _Quality management system and Measurement management systems_
 
