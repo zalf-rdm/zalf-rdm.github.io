@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.721480147829">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.721484798455">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -11,6 +11,7 @@
     <!-- Primary Meta Tags -->
     <title>Geo-data Services</title>
     <meta name="title" content="Geo-data Services">
+    <meta name="description" content="Geo-data service provides access to a geo-database by local area network (LAN) or the internet using ArcGIS server" />
 
     <!-- Canonical -->
     <link rel="canonical" href="https://zalf-rdm.github.io/data_provision/geo_data_services/" />
@@ -19,20 +20,24 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://zalf-rdm.github.io/data_provision/geo_data_services/">
     <meta property="og:title" content="Geo-data Services">
+    <meta property="og:description" content="Geo-data service provides access to a geo-database by local area network (LAN) or the internet using ArcGIS server">
+    <meta property="og:image" content="https://zalf-rdm.github.io/static/img/two_star.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://zalf-rdm.github.io/data_provision/geo_data_services/">
     <meta property="twitter:title" content="Geo-data Services">
+    <meta property="twitter:description" content="Geo-data service provides access to a geo-database by local area network (LAN) or the internet using ArcGIS server">
+    <meta property="twitter:image" content="https://zalf-rdm.github.io/static/img/two_star.png">
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/img/favicon.png" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.721480147829" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.721484798455" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.721480147829" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.721484798455" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.721480147829" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.721484798455" data-turbo-eval="false" defer></script>
 
     <link href="/static/bonares.css" rel="stylesheet" />
 </head>
@@ -210,6 +215,108 @@
         <span>Geo-data Services</span>
     </h1>
 </doc-anchor-target>
+<p>Geo-data service provides access to a geo-database by local area network (LAN) or the internet using ArcGIS server
+or open source GIS servers, i.e., geo server to view, search and queries into database.
+Open Geospatial Consortium (OGC) regulates rules and standards for geo-data services. So called “OGC services” are listed
+in this chapter. They are widely accepted and applied by geo-data providers and users. Requirements, types and structure
+of services are defined in <strong>EN ISOS 19119:2016</strong> and <strong>ISO 19133:2007</strong> (data types, operations and implementation).</p>
+<br>
+<doc-anchor-target id="overview-of-existing-standards">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#overview-of-existing-standards">#</doc-anchor-trigger>
+        <span>Overview of existing standards</span>
+    </h3>
+</doc-anchor-target>
+<p>All OGC standards on web services (OWS) and supporting documents are available to the public at no cost, e.g.:</p>
+<br>
+<doc-anchor-target id="wms-web-map-service">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#wms-web-map-service">#</doc-anchor-trigger>
+        <span>WMS (Web Map Service) <img src="../../static/img/two_star.png" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>WMS offer geo-registered map images in different format (e.g. JPEG, PNG) from distributed geo-database system through GIS servers.
+It is basically a HTTP/HTTPS link, which provides different request types, two of which are required by any WMS server:
+GetCapabilities and GetMap, defines a certain geographic location and layer(s) to be managed. Request types that WMS
+optionally support include: GetFeatureInfo, DescribeLayer and GetLegendGraphic (OpenGeoSpatial). Rules and applications of
+WMS are provided by EN ISO 19128:2008.</p>
+<br>
+<doc-anchor-target id="wfs-web-feature-service">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#wfs-web-feature-service">#</doc-anchor-trigger>
+        <span>WFS (Web Feature Service)  <img src="../../static/img/two_star.png" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>WFS allow any usage that might work with web services to get geographic features from one or more distributed spatial
+information system or a map itself. Similar to WMS (mapping output as an image), WFS deal with create, update, delete
+and query functions of feature instances from regarding database. WFS serve eight general operations:
+Capabilities, DescribeFeatureType, DescribeFilterModel, Feature, FeatureWithLock, Property, LockFeature and Transaction.
+Rules and applications of WFS are provided by EN ISO 19142:2010.</p>
+<br>
+<doc-anchor-target id="wcas-web-catalogue-service">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#wcas-web-catalogue-service">#</doc-anchor-trigger>
+        <span>WCAS (Web Catalogue Service) <img src="../../static/img/two_star.png" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<doc-anchor-target id="also-csw-catalogue-services-for-the-web">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#also-csw-catalogue-services-for-the-web">#</doc-anchor-trigger>
+        <span>Also: CSW, Catalogue Services for the Web</span>
+    </h4>
+</doc-anchor-target>
+<p>CSW service provides options to publish and searching capabilities of metadata about geospatial data, services, and related
+information objects. Request types that CSW services offers include: GetCapabilities, DescribeByRecord, GetRecords, GetRecordById,
+GetDomain, Harvest, and Transaction. Requests can encode the parameters in three different ways: GET with URL parameters,
+POST with form-encoded payload and POST with XML payload.</p>
+<br>
+<doc-anchor-target id="wcs-web-coverage-service">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#wcs-web-coverage-service">#</doc-anchor-trigger>
+        <span>WCS (Web Coverage Service)  <img src="../../static/img/two_star.png" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>WCS returns the original data with its descriptions along with actual semantics. This service allows access into coverage data for client-side rendering. WCS also offers clients to get information of a certain portions based on constraints and certain criteria, similar to WFS and WMS service.</p>
+<br>
+<doc-anchor-target id="wmts-web-map-tile-service">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#wmts-web-map-tile-service">#</doc-anchor-trigger>
+        <span>WMTS (Web Map Tile Service)  <img src="../../static/img/two_star.png" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>WMTS makes detailed rendering of a raster data or a large volume of vector data in tiles which supports Key-Value-Pair
+(KV, process oriented) encoding interfaces, REST (Representational state transfer) encoding and SOAP encoding.</p>
+<br>
+<doc-anchor-target id="tjs-table-joining-service">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tjs-table-joining-service">#</doc-anchor-trigger>
+        <span>TJS (Table Joining Service)  <img src="../../static/img/two_star.png" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>The TJS standard joins attribute data with its associated geospatial framework. Attribute data can be stored in one
+network and mapped with geographic data into another network which contains geometries for the attribute data.
+TJS provides simple web-based services for searching, accessing and using attribute data from different sources which
+can generate database, perform analysis and populate maps.</p>
+<br>
+<doc-anchor-target id="wmc-web-map-context">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#wmc-web-map-context">#</doc-anchor-trigger>
+        <span>WMC (Web Map Context)  <img src="../../static/img/two_star.png" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>The OGC XML file standard WMC describes meta-information of a WMS (e.g. the URL, different layers within the service,
+bounding box rectangle, coordinate system) in XML file, stores and loads XML schema which belongs to it.</p>
+<br>
+<doc-anchor-target id="wps-web-processing-service">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#wps-web-processing-service">#</doc-anchor-trigger>
+        <span>WPS (Web Processing Service)  <img src="../../static/img/two_star.png" alt="" /></span>
+    </h3>
+</doc-anchor-target>
+<p>WPS service defines how to implement a geoprocessing service, geographic calculations or models as a service.
+It offers simple web-based standardized method of finding, accessing and using of geoprocessing services,
+at the same time also direct requests and responses of those services. WPS uses HTTP GET, HTTP POST,
+SOAP and XML as a mechanism for describing the data and for interoperability.</p>
 
                                 
                                 <!-- Required only on API pages -->
