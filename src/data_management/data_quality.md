@@ -91,7 +91,7 @@ _Table 7: National standards on statistic evaluation and tests_ ![](/static/img/
 <thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
 <th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
+<th style=" width: 230px;"><strong>Standard</strong></th>
 </tr>
 </thead>
 <tbody>
