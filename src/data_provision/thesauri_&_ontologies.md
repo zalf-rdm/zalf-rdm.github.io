@@ -5,7 +5,11 @@ order: 10
 
 # Thesauri and Ontologies
 
-The use of controlled vocabularies with standardized, generally accepted and clearly assigned identifiers, definitions and semantics are necessary for smooth data integration and to allow human- and machine readable exchange, query and reproduction of information. Semantic data annotation by controlled vocabularies is precondition to provide interoperability of data repositories. Standardizes ontologies enable integration of data and information to the Semantic Web.
+The use of controlled vocabularies with standardized, generally accepted and clearly assigned identifiers, definitions 
+and semantics are necessary for smooth data integration and to allow human- and machine readable exchange, query and
+reproduction of information. Semantic data annotation by controlled vocabularies is precondition to provide interoperability
+of data repositories. Standardizes ontologies enable integration of data and information to the Semantic Web.
+
 To link data and ensure its reusability it is important that thesauri are published online, using an open license and endowed with an URI (W3C, Best Practices for Publish Linked Data, 2014). 
 General information for development and operate thesauri are described in ISO 25964 - Information and documentation – Thesauri & interoperability with other vocabularies   , that is published in two parts:
 -1:2011 Thesauri for information retrieval
