@@ -17,7 +17,7 @@ national and international standards, are listed:
 
 <br>
   
-_Table 10: Overview of code lists on soil data survey_ 
+_Table 10: Overview of code lists on soil data survey_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -29,22 +29,28 @@ _Table 10: Overview of code lists on soil data survey_
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>German Soil Survey Guideline (KA5)</td>
+<td style="font-style: italic;">see Table 11</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>DIN 4220:2008-11   </td>
+<td style="font-style: italic;">see Table 12</td>
 </tr>
 <tr>
-<td></td>
+<td>Guideline Soil assessment </td>
+<td style="font-style: italic;">see Table 13</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>FAO Guidelines for Soil description</td>
+<td style="font-style: italic;">see Table 14</td>
 </tr>
 <tr>
-<td></td>
+<td>ISO 25177:2008</td>
+<td style="font-style: italic;">see Table 15</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>INSPIRE Code List, e.g. WRB for Reference Soil Groups, Qualifiers and Specifiers</td>
+<td style="font-style: italic;">see Table 16</td>
 </tr>
 </tbody>
 </table>
@@ -71,36 +77,85 @@ _Table 11: Parameters for field soil description provided with code lists in Ger
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
+<th><strong>Parameter (EN)</strong></th>
+<th><strong>Parameter (D)</strong></th>
+<th><strong>field</strong></th>
+<th><strong>p.</strong></th>
+<th style="width: 200px;"><strong>Cl-No.</strong></th>
+<th style="width: 50px;"><strong>Code list name</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td>sampling type</td>
+<td>Beprobung Entnahmeart</td>
+<td style="text-align: center;">-</td>
+<td>40</td>
+<td>Tab. 2</td>
+<td>Entnahmeart und Definition der Probenahme</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>exploration type</td>
+<td>Aufschlussart</td>
+<td style="text-align: center;">9</td>
+<td>56</td>
+<td>List 2</td>
+<td>Aufschlussart/Aufnahmeintensität/Probenahme</td>
+</tr>
+<tr>
+<td>acquisition intensity</td>
+<td>Aufnahmeintensität</td>
+<td style="text-align: center;">9</td>
+<td>56</td>
+<td>List 2</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>slope gradient class</td>
+<td>Hangneigungsstufe</td>
+<td style="text-align: center;">11</td>
+<td>58</td>
+<td>Tab. 6</td>
+<td>Einstufung der Hangneigung</td>
+</tr>
+<tr>
+<td>exposition</td>
+<td>Exposition</td>
+<td style="text-align: center;">12</td>
+<td>59</td>
+<td>Abb. 5</td>
+<td>Windrose zur Kennzeichnung der Exposition</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>curvature</td>
+<td>Wölbung</td>
+<td style="text-align: center;">13</td>
+<td>60</td>
+<td>Tab. 7</td>
+<td>Einstufung der Wölbungstärke</td>
+</tr>
+<tr>
+<td>relief type (simple)</td>
+<td>einfacher Reliefformtyp</td>
+<td style="text-align: center;">14</td>
+<td> 63 <br> 64 <br> 65 <br> 65 </td>
+<td> List 3 <br> List 4 <br> List 5 <br> List 6 </td>
 <td></td>
 </tr>
 <tr style="background-color: #d3d3d3;">
+<td></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr style="background-color: #d3d3d3;">
 <td></td>
-</tr>
-<tr>
+<td style="text-align: center;"></td>
 <td></td>
-</tr>
-<tr style="background-color: #d3d3d3;">
+<td></td>
 <td></td>
 </tr>
 </tbody>
