@@ -10,7 +10,7 @@ Whenever a universal accepted code exists for a certain parameter, it is recomme
 
 <br>
 
-_Soil survey_
+### Soil survey
 
 In the Tables 11-16 the most important code lists for field soil survey, description and classification, as parts of
 national and international standards, are listed:
