@@ -825,36 +825,211 @@ _Parameters for field soil description provided with code lists in the Guideline
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
+<th><strong>Parameter (EN)</strong></th>
+<th><strong>Parameter (D)</strong></th>
+<th><strong>page</strong></th>
+<th><strong>section</strong></th>
+<th><strong>Code list name</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>soil moisture</td>
+<td> <div style="color: white;">w</div>
+Bodenfeuchtigkeit 
+<div style="color: white;">wwwwwwwwwwwwww</div></td>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">1.4</td>
+<td>
+<div style="color: white;">w</div>
+Feuchtigkeitszustand des Bodens 
+<div style="color: white;">wwwwwwwwwwwwwwwwwwwwwwwwwwww</div></td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>position in relief</td>
+<td>Lage im Relief</td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">2.1</td>
+<td>Lage des Grablochs</td>
 </tr>
 <tr>
-<td></td>
+<td>exposition</td>
+<td>Exposition</td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">2.2</td>
+<td>Hangrichtung des Grablochs</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>special cultivation type, characteristic water conditions </td>
+<td>Sonderkulturarten und Besonderheiten der Wasserverhältnisse</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">2.8</td>
+<td>Erläuterungen zum Kataster</td>
 </tr>
 <tr>
-<td></td>
+<td>cultivation type</td>
+<td>Kulturart</td>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">2.9</td>
+<td>Kulturart</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>soil texture</td>
+<td>Bodenart</td>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">2.10.1</td>
+<td> <p>Bodenarten nach dem Schätzungsrahmen</p> 
+<p>Misch- und Übergangsbodenarten bei Acker- und Grünland</p>
+<p>Schichtbodenarten bei Mineralboden</p>
+Schichtwechsel Mineral-/Moorboden bei Acker- und Grünland
+</td>
+</tr>
+<tr>
+<td>geo- genesis</td>
+<td>Geologische Entstehung</td>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;"><2.10.3/td>
+<td>Entstehungsart</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>particularities</td>
+<td>Besonderheiten</td>
+<td style="text-align: center;">13</td>
+<td style="text-align: center;">2.12</td>
+<td>Besonderheiten, Abrechnungen (%)</td>
+</tr>
+<tr>
+<td>remarks</td>
+<td>Bemerkungen</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">2.26</td>
+<td>Bemerkungen</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>humus content</td>
+<td>Humusgehalt</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">3.2.1</td>
+<td>Humus</td>
+</tr>
+<tr>
+<td>carbonate content</td>
+<td>Kalkgehalt</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">3.2.2</td>
+<td>Kalk</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil color</td>
+<td>Bodenfarbe</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">3.2.3</td>
+<td>Farbe</td>
+</tr>
+<tr>
+<td>iron compounds </td>
+<td>Eisenverbindungen </td>
+<td style="text-align: center;">19</td>
+<td style="text-align: center;">3.2.4</td>
+<td>Eisen</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil moisture</td>
+<td>Bodenfeuchte</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">3.2.5</td>
+<td>Feuchte</td>
+</tr>
+<tr>
+<td>further soil features</td>
+<td>sonstige Bodeneigenschaften</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">3.2.6</td>
+<td>Sonstiges</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>main soil texture - fine soil</td>
+<td>Hauptbodenarten - Feinboden</td>
+<td style="text-align: center;">21</td>
+<td style="text-align: center;">3.2.7</td>
+<td>Hauptbodenarten - Feinboden</td>
+</tr>
+<tr>
+<td>coarse fragments</td>
+<td>Hauptbodenarten - Grobboden</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td>Hauptbodenarten - Grobboden (Bodenskelett)</td>
+</tr>
+<tr  style="background-color: #d3d3d3;">
+<td>soil type - weathering soil </td>
+<td>Bodenart - Verwitterungsböden</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td>Verwitterungsböden</td>
+</tr>
+<tr>
+<td>special soil textures</td>
+<td>besondere Bodenarten</td>
+<<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td>besondere Bodenarten</td>
+</tr>
+<tr  style="background-color: #d3d3d3;">
+<td>subordinate soil textures - fine soil</td>
+<td>Nebenbodenarten - Feinboden</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td>Nebenbodenarten - Feinboden</td>
+</tr>
+<tr>
+<td>subordinate - coarse fragments</td>
+<td>Nebenbodenarten - Grobboden</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td>Nebenbodenarten - Grobboden</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>additional information on soil texture</td>
+<td>Ergänzende Angaben zur Bodenart</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+<td>Ergänzende Angaben zur Bodenart</td>
+</tr>
+<tr>
+<td>soil systematic unit - terrestrial soils</td>
+<td>Bodensystematische Einheit - terrestrische Böden</td>
+<td style="text-align: center;">26</td>
+<td style="text-align: center;">4.1.1</td>
+<td>Abteilung der terrestrischen Böden</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil systematic unit – semi-terrestrial soils</td>
+<td>Bodensystematische Einheit - semiterrestrische Böden</td>
+<td style="text-align: center;">29</td>
+<td style="text-align: center;">4.1.2</td>
+<td>Abteilung der semiterrestrischen Böden</td>
+</tr>
+<tr>
+<td>soil systematic unit – bogs and fens</td>
+<td>Bodensystematische Einheit - Moore</td>
+<td style="text-align: center;">31</td>
+<td style="text-align: center;">4.1.4</td>
+<td>v</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>horizon symbols - organic horizons</td>
+<td>Horizontsymbole - organische Horizonte</td>
+<td style="text-align: center;">33</td>
+<td style="text-align: center;">4.2.1</td>
+<td>Organische Horizonte</td>
+</tr>
+<tr>
+<td>horizon symbols - mineral horizons</td>
+<td>Horizontsymbole - mineralische Horizonte</td>
+<td style="text-align: center;">34</td>
+<td style="text-align: center;">4.2.2</td>
+<td>Mineralische Horizonte</td>
 </tr>
 </tbody>
 </table>
@@ -874,35 +1049,178 @@ _Parameters provided with code lists in FAO Guidelines for soil description (4th
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
+<th><strong>Parameter</strong></th>
+<th><strong>page</strong></th>
+<th><strong>Table</strong></th>
+<th><strong>Code list name</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
 </tr>
 <tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
 </tr>
 <tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
 </tr>
 <tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr><tr>
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td></td>
 </tr>
 </tbody>
