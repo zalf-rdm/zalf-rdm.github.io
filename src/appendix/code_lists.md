@@ -10,14 +10,15 @@ Whenever a universal accepted code exists for a certain parameter, it is recomme
 
 <br>
 
-### Soil survey
+## Soil survey
 
 In the Tables 11-16 the most important code lists for field soil survey, description and classification, as parts of
 national and international standards, are listed:
 
-<br>
   
-_Table 10: Overview of code lists on soil data survey_
+### Table 10
+_Overview of code lists on soil data survey_
+<br>
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -70,8 +71,8 @@ field soil description.
 
 <br>
 
-_Table 11: Parameters for field soil description provided with code lists in German Soil Survey Guideline 
-(Bodenkundliche Kartieranleitung KA5, 5th edition, 2005)_ 
+### Table 11
+_Parameters for field soil description provided with code lists in German Soil Survey Guideline (Bodenkundliche Kartieranleitung KA5, 5th edition, 2005)_ 
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -81,7 +82,7 @@ _Table 11: Parameters for field soil description provided with code lists in Ger
 <th><strong>Parameter (D)</strong></th>
 <th><strong>field</strong></th>
 <th><strong>p.</strong></th>
-<th style="width: 200px;"><strong>Cl-No.</strong></th>
+<th style="width: 200px;"><strong>Code List-No.</strong></th>
 <th style="width: 50px;"><strong>Code list name</strong></th>
 </tr>
 </thead>
@@ -140,23 +141,452 @@ _Table 11: Parameters for field soil description provided with code lists in Ger
 <td style="text-align: center;">14</td>
 <td> 63 <br> 64 <br> 65 <br> 65 </td>
 <td> List 3 <br> List 4 <br> List 5 <br> List 6 </td>
-<td></td>
+<td>Reliefformtypen <br>
+Untergliederung des Kulminationsbereichs <br>
+Untergliederung des Tiefenbereichs <br>
+Untergliederung des Hanges
+</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
-<td></td>
-<td style="text-align: center;"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>relief type (complex)</td>
+<td>komplexer Reliefformtyp</td>
+<td style="text-align: center;">14</td>
+<td>66 <br>
+66 <br>
+67 </td>
+<td>List 7 <br>
+List 8 <br>
+List 9</td>
+<td>Komplexe Reliefformtypen <br>
+Erhebung <br>
+Geschlossene Hohlform</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td style="text-align: center;"></td>
-<td></td>
-<td></td>
-<td></td>
+<td>micro relief</td>
+<td>Mikrorelief</td>
+<td style="text-align: center;">16</td>
+<td>69</td>
+<td>List 10</td>
+<td>Rauhigkeit R der Reliefoberfläche</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>position in relief</td>
+<td>Lage im Relief</td>
+<td style="text-align: center;">17</td>
+<td>69</td>
+<td>List 11</td>
+<td>Lage im Relief</td>
+</tr>
+<tr>
+<td>denudation/
+accumulation processes</td>
+<td>Abtrags/Auftrags-vorgänge</td>
+<td style="text-align: center;">18</td>
+<td>70</td>
+<td>List 12</td>
+<td>Abtrags-/Auftragsvorgänge und deren Erscheinungen</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>denudation/accumu-lation phenomena</td>
+<td>Abtrags/Auftrags-erscheinungen</td>
+<td style="text-align: center;">18</td>
+<td>70</td>
+<td>List 12</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td>land use/ 
+surface sealing</td>
+<td>Abtrags/Auftrags-erscheinungen</td>
+<td style="text-align: center;">18</td>
+<td>72</td>
+<td>List 13</td>
+<td>Nutzungsart/Versiegelung</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>vegetation</td>
+<td>Vegetation</td>
+<td style="text-align: center;">20</td>
+<td>73</td>
+<td>List 14</td>
+<td>Vegetation</td>
+</tr>
+<tr>
+<td>weather conditions</td>
+<td>Witterung</td>
+<td style="text-align: center;">21</td>
+<td>74</td>
+<td>Tab. 9</td>
+<td>Kennzeichnung der Witterungsverhältnisse</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>anthropogenic changes</td>
+<td>anthropogene Veränderungen</td>
+<td style="text-align: center;">22</td>
+<td>75</td>
+<td>List 15</td>
+<td>Anthropogene Veränderungen</td>
+</tr>
+<tr>
+<td>lumbricids lifeform type</td>
+<td>Lumbricidae Lebensformtyp</td>
+<td style="text-align: center;">23</td>
+<td>77 <br> 77</td>
+<td>Tab. 10 <br> Tab. 11</td>
+<td>Lebensformtypen und <br>
+Abundanzklassen der Lumbriciden</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>remarks (acquisition conditions)</td>
+<td>Bemerkungen 
+(zur Aufnahme-situation)</td>
+<td style="text-align: center;">24</td>
+<td>79</td>
+<td>List 16</td>
+<td>Flächen mit Sonderbestimmungen</td>
+</tr>
+<tr>
+<td>lower horizon boundary form</td>
+<td>Horizontuntergrenze Form</td>
+<td style="text-align: center;">26</td>
+<td>80</td>
+<td>Abb. 11a</td>
+<td>Form (Gestalt) der Horizontgrenze</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>lower horizon boundary orientation</td>
+<td>Horizontuntergrenze Lage</td>
+<td style="text-align: center;">26</td>
+<td>81</td>
+<td>Abb. 11b</td>
+<td>Lage (Neigung) der Horizontgrenze zur Oberfläche</td>
+</tr>
+<tr>
+<td>lower horizon boundary sharpness</td>
+<td>Horizontuntergrenze Schärfe</td>
+<td style="text-align: center;">26</td>
+<td>81</td>
+<td>List 17</td>
+<td>Schärfe (Deutlichkeit) der Horizontgrenzen</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>horizon symbols</td>
+<td>Horizontsymbole</td>
+<td style="text-align: center;">27</td>
+<td>86ff</td>
+<td>Tab. 12</td>
+<td>Vorgesehene Kombinationen von Haupt- und Zusatzsymbolen</td>
+</tr>
+<tr>
+<td>color (without color-charts)</td>
+<td>Farbe (ohne Fabtafeln</td>
+<td style="text-align: center;">28</td>
+<td>110</td>
+<td>List 18</td>
+<td>Farbbezeichnungen</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>humus content</td>
+<td>Humusgehalt</td>
+<td style="text-align: center;">29</td>
+<td>112</td>
+<td>Tab. 15</td>
+<td>Einstufung des Humusgehaltes (organische Substanz) von Böden</td>
+</tr>
+<tr>
+<td>hydromorphology oxidative</td>
+<td>Hydromorphie oxidativ</td>
+<td style="text-align: center;">30</td>
+<td>113</td>
+<td>Tab. 16</td>
+<td>Erscheinungsarten horizont-differenzierender <br>
+Fe- und Mn-Verbindungen in hydromorphen Böden </td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>hydromorphology reductive</td>
+<td>Hydromorphie reduktiv</td>
+<td style="text-align: center;">31</td>
+<td>113</td>
+<td>Tab. 16</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td>soil moisture</td>
+<td>Bodenfeuchte</td>
+<td style="text-align: center;">32</td>
+<td>115</td>
+<td>Tab. 17</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>consistency</td>
+<td>Konsistenz</td>
+<td style="text-align: center;">33</td>
+<td>115</td>
+<td>Tab. 17</td>
+<td>Konsistenz bindiger Böden, Konsistenz-grenzen und <br> zugehörige Bodenfeuchte</td>
+</tr>
+<tr>
+<td>other pedogenic features</td>
+<td>sonstige pedogene Merkmale</td>
+<td style="text-align: center;">34</td>
+<td>114</td>
+<td style="text-align: center;">-</td>
+<td>Organische Merkmale, Mineralische Merkmale</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil structure type</td>
+<td>Gefügeform</td>
+<td style="text-align: center;">35</td>
+<td>117 <br> 118 <br> 118 <br> 119</td>
+<td>List 19 <br> List 20 <br> List 21 <br> List 22</td>
+<td>Grundgefüge <br>
+Makrogrobgefüge <br>
+Makrofeingefüge <br>
+Gefügefragmente</td>
+</tr>
+<tr>
+<td>compactness</td>
+<td>Lagerungsart</td>
+<td style="text-align: center;">36</td>
+<td>121</td>
+<td>List 23</td>
+<td>Lagerungsart</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>porosity</td>
+<td>Porenanteil</td>
+<td style="text-align: center;">38</td>
+<td>124</td>
+<td>Abb. 13</td>
+<td>Bestimmung des Makroporenanteils</td>
+</tr>
+<tr>
+<td>tubes, channels</td>
+<td>Röhren, Gänge</td>
+<td style="text-align: center;">39</td>
+<td>123</td>
+<td>List 24</td>
+<td>Röhren, Gänge</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>bulk density</td>
+<td>Lagerungsdichte</td>
+<td style="text-align: center;">40</td>
+<td>125</td>
+<td>Tab. 20</td>
+<td>Bestimmungsschlüssel für die Ansprache der <br> effektiven Lagerungsdichte</td>
+</tr>
+<tr>
+<td>substance vol. (for peaty soil)</td>
+<td>Substanzvolumen (bei Moorböden)</td>
+<td style="text-align: center;">40</td>
+<td>127</td>
+<td>Tab. 22</td>
+<td>Ansprache des Substanzvolumens SV bei Moorböden</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>degree of peat decomposition</td>
+<td>Zersetzungsstufe (bei Torf)</td>
+<td style="text-align: center;">40</td>
+<td>128</td>
+<td>Tab. 23</td>
+<td>Bestimmung der Zersetzungsstufen und des <br> Zersetzungsgrades von Torfen</td>
+</tr>
+<tr>
+<td>root density</td>
+<td>Durchwurzelungs-intensität</td>
+<td style="text-align: center;">41</td>
+<td>129</td>
+<td>Tab. 24</td>
+<td>Einstufung der Durchwurzelungsintensität</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>fine root density</td>
+<td>Feinwurzeldichte</td>
+<td style="text-align: center;">41a</td>
+<td>129</td>
+<td>Tab. 24</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td>coarse root density</td>
+<td>Grobwurzeldichte</td>
+<td style="text-align: center;">41b</td>
+<td>129</td>
+<td>Tab. 24</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>rootable depth class</td>
+<td>Durchwurzelbarkeit</td>
+<td style="text-align: center;">41</td>
+<td>130</td>
+<td>Tab. 25</td>
+<td>Einstufung der Durchwurzelungbarkeit <br> (physiologische Gründigkeit)</td>
+</tr>
+<tr>
+<td>substrate genesis</td>
+<td>Substratgenese</td>
+<td style="text-align: center;">43</td>
+<td>137</td>
+<td>Tab. 137</td>
+<td>Gliederung der Substratgenese auf den verschiedenen Niveaus</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil type</td>
+<td>Bodenart</td>
+<td style="text-align: center;">44a</td>
+<td>144</td>
+<td>Tab. 30</td>
+<td>Definition der Feinbodenarten nach Fraktionen, <br> 
+Schlüssel zur Bestimmung der Bodenart im Gelände (Fingerprobe)</td>
+</tr>
+<tr>
+<td>sand soil type</td>
+<td>Sandbodenart</td>
+<td style="text-align: center;">44a</td>
+<td>148</td>
+<td>Tab. 31</td>
+<td>Kornfraktionen Bodenart „reiner Sand“ Ss</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>coarse soil fraction</td>
+<td>Grobbodenfraktion</td>
+<td style="text-align: center;">44b</td>
+<td>150 <br> 150</td>
+<td>Tab. 32 <br> Tab. 33</td>
+<td>Untergliederung + Kornfraktionen des Grobbodens 
+Einstufung des Grobbodens</td>
+</tr>
+<tr>
+<td>peat type</td>
+<td>Torfart</td>
+<td style="text-align: center;">44a</td>
+<td>161</td>
+<td>Tab. 36</td>
+<td>Botanische Gliederung verbreiteter Torfe und ihre
+Zuordnung zu den bodenkundlichen Torfartengruppen</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>mud type</td>
+<td>Muddenart</td>
+<td style="text-align: center;">44a</td>
+<td>164</td>
+<td>List 25</td>
+<td>Mudden</td>
+</tr>
+<tr>
+<td>carbon content (substrate)</td>
+<td>Kohlenstoffgehalt (Substrat)</td>
+<td style="text-align: center;">45</td>
+<td>166</td>
+<td>Tab. 38</td>
+<td>Einteilung des Kohlenstoffgehaltes bei der Substratartenansprache im Feld 42</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>carbonate content</td>
+<td>Carbonatgehalt</td>
+<td style="text-align: center;">46</td>
+<td>169</td>
+<td>Tab. 40</td>
+<td>Kennzeichnung des Carbonatgehaltes des Feinbodens und bei der Substratartenansprache im Feld 42</td>
+</tr>
+<tr>
+<td>parent rock</td>
+<td>Bodenausgangsgestein</td>
+<td style="text-align: center;">47a</td>
+<td>174</td>
+<td>Tab. 43</td>
+<td>Bodenausgangsgesteine</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>periglacial cover beds</td>
+<td>Periglaziäre Lagen</td>
+<td style="text-align: center;">47b</td>
+<td>181</td>
+<td>List 26</td>
+<td>Periglaziäre Lagen</td>
+</tr>
+<tr>
+<td>coarse soil components</td>
+<td>Grobboden-komponenten</td>
+<td style="text-align: center;">47c</td>
+<td>174</td>
+<td>Tab. 43</td>
+<td>Bodenausgangsgesteine</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>substantial inhomogeneities</td>
+<td>Substanzielle Inhomogenitäten</td>
+<td style="text-align: center;">47d</td>
+<td>183</td>
+<td>List 27</td>
+<td>Substanzielle Inhomogenitäten</td>
+</tr>
+<tr>
+<td>structural inhomogeneities</td>
+<td>Strukturelle Inhomogenitäten</td>
+<td style="text-align: center;">47e</td>
+<td>184</td>
+<td>List 28</td>
+<td>Strukturelle Inhomogenitäten (sofern nicht substanziell differenzierbar)</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>stratigraphy</td>
+<td>Stratigrafie</td>
+<td style="text-align: center;">48</td>
+<td>187</td>
+<td>List 29</td>
+<td>Stratigrafische Einheiten</td>
+</tr>
+<tr>
+<td>remarks (horizon)</td>
+<td>Bemerkungen (zum Horizont)</td>
+<td style="text-align: center;">49</td>
+<td>190</td>
+<td>List 30</td>
+<td>Geruch</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil type</td>
+<td>Bodentyp</td>
+<td style="text-align: center;">50</td>
+<td>199</td>
+<td>List 31</td>
+<td>Bodensystematische Abteilungen, Klassen und Typen mit Horizontfolgen</td>
+</tr>
+<tr>
+<td>humus form</td>
+<td>Humusform</td>
+<td style="text-align: center;">50</td>
+<td>264</td>
+<td>Tab. 46</td>
+<td>Kriterien und diagnostische Horizontmerkmale der Varietäten</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>ground water level</td>
+<td>Grundwasserstufe</td>
+<td style="text-align: center;">53a</td>
+<td>311</td>
+<td>Tab. 59</td>
+<td>Einstufung der Grundwasserstände</td>
+</tr>
+<tr>
+<td>soil wetness class</td>
+<td>Vernässungsgrad</td>
+<td style="text-align: center;">54</td>
+<td>315</td>
+<td>Tab. 61</td>
+<td>Ermittlung des Vernässungsgrades für Grund-, Stau- und Haftnässeböden</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>degree of erosion</td>
+<td>Erosionsgrad</td>
+<td style="text-align: center;">55</td>
+<td>316</td>
+<td>Tab. 62</td>
+<td>Erosionsgrad und bodensystematische Ansprache</td>
 </tr>
 </tbody>
 </table>
@@ -164,42 +594,216 @@ _Table 11: Parameters for field soil description provided with code lists in Ger
 
 <br>
 
-_Table 12: Parameters for field soil description provided with code lists in DIN 4220:2008-11_
+### Table 12
+_Parameters for field soil description provided with code lists in DIN 4220:2008-11_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
-
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
+<th><strong>Parameter (EN)</strong></th>
+<th><strong>Parameter (D)</strong></th>
+<th><strong>field</strong></th>
+<th><strong>p.</strong></th>
+<th><strong>Code list name</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>soil and site characteristics</td>
+<td>Boden- und Standorteigenschaften</td>
+<td style="text-align: center;">10</td>
+<td>1</td>
+<td>Einstufung von Boden- und Standorteigenschaften</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>size and scale of features</td>
+<td>Größen und Skalenbereich von Erscheinungsformen</td>
+<td style="text-align: center;">11</td>
+<td>2</td>
+<td>Einstufung von Größen, Einteilung in Mikro-, Meso-, Makroskala</td>
 </tr>
 <tr>
-<td></td>
+<td>area percentage of features</td>
+<td>Flächenanteil von Erscheinungsformen</td>
+<td style="text-align: center;">11</td>
+<td>3</td>
+<td>Flächenanteil von Erscheinungsformen in Böden</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>soil texture class (fine soil)</td>
+<td>Bodenart (Feinboden)</td>
+<td style="text-align: center;">12</td>
+<td>4</td>
+<td>Kornfraktionen des Feinbodens</td>
 </tr>
 <tr>
-<td></td>
+<td>coarse fragments</td>
+<td>Bodenart (Grobboden)</td>
+<td style="text-align: center;">12</td>
+<td>5</td>
+<td>Kornfraktionen des Grobbodens (Bodenskelett)</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>soil texture main group, soil texture group</td>
+<td>Bodenarten-Hauptgruppe, Bodenarten-Gruppe</td>
+<td style="text-align: center;">13</td>
+<td>6</td>
+<td>Bodenarten (Gruppierung, Benen-nung, Kurzzeichen, Kornfraktionen)</td>
+</tr>
+<tr>
+<td>sand texture classes</td>
+<td>Sandbodenart</td>
+<td style="text-align: center;">14</td>
+<td>7</td>
+<td>Unterteilung der Bodenart reiner Sand (0-5% Ton, 0-10% Schluff)</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>coarse soil shares</td>
+<td>Grobboden Beimengungen</td>
+<td style="text-align: center;">15</td>
+<td>8</td>
+<td>Einteilung Gemengeanteile Grobboden</td>
+</tr>
+<tr>
+<td>humus content</td>
+<td>Humusgehalt</td>
+<td style="text-align: center;">16</td>
+<td>9</td>
+<td>Einstufung Humusgehaltes (organische Substanz) von Böden</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>rootable depth class</td>
+<td>Durchwurzelbarkeit</td>
+<td style="text-align: center;">17</td>
+<td>10</td>
+<td>Einstufung Durchwurzelbarkeit (physiologische Gründigkeit)</td>
+</tr>
+<tr>
+<td>root density</td>
+<td>Durchwurzelungsintensität</td>
+<td style="text-align: center;">17</td>
+<td>11</td>
+<td>Einstufung Durchwurzelungsintensität</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>dry bulk density</td>
+<td>Trockenrohdichte</td>
+<td style="text-align: center;">18</td>
+<td>12</td>
+<td>Einstufung Trockenrohdichte</td>
+</tr>
+<tr>
+<td>ground water level</td>
+<td>Grundwasserstufe</td>
+<td style="text-align: center;">18</td>
+<td>13</td>
+<td>Grundwasserstufen in Abhängigkeit mittl. Grundwasserflurabständen</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>capillary space</td>
+<td>Kapillarraum</td>
+<td style="text-align: center;">19</td>
+<td>14</td>
+<td>Einstufung geschlossener Kapillarraum</td>
+</tr>
+<tr>
+<td>field capacity</td>
+<td>Feldkapazität</td>
+<td style="text-align: center;">20</td>
+<td>16</td>
+<td>Einstufung Feldkapazität</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>plant available water</td>
+<td>nutzbare Feldkapazität</td>
+<td style="text-align: center;">20</td>
+<td>17</td>
+<td>Einstufung nutzbare Feldkapazität</td>
+</tr>
+<tr>
+<td>soil porosity</td>
+<td>Luftkapazität</td>
+<td style="text-align: center;">21</td>
+<td>18</td>
+<td>Einstufung der Luftkapazität</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>water content at wilting point</td>
+<td>Totwasser</td>
+<td style="text-align: center;">21</td>
+<td>19</td>
+<td>Einstufung des Totwassers</td>
+</tr>
+<tr>
+<td>total pore volume</td>
+<td>Gesamtporenvolumen</td>
+<td style="text-align: center;">21</td>
+<td>20</td>
+<td>Einstufung Gesamtporenvolumens und Porenziffer</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>water permeability</td>
+<td>Wasserdurchlässigkeit</td>
+<td style="text-align: center;">22</td>
+<td>21</td>
+<td>Einstufung Wasserdurchlässigkeit</td>
+</tr>
+<tr>
+<td>air permeability</td>
+<td>Luftdurchlässigkeit</td>
+<td style="text-align: center;">22</td>
+<td>22</td>
+<td>Einstufung Luftdurchlässigkeit</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil reaction </td>
+<td>Bodenreaktion (pH-Wert)</td>
+<td style="text-align: center;">23</td>
+<td>23</td>
+<td>Einstufung Bodenreaktion</td>
+</tr>
+<tr>
+<td>redox potential</td>
+<td>Redoxspotenzial</td>
+<td style="text-align: center;">23</td>
+<td>24</td>
+<td>Einstufung Redoxbedingung</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>CEC</td>
+<td>KAK</td>
+<td style="text-align: center;">24</td>
+<td>25</td>
+<td>Einstufung potentieller KAK</td>
+</tr>
+<tr>
+<td>base saturation</td>
+<td>Basensättigung</td>
+<td style="text-align: center;">24</td>
+<td>26</td>
+<td>Einstufung Basensättigung und Zuordnung von pH-Wert-Bereichen</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>peat type</td>
+<td>Torfart</td>
+<td style="text-align: center;">25</td>
+<td>27</td>
+<td>Botanische Gliederung von Torfen</td>
+</tr>
+<tr>
+<td>substance volume</td>
+<td>Substanzvolumen</td>
+<td style="text-align: center;">26</td>
+<td>28</td>
+<td>Einstufung Substanzanteils von Moorböden</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>slope gradient level</td>
+<td>Hangneigungsstufe</td>
+<td style="text-align: center;">27</td>
+<td>29</td>
+<td>Einstufung Hangneigung</td>
 </tr>
 </tbody>
 </table>
@@ -214,7 +818,8 @@ Guideline, 4th edition (KA4).
 
 <br>
 
-_Table 13: Parameters for field soil description provided with code lists in the Guidelines for Soil Assessment_ 
+### Table 13
+_Parameters for field soil description provided with code lists in the Guidelines for Soil Assessment_ 
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -262,7 +867,8 @@ In many cases several code lists are given for a distinct parameter describing d
 
 <br>
 
-_Table 14: Parameters provided with code lists in FAO Guidelines for soil description (4th edition, 2006)_
+### Table 14
+_Parameters provided with code lists in FAO Guidelines for soil description (4th edition, 2006)_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -305,7 +911,8 @@ _Table 14: Parameters provided with code lists in FAO Guidelines for soil descri
 
 <br>
 
-_Table 15: Parameters provided with code lists in ISO 25177:2008, Soil description in the field_
+### Table 15
+_Parameters provided with code lists in ISO 25177:2008, Soil description in the field_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -348,7 +955,8 @@ _Table 15: Parameters provided with code lists in ISO 25177:2008, Soil descripti
 
 <br>
 
-_Table 16: INSPIRE Code List register for soil parameter (selected)_
+### Table 16
+_INSPIRE Code List register for soil parameter (selected)_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -453,7 +1061,8 @@ associated with a controlled vocabulary which in ISO standard is referred to as 
 
 <br>
 
-_Table 17: Further relevant code lists and glossaries_
+### Table 17
+_Further relevant code lists and glossaries_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -488,7 +1097,8 @@ _Table 17: Further relevant code lists and glossaries_
 
 <br>
 
-_Table 18: Glossaries and vocabularies_
+### Table 18
+_Glossaries and vocabularies_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
