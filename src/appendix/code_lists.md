@@ -1386,27 +1386,151 @@ _Parameters provided with code lists in ISO 25177:2008, Soil description in the 
 <th><strong>Parameter (D)</strong></th>
 <th><strong>p.</strong></th>
 <th><strong>Code List-No.</strong></th>
-<th><strong>Code list name</strong></th>
+<th> <div style="color: #A8A8A8;">_</div>
+<strong>Code list name</strong> <div style="color: #A8A8A8;">__________</div></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>precipitation</td>
+<td>Niederschlag</td>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">-</td>
+<td>Vorangegangene Niederschlagsereignisse</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>land use</td>
+<td>Flächennutzung</td>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">-</td>
+<td>Flächennutzung (ausführliche Felduntersuchung) auf Plottebene</td>
 </tr>
 <tr>
-<td></td>
+<td>nature of the water</td>
+<td>Grundwasserbeschaffenheit</td>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">-</td>
+<td>Beschaffenheit des Wassers</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>percentage of rock outcrops or non-natural materials</td>
+<td>Flächenanteil von Gesteins-aufschlüssen oder „nicht natürlichen“ Oberflächen</td>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">-</td>
+<td>Prozentualer Anteil von Gesteins-aufschlüssen oder „nicht natürlichen“ Oberflächen</td>
 </tr>
 <tr>
-<td></td>
+<td>erosion and soil accumulation</td>
+<td>Gegenwärtige Erosion und Akkumulation</td>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">-</td>
+<td>Anzeichen von Erosion</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>abundance of mottles</td>
+<td>Flächenanteil von Flecken</td>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">-</td>
+<td>Häufigkeit von Flecken</td>
+</tr>
+<tr>
+<td>organic matter content</td>
+<td>Gehalt an org. Substanz</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">-</td>
+<td>Geschätzter Gehalt org. Substanz</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>abundance of coarse elements</td>
+<td>Grobbodenanteil</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">-</td>
+<td>Grobboden, Auftreten (als Volumenanteil in Prozent)</td>
+</tr>
+<tr>
+<td>maximum grain size of coarse elements</td>
+<td>Maximale Korngröße Grobboden</td>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">-</td>
+<td>Max. Korngröße häufig auftretender Bestandteile des Grobbodens</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>carbonate content</td>
+<td>Carbonatgehalt</td>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">-</td>
+<td>Intensität des Aufbrausens</td>
+</tr>
+<tr>
+<td>carbonate distribution</td>
+<td>Carbonatverteilung</td>
+<td style="text-align: center;">17</td>
+<td style="text-align: center;">-</td>
+<td>Auftreten des Aufbrausens</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil structure</td>
+<td>Bodengefüge</td>
+<td style="text-align: center;"> <p> 17 </p> 39 </td>
+<td style="text-align: center;"> <p>-</p> Fig. F.1 </td>
+<td><p>Hauptkategorien des Bodengefüges</p>
+Bodengefügeformen</td>
+</tr>
+<tr>
+<td>compactness</td>
+<td>Festigkeit</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">-</td>
+<td>Festigkeit</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>porosity</td>
+<td>Porenanteil</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">-</td>
+<td>Geschätzte Gesamtporosität</td>
+</tr>
+<tr>
+<td>root diameter</td>
+<td>Wurzeldurchmesser</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">-</td>
+<td>Dicke (Durchmesser) der am häufigsten auftretenden Wurzeln</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>root density</td>
+<td>Durchwurzelungsintensität</td>
+<td style="text-align: center;">19</td>
+<td style="text-align: center;">-</td>
+<td>Häufigkeit von Wurzeln</td>
+</tr>
+<tr>
+<td>density of worm channels</td>
+<td>Wurmröhrendichte</td>
+<td style="text-align: center;">19</td>
+<td style="text-align: center;">-</td>
+<td>Dichte von Wurmgängen</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>lower horizon boundary form</td>
+<td>Horizontuntergrenze Form</td>
+<td style="text-align: center;">19</td>
+<td style="text-align: center;">-</td>
+<td>Kontur der unteren Horizontbegrenzung</td>
+</tr>
+<tr>
+<td>Reference Soil Groups</td>
+<td>Referenzbodengruppen</td>
+<td style="text-align: center;">21</td>
+<td style="text-align: center;">Tab. B.1</td>
+<td>Referenzbodengruppen der WRB (FAO, ISRIC und ISSS, 2006)</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>fine earth fractions</td>
+<td>Feinbodenfraktionen</td>
+<td style="text-align: center;">35</td>
+<td style="text-align: center;">Tab. D.1</td>
+<td>Richtwerte für die Einteilung mineralischer Böden mit Korngrößenbereichen</td>
 </tr>
 </tbody>
 </table>
