@@ -1057,58 +1057,61 @@ _Parameters provided with code lists in FAO Guidelines for soil description (4th
 </thead>
 <tbody>
 <tr>
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
+<td>weather</td>
+<td style="text-align: center;"> <p> 9 </p> 9 </td>
+<td style="text-align: center;"> <p> 2 </p>  2</td>
+<td> <p>Codes for weather conditions (Schoeneberger et al., 2012) </p>
+Former weather conditions (Ad-hoc-AG-Boden, 2005)</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
+<td>soil climate</td>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">3</td>
+<td>Soil temperature and moisture regime codes</td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
+<td>landform (relief)</td>
+<td style="text-align: center;"> <p> 11 </p> 11</td>
+<td style="text-align: center;"> <p> 4 </p> 5 </td>
+<td> <p>Hierarchy of major landforms</p>
+Subdivisions for complex landforms
+</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
+<td>slope form</td>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">6</td>
+<td>Classification of slope forms</td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
+<td>slope gradient </td>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">7</td>
+<td>Slope gradient classes</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
+<td>land use</td>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">8</td>
+<td>Land use classification</td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
+<td>cultivation</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">9</td>
+<td>Crop codes</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
+<td>anthropogenic influence</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">10</td>
+<td>Recommended codes for human influence</td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
+<td>vegetation</td>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">11</td>
+<td>Vegetation classification</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td></td>
