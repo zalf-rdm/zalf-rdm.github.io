@@ -10,15 +10,12 @@ _Overview of existing standards_
 
 ### German Soil Survey Guidelines ![](/static/img/two_star.jpg)
 
-!!!secondary
-German Soil Survey Guidelines (“Bodenkundliche Kartieranleitung”), 5th edition, Ad-hoc-AG Boden (2005, KA5), short: KA5
-!!!
-
 The first edition (1965) was a nation-wide accepted guideline in administration and research. Still in use in some
 federal states are also the editions (KA4, 1994 and KA3, 1982). The administrative soil surveys of the federal states (
 Bundesländer) often use adaptations and modifications of this guideline. A shortened and simplified version of the
-German Soil Survey Guidelines has been extracted from KA5 for soil conservation purposes (Arbeitshilfe Boden; short:
-AHB); the Federal Soil Protection and Contaminated Sites Ordinance in Germany refers nonetheless to KA4.
+German Soil Survey Guidelines has been extracted from KA5 [[1]](https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl)
+for soil conservation purposes (Arbeitshilfe Boden; short: AHB); the Federal Soil Protection and Contaminated Sites
+Ordinance in Germany refers nonetheless to KA4.
 
 The major part is about describing site, soil profile, layers and horizons, naming horizons and soil’s allocation in the
 German soil system (“Bodensystematik”) as well as a classification of the soil material (substrate classification;
@@ -213,3 +210,13 @@ Soil Groups (RSG) with principal and supplementary qualifiers. A simple translat
 name is not feasible for a wide range of soil types due to the deviant approaches. Moreover, WRB uses analytical
 parameters for classification, which are either not available for many soil profiles in Germany or are analyzed with
 different methods than those intended by WRB.
+
+
+:::bonares_reference
+
+[1] Boden, Ad-hoc-AG (2005). Bodenkundliche Kartieranleitung (German Soil Survey Guideline). Hannover.
+
+[2] 
+
+:::
+
