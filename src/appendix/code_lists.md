@@ -1539,34 +1539,99 @@ Bodengefügeformen</td>
 <br>
 
 ### Table 16
-_INSPIRE Code List register for soil parameter (selected)_
+_[INSPIRE](https://inspire.ec.europa.eu/codelist) Code List register for soil parameter (selected)_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
+<th><strong>Content/Definition</strong></th>
+<th><strong>Name</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>master horizon symbols</td>
+<td>FAO Horizon Master Value </td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>subordinate horizon symbol</td>
+<td>FAO Horizon Subordinate Value</td>
 </tr>
 <tr>
-<td></td>
+<td>connotes the master horizon symbol of the lower of 2 or 3 (prime, double prime)
+horizons with identical Arabic-numeral prefixes & letter combinations</td>
+<td>FAO Prime Value</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>values indicating the placement of the Qualifier with regard to the WRB reference
+soil group (RSG).</td>
+<td>WRB Qualifier Place Value</td>
 </tr>
 <tr>
-<td></td>
+<td>possible qualifiers of the WRB for Soil Resources</td>
+<td>WRB Qualifier Value</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>possible RSG (i.e. first level of classification of the WRB for Soil Resources). RSG are distinguished
+by the presence/ absence of specific diagnostic horizons, properties and/or materials</td>
+<td>WRB Reference Soil Group Value</td>
+</tr>
+<tr>
+<td>possible specifiers</td>
+<td>WRB Specifier Value</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>gives an idea whether current non-pedogenic processes affect the soil or not</td>
+<td>Layer Genesis Process State Value</td>
+</tr>
+<tr>
+<td>layer classification</td>
+<td>Layer Type Value</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>properties that can be observed to characterize the profile element</td>
+<td>Profile Element Parameter Name Value</td>
+</tr>
+<tr>
+<td>properties that can be derived from soil data</td>
+<td>Soil Derived Object Parameter Name Value</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>status of contaminating activity</td>
+<td>Contaminating Activity Presence Value</td>
+</tr>
+<tr>
+<td>possible values indicating reasons for conducting a survey</td>
+<td>Soil Investigation Purpose Value</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>terms specifying on what plot observation is made</td>
+<td>Soil Plot Type Value</td>
+</tr>
+<tr>
+<td>properties observations to characterize soil profiles</td>
+<td>Soil Profile Parameter Name Value</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>properties observations to characterize soil sites</td>
+<td>Soil Site Parameter Name Value</td>
+</tr>
+<tr>
+<td>trigger to have site or future investigations</td>
+<td>Investigation Trigger Value</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>status risk assessment</td>
+<td>Risk Assessment Stage Value</td>
+</tr>
+<tr>
+<td>entities exposed to pollutants at the site.</td>
+<td>Risk Receptor Value</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>indicates restrictions on the site as a consequence of the current situation</td>
+<td>Soil Contamination Specialized Zone Type Code</td>
 </tr>
 </tbody>
 </table>
@@ -1576,53 +1641,55 @@ _INSPIRE Code List register for soil parameter (selected)_
 
 ### Important code lists for crops, breeding, agriculture, land use, and measures
 
--	The International Code Council (ICC) develops affordable code lists for global markets, agriculture and science.
+-	The **International Code Council** ([ICC](https://www.iccsafe.org)) develops affordable code lists for global markets, agriculture and science.
 
--	Within its World Program for the Census of Agriculture 2010, the FAO published an “Alphabetic List of Crops with
+-	Within its World Program for the Census of Agriculture 2010, the **FAO** published an “Alphabetic List of Crops with
 Botanical Names and Crop Codes” (FAO, 2005). 
 
--	The Indicative Crop Classification (ICC-FAO) lists crop codes. The 2-4 digits codes do not differ between varieties
-and sowing dates (e.g. winter wheat). In 2017 a new version 1.1 was published which is now closely based on the Central
-Product Classification (CPC).
+-	The [Indicative Crop Classification](https://www.fao.org/fileadmin/templates/ess/documents/world_census_of_agriculture/appendix4_r7.pdf)
+(**ICC**-FAO) lists crop codes. The 2-4 digits codes do not differ between varieties and sowing dates (e.g. winter wheat).
+In 2017 a new version 1.1 was published which is now closely based on the Central Product Classification (CPC).
 
--	The NCDI provides an extensive list of codes, besides many others, for field crops
+-	The [NCDI](https://www.ncbi.nlm.nih.gov/taxonomy) provides an extensive list of codes, besides many others, for field crops
 
 -	The Central Product Classification (CPC) Version 2.1 was published by the United Nations (2015) and classifies goods
 and services such as crop products.
 
--	A code list for crops is provided by the Clemson University (2008). 
+-	A code list for crops is provided by the **Clemson University** (2008). 
 
--	The Genetic Resources Information System (GRIS) provides breeding and variety information and codes for wheat and 
+-	The Genetic Resources Information System ([GRIS](http://wheatpedigree.net)) provides breeding and variety information and codes for wheat and 
 triticale (09:2018: 171,000 varieties)
 
 -	The Agronomy Ontology (AgrO) is built by CGIAR and describes agronomic practices, techniques and variables used in
 agronomic experiments. It provides codes for tillage practices.
 
 -	Codes for tractors and other agricultural machineries are provided by the Harmonized Commodity Description and
-Coding System (HS-Codes) which was developed by the World Customs Organization (WCO).
+Coding System ([HS-Codes](https://www.foreign-trade.com/reference/hscode.htm)) which was developed by the World Customs Organization (WCO).
 
 -	In Germany crop types and varieties are registered, described and coded by the Federal Plant Variety Office
-(BSA, Bundessortenamt). It provides descriptive variety lists e.g. for cereals, maize, oil and fiber plants. 
+(**BSA**, Bundessortenamt). It provides descriptive variety lists e.g. for cereals, maize, oil and fiber plants. 
 
--	Within the extended BBCH-scale phenological development stages are described and coded for all kinds of agricultural
+-	Within the extended **BBCH-scale** phenological development stages are described and coded for all kinds of agricultural
 plants and products (Hack, 1992).
 
--	Based on the EU-regulation 1305/2013 (in Germany “InVeKoS”) code lists on different crop types and culture codes,
+-	Based on the EU-regulation [1305/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R1305&from=DE)
+(in Germany “InVeKoS”) code lists on different crop types and culture codes,
 3 digits were established (e.g., Flächennutzungsnachweis, FNN).
 
--	In the United States, fertilizers are listed in the UFTRS Code List (Uniform Fertilizer Tonnage Reporting System, 3 digits).
+-	In the United States, fertilizers are listed in the [UFTRS](http://agriculture.ks.gov/docs/default-source/pest---fert-uftrs/pf-uftrs-codes.pdf?sfvrsn=0)
+**Code List** (Uniform Fertilizer Tonnage Reporting System, 3 digits).
 
--	The Federal Office of Consumer Protection and Food Security (BVL) provides code lists on land use (1 letter),
-plant protection (active substances, 4 digits), function (1 letter), authorization holders (3-4 characters), 
-and type of formulation (2 letters). 
+-	The Federal Office of Consumer Protection and Food Security ([BVL](http://biosicherheit-bch.de/SharedDocs/Downloads/04_Pflanzenschutzmittel/psm_uebersichtsliste.pdf?__blob=publicationFile&v=33))
+provides code lists on land use (1 letter), plant protection (active substances, 4 digits), function (1 letter),
+authorization holders (3-4 characters), and type of formulation (2 letters). 
 
--	The EPPO-Code (European and Mediterranean Plant Protection Organization) contains plants, pests and pathogens in the
+-	The **EPPO-Code** (European and Mediterranean Plant Protection Organization) contains plants, pests and pathogens in the
 frame of agriculture and crop protection.
 
--	Land use classes are coded in the CORINE Land Cover (CLC) including a 3-level nomenclature. Agricultural areas start
-with number “2”.
+-	Land use classes are coded in the CORINE Land Cover ([CLC](https://www.eea.europa.eu/publications/COR0-landcover))
+including a 3-level nomenclature. Agricultural areas start with number “2”.
 
--	The code system UCUM (Unified Code for Units of Measure) includes units of measures being contemporarily used in
+-	The code system **UCUM** (Unified Code for Units of Measure) includes units of measures being contemporarily used in
 international science and engineering. UCUM is based on EN ISO 80000 and is used e.g. for electronical data interchange protocols.
 
 
@@ -1651,28 +1718,45 @@ _Further relevant code lists and glossaries_
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
+<th><strong>Feature</strong></th>
+<th><strong>Publisher/Standard</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>air quality, exchange of data</td>
+<td>ISO 7168-1:1999</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td><p>coordinate reference systems</p>
+culture codes, crop types</td>
+<td><p><a href="https://epsg.org/home.html">EPSG</a>-Codes</p>
+InVeKoS-FNN (Flächen- und Nutzungsnachweis)</td>
 </tr>
 <tr>
-<td></td>
+<td>date and time</td>
+<td>ISO 8601:2004</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>languages, language names</td>
+<td>ISO 639-1:2002 and ISO 639-2:1998 <br>
+DIN 2335:2014-07</td>
 </tr>
 <tr>
-<td></td>
+<td>SI units</td>
+<td>EN ISO 80000-1ff series</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>soil data formats</td>
+<td>ISO 28258:2013; INSPIRE DS Soil</td>
+</tr>
+<tr>
+<td>sprayers</td>
+<td>ISO 10627-2:1996</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>vegetation survey (homogeneity, species, abundance)</td>
+<td>Braun-Blanquet-Scale (Relevé method)</td>
 </tr>
 </tbody>
 </table>
@@ -1687,28 +1771,78 @@ _Glossaries and vocabularies_
 <table class="comfortable">
 <thead style="font-size: 24px; background-color: #A8A8A8">
 <tr>
-<th><strong>Content</strong></th>
-<th><strong>Standard</strong></th>
+<th><strong>Feature</strong></th>
+<th><strong>Publisher/Standard</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td>access panels in market, opinion, social research</td>
+<td>ISO 26362:2009</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>castors and wheels</td>
+<td>EN 12526:1998</td>
 </tr>
 <tr>
-<td></td>
+<td>earth-moving machinery</td>
+<td>ISO 6165:2012</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>equipment for crop protection</td>
+<td>ISO/DIS 5681:2014</td>
 </tr>
 <tr>
-<td></td>
+<td>equipment of harvesting</td>
+<td>ISO 6689-1:1997</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td></td>
+<td>forage harvester</td>
+<td>ISO 8909-1:1994</td>
+</tr>
+<tr>
+<td>grain species</td>
+<td>ISO 5527:2015</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>market, opinion and social research</td>
+<td>ISO 20252:2006</td>
+</tr>
+<tr>
+<td>meteorology (data aggregation)</td>
+<td>VDI 3786-1:2013</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>quality management</td>
+<td>EN ISO 9000:2015</td>
+</tr>
+<tr>
+<td>soil quality</td>
+<td>ISO 11074:2015</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>soil tillage, ploughing</td>
+<td>ISO 8910:1993 </td>
+</tr>
+<tr>
+<td>soil water</td>
+<td>ISO 15709:2002</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>statistics (terms, symbols)</td>
+<td>ISO 3534-1:2006</td>
+</tr>
+<tr>
+<td>tractors and (self-propelled) machines</td>
+<td>ISO 14269-1:1997</td>
+</tr>
+<tr style="background-color: #d3d3d3;">
+<td>tractors - symbols for operators</td>
+<td>ISO 3767-2:2008</td>
+</tr>
+<tr>
+<td>water quality</td>
+<td>ISO 6107-1:2004 </td>
 </tr>
 </tbody>
 </table>
