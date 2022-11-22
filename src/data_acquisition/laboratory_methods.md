@@ -20,7 +20,7 @@ Soil sample pretreatment for laboratory analysis are defined by **ISO 11464:2006
 contains statistical approaches and calibration features for chemical analysis and describes limits of
 detection and determination under statistical replication conditions. Alternative methods
 on detection limits and calibration can be found within the international standard **DIN ISO
-11843-1ff** series![](/static/img/two_star.png) (see below). In Table 2 important standards for soil quality analysis
+11843-1ff** series![](/static/img/two_star2.png) (see below). In Table 2 important standards for soil quality analysis
 are listed.
 
 <br>
@@ -374,12 +374,9 @@ common sources of errors are given in this documentation of laboratory methods.
 
 <br>
 
-### Handbook of Forestal Analytics, GAFA 
+### Handbook of Forestal Analytics
 !!!secondary
-(Handbuch Forstliche Analytik, HFA)
-!!!
-!!!secondary
-(2005, suppl.1–5, 2014)
+Handbuch Forstliche Analytik (HFA), GAFA (2005, suppl.1–5, 2014) [[5]](https://www.thuenen.de/media/institute/wo/Waldmonitoring/bze/HFA-Gesamtdatei_2014.pdf) 
 !!!
 
 Loose-leaf collection with 5 supplements containing harmonized analytical methods for the resources
@@ -425,5 +422,7 @@ Sekundärrohstoffdünger, Kultursubstrate und Bodenhilfsstoffe.
 
 [4]Utermann, J., A. Gorny, M. Hauenstein, V. Malessa, U. Müller and B. Schffer (2000). Labormethoden-Dokumentation.
 Geologisches Jahrbuch. Reihe G: Informationen aus den Bund/Länder-Arbeitsgruppen der Staatlichen Geologischen Dienste(8): 1–215.
+
+[5] GAFA, Gutachterausschuss Forstliche Analytik (2005). Handbook of Forestal Analytics (Handbuch Forstliche Analytik, HFA) with 5 supplements.
 
 :::
