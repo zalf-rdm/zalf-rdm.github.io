@@ -16,7 +16,7 @@ comparability and interoperability.
 _Overview of existing standards_
 
 Soil sample pretreatment for laboratory analysis are defined by **ISO 11464:2006**![](/static/img/two_star.png) and
-<br> **DIN 19747:2009** ![](/static/img/one_star2.png). The national standard **DIN 32645:2008-11** ![](/static/img/one_star2.png)
+<br> **DIN 19747:2009** ![](/static/img/one_star.png). The national standard **DIN 32645:2008-11** ![](/static/img/one_star2.png)
 contains statistical approaches and calibration features for chemical analysis and describes limits of
 detection and determination under statistical replication conditions. Alternative methods
 on detection limits and calibration can be found within the international standard **DIN ISO
