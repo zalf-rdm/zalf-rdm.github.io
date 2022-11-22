@@ -7,7 +7,7 @@ order: 60
 
 The regulation of soil management is less ruled by ISO standards but more by laws, policies,
 commitments, and recommendations. However, most soil management practices strongly depend on
-local soil characteristics and changing biological and physico-chemical conditions as well as variable
+local soil characteristics and changing biological and physio-chemical conditions as well as variable
 meteorological phases. In this context, flexible management activities by farmers including a frame for
 open regulations are provided by lawmakers and agricultural agencies.
 
@@ -17,17 +17,17 @@ _Overview of existing standards_
 
 ### Association for Technologies and Structures in Agriculture (KTBL), Germany
 
-The handbook “Operation Planning Agriculture 2014/15“![](/static/img/two_star.jpg)(KTBL, 2014) provides methodical
+The handbook “Operation Planning Agriculture 2014/15“![](/static/img/two_star.png)(KTBL, 2014)[[1]](https://www.ktbl.de/themen/bodenbearbeitungbestellung) provides methodical
 information on soil management questions. For soil management sequences, key parameters for
 economic success and costs per unit agricultural products are listed. The Pocket Book Agriculture
-(KTBL, 2015) provides, beside others, information on agricultural machines, prices for services and
+(KTBL, 2015)[[2]](https://www.ktbl.de/shop/produktkatalog/19518) provides, beside others, information on agricultural machines, prices for services and
 machines, and fertilizers, in numerous tables. Soil tillage tools and cropping systems in national
 contexts are provided. For example, no-till and non-turning cultivation are described in the “Definition
 of Soil Tillage and Management Systems”.
 
 <br>
 
-### Good Agricultural Practice (GAP) ![](/static/img/two_star.jpg)
+### Good Agricultural Practice (GAP) ![](/static/img/two_star.png)
 
 GAP for soil management are national and international commitments and principles to reduce soil
 erosion and prevent soil functions such as soil fertility as a contribution to assure food security (FAO,
@@ -35,7 +35,7 @@ erosion and prevent soil functions such as soil fertility as a contribution to a
 
 <br>
 
-### ICASA ![](/static/img/one_star.jpg)
+### ICASA ![](/static/img/one_star.png)
 #### Data Standards for Agricultural Field Experiments and Production 
 
 !!!secondary
@@ -49,7 +49,7 @@ standard is XML and was assessed by the FAO (White et al., 2013).
 
 <br>
 
-### NRCS ![](/static/img/one_star.jpg)
+### NRCS ![](/static/img/one_star.png)
 #### Natural Resources Conservation Service
 
 This service provides numerous technical guidelines and conservation practice standards for soil and
@@ -111,3 +111,12 @@ so called “TGL standards” were applied for agricultural field experiments su
 Although TGL standards have expired in 1990, most legacy data from LTE in the former GDR were
 acquired by these standards. Even though these standards have expired, their former applications
 must be documented as metadata.
+
+:::bonares reference
+
+### References
+
+[1] KTBL (2014). Betriebsplanung 2014/2015. Kuratorium für Technik und Bauwesen in der Landwirtschaft e. V. Darmstadt.
+
+[2] KTBL (2015). KTBL-Taschenbuch Landwirtschaft. Darmstadt.
+:::

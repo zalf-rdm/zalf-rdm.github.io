@@ -8,7 +8,7 @@ order: 90
 
 _Overview of existing standards_
 
-### German Soil Survey Guidelines ![](/static/img/two_star.jpg)
+### German Soil Survey Guidelines ![](/static/img/two_star.png)
 
 The first edition (1965) was a nation-wide accepted guideline in administration and research. Still in use in some
 federal states are also the editions (KA4, 1994 and KA3, 1982). The administrative soil surveys of the federal states (
@@ -29,7 +29,7 @@ edition.
 
 <br>
 
-### World Reference Base for Soil Resources ![](/static/img/two_star.jpg)
+### World Reference Base for Soil Resources ![](/static/img/two_star.png)
 
 The WRB [[2]](https://www.fao.org/3/i3794en/I3794en.pdf) was developed by a working group with the participation of
 IUSS, FAO, and ISRIC. It provides a standard taxonomic soil classification system which allows the accommodation of
@@ -41,7 +41,7 @@ Qualifiers is defined. Classification is done by using both levels via diagnosti
 
 <br>
 
-### DIN 19682-1ff ![](/static/img/one_star.jpg) 
+### DIN 19682-1ff ![](/static/img/one_star.png) 
 #### Soil Quality - Field Investigation 
 
 The DIN 19682 series describes in 9 parts determination and measurement techniques for soil properties which are applicable in the field. 
@@ -52,7 +52,7 @@ carbonates, sulfides, pH-value and iron(II)-ions (13). This German standard is o
 
 <br>
 
-### Guidelines Soil Assessment ![](/static/img/one_star.jpg) 
+### Guidelines Soil Assessment ![](/static/img/one_star.png) 
 !!!secondary
 Feldbuch der Bodenschätzung[[3]](https://www.hlnug.de/fileadmin/dokumente/boden/Gefaehrdung/NAG/Arbeitsanleitung_neues_Feldschaetzungsbuch_mit_Abkuerzungsverzeichnis.pdf)
 !!!
@@ -67,7 +67,7 @@ is determined only by the profitability of the soil. It is the basis for taxatio
 
 <br>
 
-### FAO Guidelines for Soil Description (FAO, 2006) ![](/static/img/one_star.jpg)
+### FAO Guidelines for Soil Description (FAO, 2006) ![](/static/img/one_star.png)
 
 The FAO guidelines provide a complete procedure for soil description and for collecting fiel
 data necessary for classification according to second edition of the World Reference Bas
@@ -76,7 +76,7 @@ and explain the relevance of the described feature for classification according 
 
 <br>
 
-### ISO 25177:2008 ![](/static/img/one_star.jpg)
+### ISO 25177:2008 ![](/static/img/one_star.png)
 #### Soil Quality – Field Soil Description 
 
 ISO 25177 traditionally was based on the FAO Guidelines, but was removed from it during
@@ -95,7 +95,7 @@ investigation and partially corresponding code lists are provided (Appendix, Tab
 
 <br>
 
-### DIN 4220:2020-11 ![](/static/img/one_star.jpg)
+### DIN 4220:2020-11 ![](/static/img/one_star.png)
 #### Pedologic Site Assessment - Designation, Classification and Deduction of Soil Parameters 
 
 This German standard provides guidelines with several code lists, based on the German Soil
@@ -105,7 +105,7 @@ and deduction of pedologic parameters.
 
 <br>
 
-### DIN 19706 and DIN 19708 Soil erosion risk ![](/static/img/one_star.jpg)
+### DIN 19706 and DIN 19708 Soil erosion risk ![](/static/img/one_star.png)
 
 National standards provide guidelines and determination keys to quantify the risk of soil
 erosion by water (DIN 19708:2022) and wind (DIN 19706:2013). The DIN 19706 corresponds
@@ -113,7 +113,7 @@ to the international “Universal Soil Loss Equation” USLE and its modificatio
 
 <br>
 
-### DIN 19707:2004 ![](/static/img/one_star.jpg)
+### DIN 19707:2004 ![](/static/img/one_star.png)
 #### Classification of the nutrient supply conditions of soil 
 
 This national standard is used to classify nutrient supply conditions of agricultural used soils.

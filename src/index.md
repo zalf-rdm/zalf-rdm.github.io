@@ -34,9 +34,8 @@ stated and, based on internal and external expert knowledge, outstanding standar
 recommendations:
 
 !!!light Recommendation explanation
-<img src="/static/img/two_star.jpg" width="60" valign="bottom" > Favored = highly recommended for application <br>
-<img src="/static/img/one_star.jpg" width="60" valign="bottom" > OK = acceptable alternative but maybe requires later
-transformation
+![](/static/img/two_star.png) Favored = highly recommended for application <br>
+![](/static/img/one_star.png) OK = acceptable alternative but maybe requires later transformation
 !!!
 
 In the [Appendix](appendix/index.md) the highly recommended standards as well as many code lists, glossaries and web

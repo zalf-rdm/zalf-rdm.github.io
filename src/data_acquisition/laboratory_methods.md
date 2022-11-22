@@ -25,7 +25,7 @@ are listed.
 
 <br>
 
-### Methods of Soil Analysis ![](/static/img/two_star.jpg)
+### Methods of Soil Analysis ![](/static/img/two_star.png)
 !!!secondary
 (SSSA, 2017), Book Series 5 [[1] ](https://acsess.onlinelibrary.wiley.com/doi/book/10.2136/sssabookser5.1.2ed)
 !!!
@@ -36,7 +36,7 @@ Properties, Chemical Methods, Physical Methods, and Mineralogical Methods.
 
 <br>
 
-### Handbook of Soil Investigation ![](/static/img/two_star.jpg)
+### Handbook of Soil Investigation ![](/static/img/two_star.png)
 
 !!!secondary
 Handbuch der Bodenuntersuchung, Blume et al. 2016 [[2]](https://www.amazon.de/Handbuch-Bodenuntersuchung-Ergänzungslieferung-Hans-Peter-Blume/dp/3527343709)
@@ -52,7 +52,7 @@ Protection and Contaminated Sites Ordinance.
 
 <br>
 
-_Table 2: recommended soil quality analysis as regulated by national or international standards_ ![](/static/img/two_star.jpg)
+_Table 2: recommended soil quality analysis as regulated by national or international standards_ ![](/static/img/two_star.png)
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -224,7 +224,7 @@ DIN 19745:2006
 
 <br>
 
-### VDLUFA Method Book “The Investigation of Soils” ![](/static/img/two_star.jpg)
+### VDLUFA Method Book “The Investigation of Soils” ![](/static/img/two_star.png)
 !!!secondary
 Methodenbuch “Die Untersuchung von Böden”, VDLUFA, 2016 [[3]](https://www.vdlufa.de/Methodenbuch/index.php?option=com_content&view=article&id=46&Itemid=315&lang=de)
 !!!
@@ -238,7 +238,7 @@ matter, and many other soil chemical and physical analyses and field methods (Ta
 
 <br>
 
-_Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Book (VDLUFA, 2016)_ ![](/static/img/two_star.jpg)
+_Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Book (VDLUFA, 2016)_ ![](/static/img/two_star.png)
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -359,7 +359,7 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 
 <br>
 
-### Laboratory Methods for Soil Testing ![](/static/img/one_star.jpg)
+### Laboratory Methods for Soil Testing ![](/static/img/one_star.png)
 !!!secondary
 "Labormethoden-Dokumentation", Utermann et al., 2000 [[4]](https://www.amazon.de/Labormethoden-Dokumentation-Geologisches-Jahrbuch-Reihe-G/dp/3510958640)
 !!!
