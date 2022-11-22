@@ -11,6 +11,8 @@ parameters for each soil sample. In data repositories acknowledged coding system
 field- and laboratory methods should be used to enhance methods documentation, data
 comparability and interoperability.
 
+<br>
+
 _Overview of existing standards_
 
 Soil sample pretreatment for laboratory analysis are defined by **ISO 11464:2006**![](/static/img/two_star.png) and
@@ -21,17 +23,23 @@ on detection limits and calibration can be found within the international standa
 11843-1ff** series![](/static/img/two_star.png) (see below). In Table 2 important standards for soil quality analysis
 are listed.
 
-### Methods of Soil Analysis (SSSA, 2017), Book Series 5 ![](/static/img/two_star.jpg)
+<br>
+
+### Methods of Soil Analysis ![](/static/img/two_star.jpg)
+!!!secondary
+(SSSA, 2017), Book Series 5 [[1] ](https://acsess.onlinelibrary.wiley.com/doi/book/10.2136/sssabookser5.1.2ed)
+!!!
 
 The book series is a standard work in the US and collects lab and field methods in soil
 science within five parts: Physical and Mineralogical Methods, Microbial and Biochemical
 Properties, Chemical Methods, Physical Methods, and Mineralogical Methods.
 
+<br>
 
 ### Handbook of Soil Investigation ![](/static/img/two_star.jpg)
 
 !!!secondary
-(Handbuch der Bodenuntersuchung, Blume et al., 2016)
+Handbuch der Bodenuntersuchung, Blume et al. 2016 [[2]](https://www.amazon.de/Handbuch-Bodenuntersuchung-Ergänzungslieferung-Hans-Peter-Blume/dp/3527343709)
 !!!
 
 Loose-leaf collection with relevant standards (12,195 pages, 15 folders, in German) for soil
@@ -41,6 +49,8 @@ and transportation, extraction and fractionation techniques, analytical measurem
 evaluation methods. Many of these standards are enshrined in German legislation. More
 than 300 standards of the Handbook of Soil investigation are cited in the Federal Soil
 Protection and Contaminated Sites Ordinance.
+
+<br>
 
 _Table 2: recommended soil quality analysis as regulated by national or international standards_ ![](/static/img/two_star.jpg)
 
@@ -63,7 +73,7 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 <td>ammonium</td> <td>ISO/TS 14256-1:2003, -2:2005 </td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>carbon (TOC)</td> <td>ISO 14235:1998, ISO 10694:1995, EN 15936:2012, DIN 18128:2002</td>
+<td>carbon (TOC)</td> <td>ISO 14235:1998, ISO 10694:1995, EN 15936:2022, DIN 18128:2002</td>
 </tr>
 <tr>
 <td>carbonate</td> <td>ISO 10693:1995, DIN 19682-13:2009</td>
@@ -75,10 +85,10 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 <td>color</td> <td>DIN 19682-1:2007/td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>compression stress</td> <td>ISO 17892-5:2014</td>
+<td>compression stress</td> <td>ISO 17892-5:2017</td>
 </tr>
 <tr>
-<td>DNA extraction</td> <td>ISO 11063:2012</td>
+<td>DNA extraction</td> <td>ISO 11063:2020</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>dry bulk density</td> <td>ISO 11272:1998, ISO 17892-2:2015</td>
@@ -178,16 +188,23 @@ ISO/TS 29843-1:2014, -2:2014</p></td>
 <td>sampling of soil invertebrates</td> <td>ISO 23611 (1-6)</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>shear strength</td> <td>ISO 17892-6:2014</td>
+<td>shear strength</td> <td>ISO 17892-6:2017</td>
 </tr>
 <tr>
 <td>soil structure</td> <td>DIN 19682-10:2014</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>soil texture</td>
-<td>ISO 11277:1998, ISO 17892-4:2014, <br>
+<td>ISO 11277:1998, ISO 17892-4:2017, <br>
 DIN 18123:2011, DIN 19682-2:2014, <br>
 DIN 66115:1983</td>
+</tr>
+<tr>
+<td>soil water content/soil moisture</td>
+<td>ISO 11461:2001, ISO 17892-1:2014/AMD 1:2022, <br>
+DIN 18121-2:2020, DIN 19682-5:2007, <br>
+DIN 19745:2006
+</td>
 </tr>
 <tr>
 <td>Sulfide</td> <td>DIN 19682-13:2009</td>
@@ -209,7 +226,7 @@ DIN 66115:1983</td>
 
 ### VDLUFA Method Book “The Investigation of Soils” ![](/static/img/two_star.jpg)
 !!!secondary
-(Methodenbuch “Die Untersuchung von Böden”, VDLUFA, 2016)
+Methodenbuch “Die Untersuchung von Böden”, VDLUFA, 2016 [[3]](https://www.vdlufa.de/Methodenbuch/index.php?option=com_content&view=article&id=46&Itemid=315&lang=de)
 !!!
 
 Loose-leaf collection with seven supplements (1991-2016) . One of the main issues of VDLUFA
@@ -344,7 +361,7 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 
 ### Laboratory Methods for Soil Testing ![](/static/img/one_star.jpg)
 !!!secondary
-("Labormethoden-Dokumentation", Utermann et al., 2000)
+"Labormethoden-Dokumentation", Utermann et al., 2000 [[4]](https://www.amazon.de/Labormethoden-Dokumentation-Geologisches-Jahrbuch-Reihe-G/dp/3510958640)
 !!!
 
 This method book contains preferred analytical procedures for investigation of the most important soil
@@ -355,6 +372,7 @@ laboratory database of the Federal Institute for Geosciences and Natural Resourc
 about the application range of analytical methods, plausibility of analytical results, restrictions, and
 common sources of errors are given in this documentation of laboratory methods.
 
+<br>
 
 ### Handbook of Forestal Analytics, GAFA 
 !!!secondary
@@ -389,3 +407,23 @@ different countries. The establishment of an international IT-infrastructure on 
 could be an important step on this process.
 The authors can give support to find and use derivation tools (if any exist) to transfer data that was
 acquired according to national standards into international standards (see Chapter 2.3).
+
+<br>
+
+:::bonares_reference
+
+### References
+
+[1] SSSA (2017). Methods of Soil Analysis (Part 1-5).
+
+[2] Blume, Hans-Peter, Berthold Deller, Klaus Furtmann, Rainer Horn, Reimar Leschber, Andreas Paetz and Berndt-Michael Wilke (2016).
+Handbuch der Bodenuntersuchung: Terminologie, Verfahrensvorschriften und Datenblätter ; physikalische, chemische,
+biologische Untersuchungsverfahren ; gesetzliche Regelwerke. Berlin; Wien u.a., Beuth
+
+[3] VDLUFA (2016). Verband Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten. Methodenbuch Band II.2
+Sekundärrohstoffdünger, Kultursubstrate und Bodenhilfsstoffe.
+
+[4]Utermann, J., A. Gorny, M. Hauenstein, V. Malessa, U. Müller and B. Schffer (2000). Labormethoden-Dokumentation.
+Geologisches Jahrbuch. Reihe G: Informationen aus den Bund/Länder-Arbeitsgruppen der Staatlichen Geologischen Dienste(8): 1–215.
+
+:::

@@ -53,7 +53,9 @@ carbonates, sulfides, pH-value and iron(II)-ions (13). This German standard is o
 <br>
 
 ### Guidelines Soil Assessment ![](/static/img/one_star.jpg) 
-*Feldbuch der Bodenschätzung[[3]](https://www.hlnug.de/fileadmin/dokumente/boden/Gefaehrdung/NAG/Arbeitsanleitung_neues_Feldschaetzungsbuch_mit_Abkuerzungsverzeichnis.pdf)* 
+!!!secondary
+Feldbuch der Bodenschätzung[[3]](https://www.hlnug.de/fileadmin/dokumente/boden/Gefaehrdung/NAG/Arbeitsanleitung_neues_Feldschaetzungsbuch_mit_Abkuerzungsverzeichnis.pdf)
+!!!
 
 Soil assessment (“Bodenschätzung”) is the basis for the taxation of arable land in Germany. 
 Soil mapping according to these guidelines is required by law and organized by the German fiscal authorities. 
