@@ -35,7 +35,7 @@ agricultural products, e.g. maize, pasture grass and soy beans [[2]](https://www
 #### (European Parliament and of the Council relating to fertilizers) 
 
 The regulation treats all issues which are connected with fertilizers. In Annex IV numerous methods of
-samplings and laboratory analysis of fertilizers are given [3](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R2003). 
+samplings and laboratory analysis of fertilizers are given [[3]](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R2003). 
 
 <br>
 
@@ -49,15 +49,15 @@ plant protection products, risk assessment and diagnostic.
 ### VDLUFA Method Books, manure and fertilizing regulations ![](/static/img/two_star.png)
 
 Similar to soil management, crops, crop protection and fertilizing are predominantly regulated by national directives. 
-While the legal fertilizing regulation in Germany [4](http://www.bodeninstitut.de/cfiles/DV%202006-2012.pdf) only
-treats nitrogen and phosphorus, VDLUFA Method Books volumes II.1 [5](https://www.vdlufa.de/Methodenbuch/index.php?option=com_content&view=article&id=6&Itemid=109&lang=de)
-and II.2 [6](https://www.vdlufa.de/Methodenbuch/index.php?option=com_content&view=article&id=5&Itemid=110&lang=de)
+While the legal fertilizing regulation in Germany [[4]](http://www.bodeninstitut.de/cfiles/DV%202006-2012.pdf) only
+treats nitrogen and phosphorus, VDLUFA Method Books volumes II.1 [[5]](https://www.vdlufa.de/Methodenbuch/index.php?option=com_content&view=article&id=6&Itemid=109&lang=de)
+and II.2 [[6]](https://www.vdlufa.de/Methodenbuch/index.php?option=com_content&view=article&id=5&Itemid=110&lang=de)
 deal with all other relevant soil nutrients.
 
 <br>
 
 ### Cross-compliance 
-#### COUNCIL OF THE EUROPEAN UNION, 2009 [7](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32009R0073)
+#### COUNCIL OF THE EUROPEAN UNION, 2009 [[7]](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32009R0073)
 
 Cross-compliance mechanisms link payments to farmers with requirements on plant, animal and soil
 protection.
@@ -65,7 +65,7 @@ protection.
 <br>
 
 ### Water Framework Directive 
-#### COUNCIL OF THE EUROPEAN UNION, 2000 [8](https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX%3A32000L0060)
+#### COUNCIL OF THE EUROPEAN UNION, 2000 [[8]](https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX%3A32000L0060)
 
 The directive addresses, beside others, the water pollution by nitrates from agriculture, and is thus a
 legal framework for agricultural activities on crop protection and fertilization.
@@ -75,7 +75,7 @@ legal framework for agricultural activities on crop protection and fertilization
 ### Plant Protection Act, Germany
 
 It regulates the protection of field crops and agricultural products against harmful organisms and the prevention of health
-damages for plants, animals, natural systems and humans from the agriculture (Bundesministeriums der Justiz und für Verbraucherschutz, 2012).
+damages for plants, animals, natural systems and humans from the agriculture [[9]](https://www.gesetze-im-internet.de/pflschg_2012/PflSchG.pdf).
 
 _Further standards_ ![](/static/img/two_star.png)
 - For the investigation of the yield structure the determination of the mass of 1000 grains is a common approach, which is defined in **EN ISO 520:2010**.

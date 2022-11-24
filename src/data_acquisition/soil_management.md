@@ -17,10 +17,9 @@ _Overview of existing standards_
 
 ### Association for Technologies and Structures in Agriculture (KTBL), Germany
 
-The handbook “Operation Planning Agriculture 2014/15“![](/static/img/two_star.png)(KTBL, 2014)[[1]](https://www.ktbl.de/themen/bodenbearbeitungbestellung) provides methodical
+The handbook “Operation Planning Agriculture 2014/15“![](/static/img/two_star.png)[[1]](https://www.ktbl.de/themen/bodenbearbeitungbestellung) provides methodical
 information on soil management questions. For soil management sequences, key parameters for
-economic success and costs per unit agricultural products are listed. The Pocket Book Agriculture
-(KTBL, 2015)[[2]](https://www.ktbl.de/shop/produktkatalog/19518) provides, beside others, information on agricultural machines, prices for services and
+economic success and costs per unit agricultural products are listed. The Pocket Book Agriculture [[2]](https://www.ktbl.de/shop/produktkatalog/19518) provides, beside others, information on agricultural machines, prices for services and
 machines, and fertilizers, in numerous tables. Soil tillage tools and cropping systems in national
 contexts are provided. For example, no-till and non-turning cultivation are described in the “Definition
 of Soil Tillage and Management Systems”.
@@ -30,8 +29,7 @@ of Soil Tillage and Management Systems”.
 ### Good Agricultural Practice (GAP) ![](/static/img/two_star.png)
 
 GAP for soil management are national and international commitments and principles to reduce soil
-erosion and prevent soil functions such as soil fertility as a contribution to assure food security (FAO,
-2003)[[3]](https://www.fao.org/3/Y8704e/Y8704e.htm). GAP was implemented in numerous national and international agricultural policies and laws.
+erosion and prevent soil functions such as soil fertility as a contribution to assure food security [[3]](https://www.fao.org/3/Y8704e/Y8704e.htm). GAP was implemented in numerous national and international agricultural policies and laws.
 
 <br>
 
@@ -45,7 +43,7 @@ Version 2.0, 2013
 Published by the International Consortium for Agricultural System Applications (ICASA), it was set-up
 for documenting agricultural field experiments and modeling crop growth and development. It is used
 in the tool of the Decision Support System for Agrotechnology Transfer ([DSSAT](https://dssat.net/data/standards_v2/)). The format of the data
-standard is XML and was assessed by the FAO (White et al., 2013)[[4]](https://doi.org/10.1016/j.compag.2013.04.003).
+standard is XML and was assessed by the FAO [[4]](https://doi.org/10.1016/j.compag.2013.04.003).
 
 <br>
 
@@ -124,12 +122,12 @@ must be documented as metadata.
 [3] FAO (2003). Development of a Framework for Good Agricultural Practices. Rome.
 
 [4] White, J. W., L. A. Hunt, K. J. Boote, J. W. Jones, J. Koo, S. Kim, C. H. Porter, et al. (2013). Integrated description
-of agricultural field experiments and production: a The ICASA Version 2.0 data standards. Computers and Electronics in
+of agricultural field experiments and production: The ICASA Version 2.0 data standards. Computers and Electronics in
 Agriculture 96: 1-12. https://doi.org/10.1016/j.compag.2013.04.003
 
 [5] Bundes-Bodenschutzgesetz (BBodSchG) (1998). Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von Altlasten.
 
 [6] Bundes-Bodenschutz- und Altlastenverordnung (BBodSchV) vom 12. Juli 1999 (BGBl. I S. 1554)
 
-[7]Conditions, GAEC 1 - Good Agricultural and Environmental (2010). Soil Protection Review 2010.
+[7] Conditions, GAEC 1 - Good Agricultural and Environmental (2010). Soil Protection Review 2010.
 :::
