@@ -151,4 +151,15 @@ _Further Guidelines_
 - DESTATIS: statistical data e.g. classification of professions, thesaurus, statistical reporting, macro
 and micro data, table design, anonymization and privacy (see link list Chapter 4.3)
 - [Sustainability Reporting Guidelines](https://www.globalreporting.org/how-to-use-the-gri-standards/): GRI (Global Reporting Initiative)
-- EC 2015: [Better Regulations Guidelines](https://ec.europa.eu/info/law/law-making-process/planning-and-proposing-law/better-regulation-why-and-how/better-regulation-guidelines-and-toolbox_en) e.g. on impact assessment
+- EC 2015: [Better Regulations Guidelines](https://ec.europa.eu/info/law/law-making-process/planning-and-proposing-law/better-regulation-why-and-how/better-regulation-guidelines-and-toolbox_en)
+e.g. on impact assessment
+
+<br>
+
+:::bonares_references
+
+### References
+
+
+
+:::

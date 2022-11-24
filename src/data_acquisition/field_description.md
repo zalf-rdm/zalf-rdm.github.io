@@ -129,7 +129,7 @@ texture types.
 
 ### National
 
-The Soil Survey Guidelines in its 5th edition (KA5, [[1]](https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl))
+The Soil Survey Guidelines in its 5th edition (KA5 [[1]](https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl))
 is currently the valid basis for soil description in Germany.
 However, some administrative soil surveys of the federal states use modifications of these guidelines. Even prior
 editions of 1994 (KA4) and 1982 (KA3) are still applied. Harmonization of data acquired according to different editions
