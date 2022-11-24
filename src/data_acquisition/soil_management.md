@@ -71,8 +71,9 @@ obligatory measures.
 ### Federal Soil Protection Act and the <br> Federal Soil Protection and Contaminated Sites Ordinance 
 
 This german law and regulation set general legal requirements for agriculture and soil management to tackle
-degradation threats to soil, e.g. for weather- and site adapted tillage operations. Both, the BBodSchG (1998)
-and BBodSchV (1999) do not go into detail but are frameworks for more detailed policies.
+degradation threats to soil, e.g. for weather- and site adapted tillage operations. Both, the BBodSchG [[5]](https://www.gesetze-im-internet.de/bbodschg/BJNR050210998.html)
+(1998) and BBodSchV [[6]](https://www.gesetze-im-internet.de/bbodschv/BJNR155400999.html) (1999)
+do not go into detail but are frameworks for more detailed policies.
 
 <br>
 
@@ -88,8 +89,8 @@ support for up-scaling sustainable land management among the different stakehold
 ### Soil Protection Review, UK
 
 The review was introduced in 2010 as part of the Good Agricultural and Environmental Conditions
-(GAEC [2010](https://www.eea.europa.eu/data-and-maps/data/external/good-agricultural-environmental-conditions-gaec-2010)). The rule aims to maintain soil structure and organic matter and to prevent soil erosion
-and compaction.
+[[7]](https://www.eea.europa.eu/data-and-maps/data/external/good-agricultural-environmental-conditions-gaec-2010).
+The rule aims to maintain soil structure and organic matter and to prevent soil erosion and compaction.
 
 <br>
 
@@ -125,4 +126,10 @@ must be documented as metadata.
 [4] White, J. W., L. A. Hunt, K. J. Boote, J. W. Jones, J. Koo, S. Kim, C. H. Porter, et al. (2013). Integrated description
 of agricultural field experiments and production: a The ICASA Version 2.0 data standards. Computers and Electronics in
 Agriculture 96: 1-12. https://doi.org/10.1016/j.compag.2013.04.003
+
+[5] Bundes-Bodenschutzgesetz (BBodSchG) (1998). Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von Altlasten.
+
+[6] Bundes-Bodenschutz- und Altlastenverordnung (BBodSchV) vom 12. Juli 1999 (BGBl. I S. 1554)
+
+[7]Conditions, GAEC 1 - Good Agricultural and Environmental (2010). Soil Protection Review 2010.
 :::
