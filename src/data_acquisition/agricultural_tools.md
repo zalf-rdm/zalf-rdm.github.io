@@ -17,7 +17,7 @@ machineries are compiled.
 
 <br>
 
-_Table 4: Recommended standards for tillage tools and agricultural machines_ ![](/static/img/two_star.jpg)
+_Table 4: Recommended standards for tillage tools and agricultural machines_ ![](/static/img/two_star.png)
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -92,7 +92,7 @@ _Table 4: Recommended standards for tillage tools and agricultural machines_ ![]
 <td>Tractors, connection via three-point linkage</td> <td>ISO 2332:2009 ISO 730:2009</td>
 </tr>
 <tr>
-<td>Tractors, operators manual</td>   <td>ISO 3600:2015</td>
+<td>Tractors, operators manual</td>   <td>ISO 3600:2022</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>Tractors, safety</td>  <td>ISO 26322-1:2008</td>
@@ -115,9 +115,9 @@ dimensions, load ratings and reference speeds
 </div>
 </td>
 <td>
-ISO/DIS 4251:2013 <br> 
+ISO/DIS 4251:2019 <br> 
 ISO 7867-1:2005 <br> 
-ISO/DIS 8664:2017(E)
+ISO/DIS 8664:2018
 </td>
 </tr>
 <tr>
