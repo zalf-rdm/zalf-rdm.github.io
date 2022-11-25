@@ -21,7 +21,7 @@ _Overview of existing standards_
 
 <br>
 
-### EN ISO 19157:2013 ![](/static/img/two_star.jpg)
+### EN ISO 19157:2013 [soon to be replacement] ![](/static/img/two_star.jpg)
 #### Data quality 
 
 Information about the quality of available geo-data is vital to the process of selecting a data set 
@@ -34,7 +34,7 @@ because the value of data is directly related to its quality. ISO 19157 provides
 <br>
 
 ### Conformity key for KA5  ![](/static/img/two_star.jpg)
-BGR developed a quality assurance tool for soil data according to the KA5. With this database application users can check 
+BGR developed a quality assurance tool for soil data according to the KA5 [[1]](https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl). With this database application users can check 
 their soil data for conformity according to the rules of the KA5. Complex algorithms test soil and substrate types as well
 as horizon symbols. The enumeration of horizons and depth information is tested for validity, and missing profile or horizon
 datasets are identified. Correction of errors can be performed by the user and KA5-compliant data can be exported. 
@@ -46,7 +46,7 @@ This application helps to improve data quality of either newly acquired data or 
 Best practices for high data quality and interoperability for data repositories are given by the “Core trustworthy
 data repository requirements”. A checklist with mandatory repository requirements helps to proof the data repository
 if it fulfills all the necessary quality standards. Repository operator can apply for the Core Trust Seal via an
-Application Management Tool (AMT).
+Application Management Tool ([AMT](https://www.coretrustseal.org/apply/)).
 
 <br>
 
@@ -77,7 +77,7 @@ _National standards on data quality and statistics_
 
 <br>
 
-### DIN 66270:1998  ![](/static/img/two_star.jpg)
+### DIN 66270:1998 [withdrawn]  ![](/static/img/two_star.jpg)
 #### Software document evaluation, Quality characteristics 
 The German standard defines requirements of documents according to its identification, content (completeness, adequacy, correctness, and consistency),
 and representation (comprehensibility and clarity).
@@ -115,12 +115,12 @@ as processing parameters. Estimation in an interlaboratory
 test under reproducibility conditions; Terms, meaning, proceeding 
 (are used for statistical evaluation of chemical analysis.
 Define e.g. detection limits under repeatability conditions)</td>
-<td>DIN 32646:2003</td>
+<td>DIN 32646:2003 [withdrawn]</td>
 </tr>
 <tr>
 <td>Statistical evaluation (provides continuous features e.g. frequency distributions,
 random sample, frequency distribution, tests on normal distribution, and outlier)</td>
-<td>DIN 53804-1:2002-04</td>
+<td>DIN 53804-1:2002-04 [withdrawn]</td>
 </tr>
 </tbody>
 </table>
@@ -131,16 +131,27 @@ random sample, frequency distribution, tests on normal distribution, and outlier
 _Quality management system and Measurement management systems_
 
 The quality management system (QMS) is closely coupled to **ISO 9000ff** and **ISO 10000ff** series 
-(e.g. EN ISO 9000:2015, 9001:2015, 9004:2009, ISO 10005:2005, 10006:2003) and **DIN 55350-100:2017** which are mainly 
+(e.g. EN ISO 9000:2015, 9001:2015, 9004:20018-08, ISO 10005:2018, 10006:2017) and **DIN 55350-100:2017** which are mainly 
 focusing on the management aspect to achieve costumer’s satisfaction. The **DIN 55350** series describes concepts and definitions
 in quality and statistics. Examples are:
 
 **EN ISO 9001:2015** contains the general requirements for the competence to carry out tests and / or calibrations, including sampling. 
 It refers to tests and calibrations that are based on specified in normative documents methods of methods that are not defined in normative documents,
 and those that were developed in the laboratory (ISO/IEC 17025:2005). ISO 9001 specifies requirements for a QMS.        <br>
-**EN ISO 9004:2009** gives guidance on a wider range of objectives of a QMS, for long-term success and improved performance. 
+
+**EN ISO 9004:2018.08** gives guidance on a wider range of objectives of a QMS, for long-term success and improved performance. 
 These standards can be applied to support organizations to develop a coherent quality management system. 
 Guidelines for technical subjects in support of QMS are provided by e.g. ISO 10005, 10006, 10007, 10014, and 19011.     <br> 
-**EN ISO 10012:2003** defines measurement processes and emphasizes the requirement of suitable equipment for an effective
+
+**EN ISO 10012:2003** [soon to be replaced] defines measurement processes and emphasizes the requirement of suitable equipment for an effective
 measurement management system. It aims to control risks of wrong data and results. Other management systems are given
 in the EN ISO 14001ff (Environmental management systems) and EN ISO 50001 (Energy management system).                   <br>
+
+
+:::bonares_reference
+
+### References
+
+[1] Boden, Ad-hoc-AG (2005). Bodenkundliche Kartieranleitung (German Soil Survey Guideline). Hannover.
+
+:::
