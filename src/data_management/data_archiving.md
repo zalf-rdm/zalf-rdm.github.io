@@ -18,7 +18,7 @@ operation of digital archives. The German standard contains information on archi
 and descriptive, technical and structural metadata. Users of this standard are encouraged to work through the task list
 within its takeover project. For practical assistance, a control list is annexed. 
 
-The project nestor (=Network of Expertise in Long-Term Storage of Digital Resources) provides an archiving seal based on DIN 31644.
+The project [nestor](https://www.langzeitarchivierung.de/Webs/nestor/DE/Home/home_node.html) (=Network of Expertise in Long-Term Storage of Digital Resources) provides an archiving seal based on DIN 31644.
 
 <br>
 
