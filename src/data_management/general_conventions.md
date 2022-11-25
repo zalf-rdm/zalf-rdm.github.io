@@ -18,7 +18,7 @@ provides models for the exchange of information describing observation acts and 
 both within and between different scientific and technical communities. A common set of sampling feature types is defined that is classified primarily by topological dimension,
 as well as samples for ex-situ observations. The schema includes relationships between sampling features (sub-sampling, derived samples). 
 
-_Table 6: Recommended data conventions (Standard for general and geographic data)_ <img src="/static/img/two_star.jpg" width="60" valign="bottom" >
+_Table 6: Recommended data conventions (Standard for general and geographic data)_ <img src="/static/img/two_star.png" width="60" valign="bottom" >
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">

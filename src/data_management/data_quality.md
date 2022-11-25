@@ -21,7 +21,7 @@ _Overview of existing standards_
 
 <br>
 
-### EN ISO 19157:2013 [soon to be replacement] ![](/static/img/two_star.jpg)
+### EN ISO 19157:2013 [soon to be replacement] ![](/static/img/two_star.png)
 #### Data quality 
 
 Information about the quality of available geo-data is vital to the process of selecting a data set 
@@ -33,7 +33,7 @@ because the value of data is directly related to its quality. ISO 19157 provides
 
 <br>
 
-### Conformity key for KA5  ![](/static/img/two_star.jpg)
+### Conformity key for KA5  ![](/static/img/two_star.png)
 BGR developed a quality assurance tool for soil data according to the KA5 [[1]](https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl). With this database application users can check 
 their soil data for conformity according to the rules of the KA5. Complex algorithms test soil and substrate types as well
 as horizon symbols. The enumeration of horizons and depth information is tested for validity, and missing profile or horizon
@@ -42,7 +42,7 @@ This application helps to improve data quality of either newly acquired data or 
 
 <br>
 
-### Core Trust Seal  ![](/static/img/two_star.jpg)
+### Core Trust Seal  ![](/static/img/two_star.png)
 Best practices for high data quality and interoperability for data repositories are given by the “Core trustworthy
 data repository requirements”. A checklist with mandatory repository requirements helps to proof the data repository
 if it fulfills all the necessary quality standards. Repository operator can apply for the Core Trust Seal via an
@@ -50,21 +50,21 @@ Application Management Tool ([AMT](https://www.coretrustseal.org/apply/)).
 
 <br>
 
-### DIN ISO 11843-1:2004ff series  ![](/static/img/two_star.jpg)
+### DIN ISO 11843-1:2004ff series  ![](/static/img/two_star.png)
 #### Capability of detection 
 This norm has five parts including terms (1), linear calibration of data (2), determination of the critical value for the
 response variable (3), comparing the minimum detectable value with a given value (4) and linear and non-linear calibration cases (5).
 
 <br>
 
-### ISO 3534-1/-2:2006   ![](/static/img/two_star.jpg)
+### ISO 3534-1/-2:2006   ![](/static/img/two_star.png)
 #### Statistics and terms
 Define statistical terms and terms used in probability. They provide also rules on probability calculations, random sampling,
 correlations, and estimation functions. 
 
 <br>
 
-### ISO 16269 series ![](/static/img/two_star.jpg)
+### ISO 16269 series ![](/static/img/two_star.png)
 #### Statistical interpretation of data 
 This ISO series provides descriptions of sound statistical testing procedures and graphical data analysis methods. 
 In different parts statistical procedures are defined, such as detection of outliers ( -4:2010) or confidence interval (-7:2001).
@@ -77,14 +77,14 @@ _National standards on data quality and statistics_
 
 <br>
 
-### DIN 66270:1998 [withdrawn]  ![](/static/img/two_star.jpg)
+### DIN 66270:1998 [withdrawn]  ![](/static/img/two_star.png)
 #### Software document evaluation, Quality characteristics 
 The German standard defines requirements of documents according to its identification, content (completeness, adequacy, correctness, and consistency),
 and representation (comprehensibility and clarity).
 
 <br>
 
-_Table 7: National standards on statistic evaluation and tests_ ![](/static/img/two_star.jpg)
+_Table 7: National standards on statistic evaluation and tests_ ![](/static/img/two_star.png)
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">

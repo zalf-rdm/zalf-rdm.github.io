@@ -16,7 +16,7 @@ _Overview of existing standards and tools_
 
 <br>
 
-### Transformation tool for the 5th edition of the German Soil Survey Guidelines (KA5) [[1]](https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl)  ![](/static/img/two_star.jpg)
+### Transformation tool for the 5th edition of the German Soil Survey Guidelines (KA5) [[1]](https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl)  ![](/static/img/two_star.png)
 
 The revision of the German Soil Survey Guidelines resulted in a modified data encoding and classification of soils. 
 For the transformation of soil data from a previous towards the following edition of the German Soil Survey Guidelines
@@ -26,7 +26,7 @@ of soil systematic units based on the horizon data, as well as translation of su
 
 <br>
 
-### Derivation tool - KA5 (2005) to WRB (2007)  ![](/static/img/two_star.jpg)
+### Derivation tool - KA5 (2005) to WRB (2007)  ![](/static/img/two_star.png)
 The BGR devised a software tool to derivate international common soil notations ([[2]](https://www.fao.org/3/a0510e/A0510E.pdf) update 2007) from soil data,
 which were acquired according to the German Soil Survey Guidelines. However, criteria for the determination of distinct
 diagnostic and naming elements of the WRB classification system are very complex. For each of these elements a graphic algorithm
@@ -38,7 +38,7 @@ notation according to WRB 2014 [[3]](https://www.fao.org/3/i3794en/I3794en.pdf),
 
 <br>
 
-### Transformation tool for Soil Assessment data ![](/static/img/two_star.jpg)
+### Transformation tool for Soil Assessment data ![](/static/img/two_star.png)
 A software tool for the transformation of Soil Assessment data (”Bodenschaetzungsdaten”) into the nomenclature of
 the German Soil Survey Guidelines (4th edition) has been developed by the Geological Survey of Lower Saxony (LBEG). 
 It is also used by some other federal states. This software tool enables transformation of certain soil features

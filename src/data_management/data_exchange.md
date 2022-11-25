@@ -11,10 +11,10 @@ _Overview of existing standards_
 
 <br>
 
-### AgroXML and ISO-XML  ![](/static/img/two_star.jpg)
+### AgroXML and ISO-XML  ![](/static/img/two_star.png)
 
 Communication and data transmission between sensors and tools are indispensable in modern agricultural sector. 
-On international level, the ISO 11783-1:2007ff series provides an uniform communication language between agricultural machinery,
+On international level, the **ISO 11783-1:2017ff** series provides an uniform communication language between agricultural machinery,
 e.g. operating supplies like fertilizers and pesticides, and office software. Applications and hardware (e.g. standardized plugs)
 that operate with ISO 11783ff are referred to as “ISOBUS”. It focuses on the exchange of mobile and spatial data between both systems.
 Within this standard the language ISO-XML is defined.
@@ -24,22 +24,22 @@ also an interface via farm management information systems to external partners. 
 of agricultural software providers and industry under the leadership of the KTBL.
 
 To enable consistent frameworks for data standards and the integration of spatial data into web services, both languages 
-be bound for integration into GML specification (Toth and Kucas, 2016).
+be bound for integration into GML specification [[1]](https://doi.org/10.1016/j.landusepol.2016.05.023).
 
 <br>
 
-### GeoSciML ![](/static/img/two_star.jpg)
+### GeoSciML ![](/static/img/two_star.png)
 Data transfer standard for geological data. GeoSciML is XML based and provides solution for the exchange of geoscientific
 information, e.g. features from geological maps.
 
 <br>
 
-### OGC standards  ![](/static/img/two_star.jpg)
+### OGC standards  ![](/static/img/two_star.png)
 
 The Open Geospatial Consortium (OGC) develops open standards for different stages of geo-data management within a consensus process.
 All OGC standards are based on XML language. 
 
--	**GML** (Geography Markup Language, EN ISO 19136:2009) is a XML grammar developed to express geographic features. 
+-	**GML** (Geography Markup Language, EN ISO 19136:2020-12) is a XML grammar developed to express geographic features. 
 GML is not only an open exchange format for geographic transactions on the internet, it also serves as a modeling language 
 for geographic systems. The conceptual modelling framework of GML includes spatial and non-spatial properties of geographic features.
 A GML document is described using a GML schema. This enables the user to describe generic geographic data sets. 
@@ -65,26 +65,26 @@ sensor descriptions and encoding format
 
 <br>
 
-### UML (Unified Modeling Language, ISO/IEC 19501:2005)  ![](/static/img/two_star.jpg)
+### UML (Unified Modeling Language, ISO/IEC 19501:2005)  ![](/static/img/two_star.png)
 
 UML is the dominant graphical language for object-oriented modeling with a semantic specification, geographic notation,
 interchange format, and a repository query interface. 
 
 <br>
 
-### XML (eXtended Markup Language)  ![](/static/img/two_star.jpg)
+### XML (eXtended Markup Language)  ![](/static/img/two_star.png)
 This widespread and simple markup language defines rules for encoding human- and machine readable documents. XML schemas 
 (XSD) are used to define XML document structures. XML is a basic tool for multiple data management and exchange applications.  
 
 <br>
 
-### XMI (XML Metadata Interchange, OMG)  ![](/static/img/two_star.jpg)
+### XMI (XML Metadata Interchange, OMG)  ![](/static/img/two_star.png)
 XMI enables the metadata information exchange between software development tools. Based on XML-format, data can easily be
 produced, processed, stored and exchanged via internet.
 
 <br>
 
-### ISO 28258:2013   ![](/static/img/one_star.jpg)
+### ISO 28258:2013   ![](/static/img/one_star.png)
 #### Soil quality - Digital Exchange of soil-related data (SoilML)
 
 This standard provides a generic, conceptual schema for soil-related data and the structural framework for the interoperable
@@ -98,12 +98,12 @@ An amendment with editorial and conceptual modifications, such as renaming of fe
 
 <br>
 
-### SoTerML (Soil and Terrain Markup Language)   ![](/static/img/one_star.jpg)
+### SoTerML (Soil and Terrain Markup Language)   ![](/static/img/one_star.png)
 
 For the exchange of soil and terrain data between various sources an XML schema was developed within the European FP7 project ‘e-SOTER’.
 It comprises the existing SOTER database conceptual modelling, the WRB and FAO soil data structures and classifications.
 In SOTER major soil and terrain databases as the European Soil Database (ESD) are covered. The principles of SoTerML are generic,
-so that they should be applicable to other geo-scientific domains and not only to soil data (Pourabdollah et al., 2012).
+so that they should be applicable to other geo-scientific domains and not only to soil data [[2]](https://doi.org/10.1016/j.cageo.2011.11.026).
 
 <br>
 
@@ -113,7 +113,7 @@ so that they should be applicable to other geo-scientific domains and not only t
 (Soil, 2013)
 !!!
 
-Providing data according to INSPIRE is a legal obligation to public administration in the European Union. 
+Providing data according to [INSPIRE ](https://www.gdi-de.org/INSPIRE)is a legal obligation to public administration in the European Union. 
 Due to this obligation no explicit recommendation is provided in this report.
 INSPIRE is not only about data interoperability, but aims at data harmonization. In the INSPIRE data model real soil objects
 were designed as feature types, and not features created to represent real objects. Thus soil maps were not introduced in
@@ -133,12 +133,13 @@ Developed by ISA-Tools, this hierarchical structured file format focuses on the 
 
 ### GlobalSoilMap 
 The GlobalSoilMap Specification provides an internationally agreed set of attributes and terminologies for soil data. 
-It is the basis for the generic soil information model GSMML. Global soil map data is published as GSMML compliant data service (Wilson et al., 2014).
+It is the basis for the generic soil information model GSMML. Global soil map data is published as GSMML
+compliant data service [[3]](https://www.researchgate.net/publication/265088316_Opportunities_for_information_model_driven_exchange_and_on-line_delivery_of_GlobalSoilMap_data_and_related_products).
 
 _Other data formats of accompanying disciplines_
 
 Geodata:
--	GeoRSS (Geographically Encoded Objects for RSS feeds) is a geotagged RSS feed which describes the locations of a web 
+-	[GeoRSS](http://www.georss.org) (Geographically Encoded Objects for RSS feeds) is a geotagged RSS feed which describes the locations of a web 
 feed, blog or any news. It is available in XML or GML format and provides meta information of a web content like authors,
 date, title, narrative description, hypertext link and, at least, one location per feed.
 -	GeoJSON and Esri-JSON are JavaScript notations to represent Simple-Feature-Access-Specifications e.g. for data exchange.
@@ -149,8 +150,8 @@ Beside geo-, soil- and agricultural data, other common data formats are widely u
 -	most important data formats for databases are based on the SQL language, such as the database engine SQLite
 -	The query language SPARQL was developed by the RDF Data Access Working Group of W3C. It is compatible to RDF data model
 and used as a data access protocol for the Semantic Web. 
--	GRIB (GRIdded Binary) format for meteorological data as well as historical and forecast weather data (WMO)
--	netCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation,
+-	GRIB (GRIdded Binary) format for meteorological data as well as historical and forecast weather data ([WMO](https://public.wmo.int/en))
+-	[netCDF](https://docs.unidata.ucar.edu/netcdf-c/current/faq.html#whatisit) is a set of software libraries and self-describing, machine-independent data formats that support the creation,
 access, and sharing of array-oriented scientific data.
 
 <br>
@@ -230,9 +231,9 @@ The most significant difference between both models for soil-related data is, th
 for the soil profile feature type (observed and derived soil profile), which are missing in the ISO model. There is only
 one type of soil profile in the ISO model that can be used in both ways, in so far as a connection between soil profile
 and plot information is provided or the soil profile is directly linked to a soil mapping unit representing geometry in a soil map.
-Furthermore the INSPIRE model allows to specify from which observed soil profiles a derived soil profile was made what is
+Furthermore, the INSPIRE model allows to specify from which observed soil profiles a derived soil profile was made what is
 not feasible in ISO. Feature types for providing soil information as raster data are not included in the ISO model.
-On the other hand ISO provides feature types for project information and soil samples that are missing in INSPIRE.
+On the other hand, ISO provides feature types for project information and soil samples that are missing in INSPIRE.
 
 These differences are due to the diverging approaches. INSPIRE focuses on data products and their use, as well as the delivery
 of data to the users. ISO aims to data exchange in a wide range, even for scientific use. Both models need extension by
@@ -243,10 +244,26 @@ the data provider regarding definition of parameters, which is rather simple wit
 In the field of data exchange formats OGC and ISO developed standards in cooperation. As a result, these standards are double
 branded or divided into different parts with regard to contents. These standards do not compete with each other and have a broad acceptance. 
 
-- The XML encoding of the OGC standard GML is consistent with EN ISO 19118:2011 and, more specifically, with EN ISO 19136:2009
+- The XML encoding of the OGC standard GML is consistent with **EN ISO 19118:2011** and, more specifically, with **EN ISO 19136:2020-12**
 in terms of transport and storage of geographic information. The basic concepts used by GML to model geographic information
-are drawn from the EN ISO 19101ff series and the OpenGIS Abstract Specification. Current version GML 3.3 is backwards compatible
+are drawn from **the EN ISO 19101ff** series and the OpenGIS Abstract Specification. Current version GML 3.3 is backwards compatible
 with the previous version 3.2, which is identical to EN ISO 19136:2009. 
 
 -	Observations and Measurements Implementation Standard is published in two parts: the conceptual model (in UML) is published
-as EN ISO 19156:2013, the XML implementation as an independent document by OGC.
+as **EN ISO 19156:2013**, the XML implementation as an independent document by OGC.
+
+
+:::bonares_reference
+
+### Reference
+
+[1] Toth, K. and A. Kucas (2016). Spatial information in European agricultural data management.
+Requirements and interoperability supported by a domain model. Land Use Policy 57: 64-79.
+
+[2] Pourabdollah, Amir, Didier G. Leibovici, Daniel M. Simms, Piet Tempel, Stephen H. Hallett and Mike J. Jackson (2012).
+Towards a standard for soil and terrain data exchange: SoTerML. Computers & Geosciences 45: 270–283.
+
+[3] Wilson, P., B. Simons and A. Ritchie (2014). Opportunities for information model driven exchange and delivery of
+GlobalSoilMap data and related products. GlobalSoilMap. D. Arrouays, N. McKenzie, J. Hempel, A. Forges and A. McBratney, CRC Press: 473–476.
+
+:::
