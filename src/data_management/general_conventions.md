@@ -40,7 +40,7 @@ _Table 6: Recommended data conventions (Standard for general and geographic data
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Country codes, Region codes</td>
-<td>ISO 3166-1:2013 and ISO 3166-2:2013</td>
+<td>ISO 3166-1:2020 and ISO 3166-2:2020</td>
 </tr>
 <tr>
 <td>Data Types</td>
@@ -48,11 +48,11 @@ _Table 6: Recommended data conventions (Standard for general and geographic data
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Dates and times representation (interchange formats)</td>
-<td>ISO 8601:2004</td>
+<td>ISO 8601-1:2019 and ISO 8601-2:2019</td>
 </tr>
 <tr>
 <td>Languages</td>
-<td>E DIN 2335:2014</td>
+<td>DIN 2335:2016-08</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Meteorological parameter e.g. air pressure (kPa), relative humidity (%) and wind velocity (m/s)</td>
@@ -73,16 +73,16 @@ DIN 1313:1998 <br>
 </tr>
 <tr>
 <td>Universal coded character set</td>
-<td>ISO/IEC 10646:2014</td>
+<td>ISO/IEC 10646:2020</td>
 </tr>
 <tr style="text-align: center;"><td>Geographic General</td></tr>
 <tr style=" background-color: #d3d3d3">
 <td>Application schema (rules)</td>
-<td>ISO/DIS 19109:2013</td>
+<td>ISO/DIS 19109:2015</td>
 </tr>
 <tr>
 <td>Conformance</td>
-<td>EN ISO 19105:2005</td>
+<td>EN ISO 19105:2022-10</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Coverage standards</td>
@@ -90,7 +90,7 @@ DIN 1313:1998 <br>
 </tr>
 <tr>
 <td>Data product specifications</td>
-<td>EN ISO 19131:2008</td>
+<td>EN ISO 19131:2012-01</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Encoding</td>
@@ -98,7 +98,7 @@ DIN 1313:1998 <br>
 </tr>
 <tr>
 <td>Feature cataloguing</td>
-<td>ISO/DIS 19110:2013</td>
+<td>ISO/DIS 19110:2017-05</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Filter encoding</td>
@@ -110,7 +110,7 @@ DIN 1313:1998 <br>
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Item Registration</td>
-<td>EN ISO 19135:2015</td>
+<td>EN ISO 19135:2015/AMD 1:2021</td>
 </tr>
 <tr>
 <td>Observation and measurements</td>
@@ -122,7 +122,7 @@ DIN 1313:1998 <br>
 </tr>
 <tr>
 <td>Positioning service</td>
-<td>EN ISO 19116:2006</td>
+<td>EN ISO 19116:2020-09</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Profiles</td>
@@ -131,7 +131,7 @@ DIN 1313:1998 <br>
 <tr>
 <td>Reference Model and System</td>
 <td>EN ISO 19101-1:2014 <br>
-DIN 18709-6:2016
+DIN 18709-6:2021-04
 </td>
 </tr>
 <tr style=" background-color: #d3d3d3">
@@ -149,11 +149,11 @@ GRS80
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Spatial referencing by geographic identifier</td>
-<td>EN ISO 19112:2005</td>
+<td>EN ISO 19112:2019-07</td>
 </tr>
 <tr>
 <td>Spatial schema</td>
-<td>EN ISO 19107:2005</td>
+<td>EN ISO 19107:2020-09</td>
 </tr>
 <tr style=" background-color: #d3d3d3">
 <td>Temporal schema</td>
