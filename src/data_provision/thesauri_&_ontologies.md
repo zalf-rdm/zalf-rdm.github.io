@@ -297,3 +297,11 @@ and AGRIS database is exposed as RDF.
 The AGROVOC thesaurus is widely accepted and appreciated within the agricultural science community. However, soil terms
 and concepts are often missing or inadequately described or assigned. Terms and concepts are permanently edited and improved by
 the experts (AGROVOC Editors) using the editing tool VocBench3.
+
+:::bonares_reference
+
+### References
+
+[1] Group, W3C Semantic Sensor Network Incubator (2009). Semantic Sensor Network Ontology (http://purl.oclc.org/NET/ssnx/ssn).
+
+:::
