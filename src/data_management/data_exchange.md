@@ -110,7 +110,7 @@ so that they should be applicable to other geo-scientific domains and not only t
 ### INSPIRE Data Specification on Soil 
 
 !!!secondary
-(Soil, 2013)
+Soil, 2013 [[3]](https://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_SO_v3.0rc3.pdf)
 !!!
 
 Providing data according to [INSPIRE ](https://www.gdi-de.org/INSPIRE)is a legal obligation to public administration in the European Union. 
@@ -134,7 +134,7 @@ Developed by ISA-Tools, this hierarchical structured file format focuses on the 
 ### GlobalSoilMap 
 The GlobalSoilMap Specification provides an internationally agreed set of attributes and terminologies for soil data. 
 It is the basis for the generic soil information model GSMML. Global soil map data is published as GSMML
-compliant data service [[3]](https://www.researchgate.net/publication/265088316_Opportunities_for_information_model_driven_exchange_and_on-line_delivery_of_GlobalSoilMap_data_and_related_products).
+compliant data service [[4]](https://www.researchgate.net/publication/265088316_Opportunities_for_information_model_driven_exchange_and_on-line_delivery_of_GlobalSoilMap_data_and_related_products).
 
 _Other data formats of accompanying disciplines_
 
@@ -263,7 +263,9 @@ Requirements and interoperability supported by a domain model. Land Use Policy 5
 [2] Pourabdollah, Amir, Didier G. Leibovici, Daniel M. Simms, Piet Tempel, Stephen H. Hallett and Mike J. Jackson (2012).
 Towards a standard for soil and terrain data exchange: SoTerML. Computers & Geosciences 45: 270–283.
 
-[3] Wilson, P., B. Simons and A. Ritchie (2014). Opportunities for information model driven exchange and delivery of
+[3] Soil, INSPIRE Thematic Working Group (2013). "INSPIRE data specification on Soil - Draft Technical Guidelines."
+
+[4] Wilson, P., B. Simons and A. Ritchie (2014). Opportunities for information model driven exchange and delivery of
 GlobalSoilMap data and related products. GlobalSoilMap. D. Arrouays, N. McKenzie, J. Hempel, A. Forges and A. McBratney, CRC Press: 473–476.
 
 :::

@@ -1644,18 +1644,18 @@ by the presence/ absence of specific diagnostic horizons, properties and/or mate
 -	The **International Code Council** ([ICC](https://www.iccsafe.org)) develops affordable code lists for global markets, agriculture and science.
 
 -	Within its World Program for the Census of Agriculture 2010, the **FAO** published an “Alphabetic List of Crops with
-Botanical Names and Crop Codes” (FAO, 2005). 
+Botanical Names and Crop Codes” [[2]](https://www.fao.org/3/a0135e/a0135e00.htm). 
 
 -	The [Indicative Crop Classification](https://www.fao.org/fileadmin/templates/ess/documents/world_census_of_agriculture/appendix4_r7.pdf)
 (**ICC**-FAO) lists crop codes. The 2-4 digits codes do not differ between varieties and sowing dates (e.g. winter wheat).
-In 2017 a new version 1.1 was published which is now closely based on the Central Product Classification (CPC).
+In 2017 a new version 1.1 was published which is now closely based on the Central Product Classification (CPC) [[3]](https://digitallibrary.un.org/record/3900378).
 
 -	The [NCDI](https://www.ncbi.nlm.nih.gov/taxonomy) provides an extensive list of codes, besides many others, for field crops
 
--	The Central Product Classification (CPC) Version 2.1 was published by the United Nations (2015) and classifies goods
+-	The Central Product Classification (CPC)[[3]](https://digitallibrary.un.org/record/3900378) Version 2.1 was published by the United Nations (2015) and classifies goods
 and services such as crop products.
 
--	A code list for crops is provided by the **Clemson University** (2008). 
+-	A code list for crops is provided by the **Clemson University** (2008) [[4]](http://www.clemson.edu/agsrvlb/CropCodesWeb.htm). 
 
 -	The Genetic Resources Information System ([GRIS](http://wheatpedigree.net)) provides breeding and variety information and codes for wheat and 
 triticale (09:2018: 171,000 varieties)
@@ -1670,7 +1670,7 @@ Coding System ([HS-Codes](https://www.foreign-trade.com/reference/hscode.htm)) w
 (**BSA**, Bundessortenamt). It provides descriptive variety lists e.g. for cereals, maize, oil and fiber plants. 
 
 -	Within the extended **BBCH-scale** phenological development stages are described and coded for all kinds of agricultural
-plants and products (Hack, 1992).
+plants and products [[5]](https://www.openagrar.de/receive/openagrar_mods_00067370).
 
 -	Based on the EU-regulation [1305/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R1305&from=DE)
 (in Germany “InVeKoS”) code lists on different crop types and culture codes,
@@ -1848,4 +1848,23 @@ _Glossaries and vocabularies_
 </table>
 </div>
 
+<br>
 
+:::bonares_reference
+
+### References
+
+[1] FAO (2006). Food and Agriculture Organization of the United Nations. Guidelines for soil description. 4th edition. Rome.
+
+[2] FAO (2005). A system of integrated agricultural censuses and surveys. Volume 1: World Programme for the Census of Agriculture 2010. Rome.
+
+[3] UN (2015). Central product classification (CPC) version 2.1. New York.
+
+[4] University, Clemson (2008). Computer Crop Codes for Soil Samples (http://www.clemson.edu/agsrvlb/CropCodesWeb.htm).
+
+[5] Hack, H; Bleiholder, H.; Buhr, L.; Meier, U.; Schnock-Fricke, U.; Weber, E.; Weber, E. (1992).
+Einheitliche Codierung der phaenologischen Entwicklungsstadien mono- und diktyler Planzen - Erweiterte BBCH-Skala,
+Allgemein. Narichtenbl. Deut. Pflanzenschutzd 44: 265-270.
+
+
+:::
