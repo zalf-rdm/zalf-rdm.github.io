@@ -5,7 +5,7 @@ order: 40
 # Geo-data Services
 
 Geo-data service provides access to a geo-database by local area network (LAN) or the internet using ArcGIS server
-or open source GIS servers, i.e., geo server to view, search and queries into database.
+or open-source GIS servers, i.e., geo server to view, search and queries into database.
 Open Geospatial Consortium (OGC) regulates rules and standards for geo-data services. So called “OGC services” are listed
 in this chapter. They are widely accepted and applied by geo-data providers and users. Requirements, types and structure
 of services are defined in **EN ISOS 19119:2016** and **ISO 19133:2007** (data types, operations and implementation).
@@ -23,8 +23,8 @@ All OGC standards on web services (OWS) and supporting documents are available t
 WMS offer geo-registered map images in different format (e.g. JPEG, PNG) from distributed geo-database system through GIS servers.
 It is basically a HTTP/HTTPS link, which provides different request types, two of which are required by any WMS server:
 GetCapabilities and GetMap, defines a certain geographic location and layer(s) to be managed. Request types that WMS 
-optionally support include: GetFeatureInfo, DescribeLayer and GetLegendGraphic (OpenGeoSpatial). Rules and applications of
-WMS are provided by EN ISO 19128:2008.
+optionally support include: _GetFeatureInfo, DescribeLayer_ and _GetLegendGraphic_ ([OpenGeoSpatial](https://www.ogc.org/standards/wms)).
+Rules and applications of WMS are provided by **EN ISO 19128:2008**.
 
 <br>
 
@@ -33,17 +33,17 @@ WMS are provided by EN ISO 19128:2008.
 WFS allow any usage that might work with web services to get geographic features from one or more distributed spatial
 information system or a map itself. Similar to WMS (mapping output as an image), WFS deal with create, update, delete
 and query functions of feature instances from regarding database. WFS serve eight general operations:
-Capabilities, DescribeFeatureType, DescribeFilterModel, Feature, FeatureWithLock, Property, LockFeature and Transaction.
-Rules and applications of WFS are provided by EN ISO 19142:2010.
+_Capabilities, DescribeFeatureType, DescribeFilterModel, Feature, FeatureWithLock, Property, LockFeature_ and _Transaction_.
+Rules and applications of WFS are provided by **EN ISO 19142:2010**.
 
 <br>
 
 ### WCAS (Web Catalogue Service) ![](/static/img/two_star.png)
-#### Also: CSW, Catalogue Services for the Web
+#### Also known as: CSW, Catalogue Services for the Web
 
 CSW service provides options to publish and searching capabilities of metadata about geospatial data, services, and related
-information objects. Request types that CSW services offers include: GetCapabilities, DescribeByRecord, GetRecords, GetRecordById,
-GetDomain, Harvest, and Transaction. Requests can encode the parameters in three different ways: GET with URL parameters,
+information objects. Request types that CSW services offers include: _GetCapabilities, DescribeByRecord, GetRecords, GetRecordById,
+GetDomain, Harvest_ and _Transaction_. Requests can encode the parameters in three different ways: GET with URL parameters,
 POST with form-encoded payload and POST with XML payload.
 
 <br>
