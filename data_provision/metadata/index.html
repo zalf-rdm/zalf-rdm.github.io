@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.722707944561">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.722794990439">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -33,11 +33,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/img/favicon.png" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.722707944561" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.722794990439" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.722707944561" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.722794990439" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.722707944561" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.722794990439" data-turbo-eval="false" defer></script>
 
     <link href="/static/bonares.css" rel="stylesheet" />
 </head>
@@ -224,13 +224,13 @@ very important to use assignable elements of widespread and open metadata standa
 are regulated in <strong>ISO 19115-1ff</strong> series (Geographic information - Metadata). ISO 19115-1:2014 and -2:2009 contain many code
 lists on identification information, geometry types and other relevant topics.</p>
 <p>Requirements for metadata related to geographic information services are defined in <strong>EN ISO 19119:2016</strong>.
-A technical guideline for encoding of metadata using a XML-schema is provided by <strong>ISO/TS 19139:2007</strong> (XML schema implementation).
+A technical guideline for encoding of metadata using a XML-schema is provided by <strong>ISO/TS 19139-1:2019-03</strong> (XML schema implementation).
 Regulations for metadata are also part of other standards that relate to soil data, for example <strong>INSPIRE DS Soil</strong> or <strong>ISO 28258:2013</strong>.</p>
 <p>The German Infrastructure for Spatial Information (GDI-DE) requires the application of ISO 19115, 19119 and 19139
 in the context of INSPIRE for acquisition and support of metadata. For such purposes the Drafting Team Metadata and
-European Commission Joint Research Centre published a technical guideline with INSPIRE implementing rules for metadata (JRC, 2007).</p>
+European Commission Joint Research Centre published a technical guideline with INSPIRE implementing rules for metadata <a href="https://inspire.ec.europa.eu/documents/Metadata/INSPIRE_MD_IR_and_ISO_v1_2_20100616.pdf">[1]</a>.</p>
 <p>The Digital Curation Centre (DCC) provides a <a href="https://www.dcc.ac.uk/guidance/standards/metadata/list">list</a> of common metadata standards.</p>
-<p>The <a href="https://tools.bonares.de/doi">BonaRes Metadata Schema </a>(Specka et al. 2019)<img src="../../static/img/two_star.png" alt="" />   has been created by combining elements of the two schemes INSPIRE (EU)
+<p>The <a href="https://tools.bonares.de/doi">BonaRes Metadata Schema</a> <a href="https://doi.org/10.1016/j.cageo.2019.07.005">[2]</a> <img src="../../static/img/two_star.png" alt="" />   has been created by combining elements of the two schemes INSPIRE (EU)
 and DataCite (DOI) since few relevant elements within these two standards have been found.</p>
 <br>
 <doc-anchor-target id="inspire-european-union">
@@ -251,13 +251,13 @@ on data quality and validity, but also on conditions for accessibility, use of d
     </h3>
 </doc-anchor-target>
 <p>The DataCite was developed to provide easy access to scientific data over internet. It provides domain agnostic services
-which belongs to the concept of a long term or persistent identifier. DataCite is using Digital Object Identifiers (DOIs)
+which belongs to the concept of a long term or <em>persistent</em> identifier. DataCite is using <em>Digital Object Identifiers</em> (DOIs)
 to register a resource associated with metadata. The objective of DataCite is to increase the acceptance of research data
 as legitimate, citable contributions to the scientific record and to archive data for future study. Besides a wide range
 of metadata elements, DataCite provides the opportunity to acknowledge contributions of disciplinary work. To enable an
 accurate and consistent identification of a resource (e.g. for citation) the metadata scheme offers a list of essential
 metadata properties. The da|ra is the DOI registration agency for social and economic research data.
-The recent Metadata Scheme is 4.0 (Group, 2016).</p>
+The recent Metadata Scheme is 4.4 <a href="https://schema.datacite.org/meta/kernel-4.4/">[3]</a>.</p>
 <br>
 <doc-anchor-target id="dublin-core-metadata-element-set-version-1-1">
     <h3>
@@ -266,7 +266,7 @@ The recent Metadata Scheme is 4.0 (Group, 2016).</p>
     </h3>
 </doc-anchor-target>
 <p>This set is a vocabulary of fifteen properties to describe a resource. It is maintained by the Dublin Core Metadata Initiative
-(DCMI). The Dublin Core metadata elements formally endorsed in <strong>ISO 15836:2009, ANSI/NISO Z39.85-2012</strong> and <strong>RFC 5013</strong> (Kunze and Baker, 2007).</p>
+(DCMI). The Dublin Core metadata elements formally endorsed in <strong>ISO 15836:2009, ANSI/NISO Z39.85-2012</strong> and <strong>RFC 5013</strong> <a href="https://www.rfc-editor.org/rfc/rfc5013.html">[4]</a>.</p>
 <br>
 <doc-anchor-target id="ddi">
     <h3>
@@ -296,8 +296,8 @@ of the complete Data Life Cycle with XML.</p>
     </h4>
 </doc-anchor-target>
 <p>In line with DDI, presentation of detailed metadata and standards for surveys and interviews, e.g. in the following
-technical reports: <a href="https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/gesis_methodenberichte/2012/TechnicalReport_2012-01.pdf">Zenk-Möltgen and Habbel 2012</a>,
-Jensen and Schweers <a href="https://www.ssoar.info/ssoar/bitstream/handle/document/40297/ssoar-2014-jensen_et_al-Das_erweiterte_Metadatenschema_der_VFU.pdf?sequence=1">2014</a>.</p>
+technical reports: Zenk-Möltgen and Habbel 2012 <a href="https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/gesis_methodenberichte/2012/TechnicalReport_2012-01.pdf">[5]</a>,
+Jensen and Schweers 2014 <a href="https://www.ssoar.info/ssoar/bitstream/handle/document/40297/ssoar-2014-jensen_et_al-Das_erweiterte_Metadatenschema_der_VFU.pdf?sequence=1">[6]</a>.</p>
 <br>
 <doc-anchor-target id="mets">
     <h3>
@@ -339,7 +339,7 @@ further development of the standards, as well as the connection to other standar
     </h3>
 </doc-anchor-target>
 <p>Emerging <a href="https://www.qualiservice.org/de/">data service center </a>for qualitative primary data (focus on interviews) and provision of reports about metadata standards,
-e.g. <a href="https://media.suub.uni-bremen.de/handle/elib/3020">Betancort Cabrera and Haake 2014</a>.</p>
+e.g.Betancort Cabrera and Haake 2014 <a href="https://media.suub.uni-bremen.de/handle/elib/3020">[7]</a>.</p>
 <br>
 <doc-anchor-target id="conflicts-and-solutions">
     <h3>
@@ -356,8 +356,27 @@ e.g. <a href="https://media.suub.uni-bremen.de/handle/elib/3020">Betancort Cabre
 <p>The problematic issue of metadata and data is that almost any piece of data can be metadata in a more specific context.
 In the application schema of ISO 28258 any piece of information that can be handled as data should at least be handled as data,
 but can additionally be handled as metadata. According to ISO 28258 information e.g. on projects or soil maps can be described
-as data (in the form of features) or metadata. In line with INSPIRE this information is metadata of a dataset (Gärtner et al.,
-2017, DOI: 10.20387/BonaRes-5PGG-8YRP).</p>
+as data (in the form of features) or metadata. In line with INSPIRE this information is metadata of a dataset <a href="https://tools.bonares.de/media/bonares_series/BonaRes-5PGG-8YRP.pdf">[8]</a>.</p>
+<br>
+<div class="bonares_reference"><doc-anchor-target id="references">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#references">#</doc-anchor-trigger>
+        <span>References</span>
+    </h3>
+</doc-anchor-target>
+<p>[1] JRC (2007, update 2013). &quot;INSPIRE Metadata Implementing Rules: Technical Guidelines based on EN ISO 19115 and EN ISO
+19119.&quot; from <a href="http://inspire.ec.europa.eu/documents/Metadata/INSPIRE_MD_IR_and_ISO_v1_2_20100616.pdf">click here</a></p>
+<p>[2] Specka X., Gärtner, P., Hoffmann, C., Svoboda, N., Stecker, M., Einspanier, U., Senkler, K., Zoarder, M.A.M.,
+Heinrich, U. (2019): The BonaRes metadata schema for geospatial soil-agricultural research data - Merging INSPIRE and
+DataCite metadata schemes. Computers and Geosciences 132: 33-41</p>
+<p>[3] Group, DataCite Metadata Working (2021). DataCite Metadata Schema Documentation for the Publication and Citation of Research Data (v4.4).</p>
+<p>[4] Kunze, J. and T. Baker (2007). IETF RFC 5013. The Dublin Core Metadata Element Set.</p>
+<p>[5] Zenk-Möltgen, W., &amp; Habbel, N. (2012). Der GESIS Datenbestandskatalog und sein Metadatenschema: Version 1.8.</p>
+<p>[6] Jensen, U., &amp; Schweers, S. (2014). Das erweiterte Metadatenschema der VFU soeb 3.</p>
+<p>[7] Betancort Cabrera, N. (2014). Das Qualiservice Metadatenschema: Version 1.1. Qualiservice Technical Reports</p>
+<p>[8] Gärtner, P., N. Svoboda, T. Kühnert, M.A.M. Zoarder and U. Heinrich (2017). The BonaRes Metadata Schema.
+BonaRes Data Centre. DOI: 10.20387/BonaRes-5PGG-8YRP</p>
+</div>
 
                                 
                                 <!-- Required only on API pages -->
