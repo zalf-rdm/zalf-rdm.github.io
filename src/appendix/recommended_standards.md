@@ -24,11 +24,13 @@ VDLUFA Method Books
 </tr>
 <tr  style="background-color: #d3d3d3;">
 <td>Agricultural activities (Plant protection)</td>	
-<td>European Plant Protection Organization (EPPO)</td>
+<td>European Plant Protection Organization 
+(<a href="https://www.eppo.int">EPPO</a>)</td>
 </tr>
 <tr>
 <td>Agricultural activities (Rating)</td>
-<td>Boniturmethoden, Bundessortenamt (2000) <br>
+<td>Boniturmethoden, Bundessortenamt (2000) 
+<a href="https://www.vdlufa.de/Methodenbuch/index.php?lang=de">[2]</a> <br>
 DIN 19707:2004</td>
 </tr>
 <tr  style="background-color: #d3d3d3;">
@@ -196,3 +198,13 @@ GODAN Agrisemantics Map of Standards</td>
 </tbody>
 </table>
 </div>
+
+:::bonares_reference
+
+### References 
+
+[1] VDLUFA (2016). Verband Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten. Method Books.
+
+[2] Bundessortenamt (2000). Richtlinien für die Durchführung von landwirtschaftlichen Wertprüfungen und Sortenversuchen. Hannover.
+
+:::
