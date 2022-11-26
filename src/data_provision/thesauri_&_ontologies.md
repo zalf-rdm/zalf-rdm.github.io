@@ -73,8 +73,9 @@ almost 3 million terms in world’s science and technical fields. It includes so
 <br>
 
 ### [Crop Ontology](https://cropontology.org) ![](/static/img/one_star.png)
-This ontology includes a large database with ontologies of crops and crop-related terms, structured in the categories phenotype, breeding, germplasm and trait. Terms are defined by a unique
-combination of  trait, method used and scale. It is open access and open to improve by the crop community. 
+This ontology includes a large database with ontologies of crops and crop-related terms, structured in the categories
+phenotype, breeding, germplasm and trait. Terms are defined by a unique combination of  trait, method used and scale.
+It is open access and open to improve by the crop community. 
 
 <br>
 
@@ -121,7 +122,7 @@ It was developed by the Wageningen University and modelled in OWL 2.
 ### [QUDT](https://www.qudt.org/2.1/catalog/qudt-catalog.html)  ![](/static/img/one_star.png)
 #### Quantities, Units, Dimensions and Data Types Ontologies
 This ontology is under development by the NASA and provides first unified model of quantities, dimensions, units,
-and conversion factors. Each unit has its own URI, and can thus be used as unique unit-identifier for data-sets.
+and conversion factors. Each unit has its own URI and can thus be used as unique unit-identifier for data-sets.
 
 <br>
 <br>
@@ -146,7 +147,7 @@ This European thesaurus includes pest-specific information, names (multi-lingual
 
 ### GACS 
 The GACS project developed this semantic concept scheme which integrates three important agricultural thesauri:
-AGROVOC, CAB and NAL thesauri. GACS was  planned to be a hub for all concepts and shared value lists related to agriculture.
+AGROVOC, CAB and NAL thesauri. GACS was planned to be a hub for all concepts and shared value lists related to agriculture.
 In November 2019 the participants agreed that GACS URIs should not be promoted for use since GACS is not actively being maintained.
 Data is from 2016 and will not be actively maintained in the future.
 
@@ -159,15 +160,16 @@ LandVoc is mainly derived from AGROVOC but links together other vocabularies.
 <br>
 
 ### PROV-O
-This W3C ontology provides a set of classes, properties, and restrictions that can be used to represent and interchange
-provenance information generated in different systems and under different contexts. It can also be specialized to create
-new classes and properties to model provenance information for different applications and domains.
+This [W3C](https://www.w3.org/TR/2014/NOTE-ld-bp-20140109/) ontology provides a set of classes, properties,
+and restrictions that can be used to represent and interchange provenance information generated in different systems
+and under different contexts. It can also be specialized to create new classes and properties to model provenance
+information for different applications and domains.
 
 <br>
 
 ### Semantic Sensor Network Ontology 
 This ontology was developed by the W3C Semantic Sensor Networks Incubator Group and describes sensors, observations, and
-related concepts (W3C Semantic Sensor Network Incubator Group, 2009). It provides numerous suggestions on the management
+related concepts [[1]](https://www.w3.org/2005/Incubator/ssn/ssnx/ssn). It provides numerous suggestions on the management
 of sensor data including metadata of sensor description (e.g. accuracy, detection limit).
 
 <br>
@@ -218,10 +220,11 @@ The project provides a platform to search and browse plant species, plant traits
 
 ### SKOS ![](/static/img/two_star.png)
 #### Simple Knowledge Organization System  
-SKOS is a W3C recommendation for the representation of thesauri, classification etc. or any other controlled vocabulary.
-It gives guidelines to facilitate publication and use of vocabularies as Linked Data. SKOS is part of the Semantic Web
-standards built upon RDF and RDFS. SKOS was formal released in 2009 by W3C as a new standard that connects different KOS
-and the linked data community. It defines classes and properties to present common features of a standard thesaurus.
+SKOS is a [W3C](https://www.w3.org/TR/2014/NOTE-ld-bp-20140109/) recommendation for the representation of thesauri,
+classification etc. or any other controlled vocabulary. It gives guidelines to facilitate publication and use of
+vocabularies as Linked Data. SKOS is part of the Semantic Web standards built upon RDF and RDFS. SKOS was formal
+released in 2009 by W3C as a new standard that connects different KOS and the linked data community.
+It defines classes and properties to present common features of a standard thesaurus.
 
 <br>
 
