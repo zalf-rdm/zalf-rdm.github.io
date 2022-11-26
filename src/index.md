@@ -48,11 +48,11 @@ the [BonaRes Repository](https://maps.bonares.de/mapapps/resources/apps/bonares/
 agricultural research data. Beside data from national research projects, the repository is open for other soil-related
 data, e.g. from agricultural long-term field experiments (LTE). The BonaRes Centre provides DOI, easy access and
 long-term availability for all uploaded research data. According to
-the [Berlin Declaration on Open Access (2003)](https://openaccess.mpg.de/Berlin-Declaration) and the initiative
-“Digitale Information”[[2]](http://www.allianzinitiative.de/en/) , metadata and research data will not be subject to any restrictions
+the Berlin Declaration on Open Access (2003)[[2]](https://openaccess.mpg.de/Berlin-Declaration) and the initiative
+“Digitale Information”[[3]](http://www.allianzinitiative.de/en/) , metadata and research data will not be subject to any restrictions
 on reuse. Metadata are always available and, after a limited embargo-time, also research data are provided accessible
 for the international research community. Further information is given in the BonaRes Data
-Policy [[3]](https://doi.org/https://doi.org/10.20387/BonaRes-RYCV-30RK).
+Guideline [[4]](http://doi.org/10.20387/BonaRes-E1AZ-ETD7).
 
 [!embed](https://youtu.be/wo0Rv4YPjCo)
 
@@ -79,10 +79,11 @@ Transformation tools may help to translate data from national to international v
 [1] Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and
 stewardship. Sci Data 3, 160018 (2016). DOI: [10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
 
-[2] Alliance of Science Organizations in Germany (2013). http://www.allianzinitiative.de/en/
+[2] Berlin Declaration on Open Access (2003). https://openaccess.mpg.de/Berliner-Erklaerung.
 
-[3] Svoboda, N. (2021). The BonaRes Data Policy. BonaRes Series.
-DOI: [10.20387/BonaRes-RYCV-30RK](https://doi.org/10.20387/BonaRes-RYCV-30RK)
+[3] Alliance of Science Organizations in Germany (2013). http://www.allianzinitiative.de/en/.
+
+[4] Svoboda, N. and U. Heinrich (2017). The BonaRes Data Guideline. BonaRes Data Centre. http://doi.org/10.20387/BonaRes-E1AZ-ETD7.
 
 :::
 

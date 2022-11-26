@@ -19,7 +19,8 @@ _Table 9: Overview of highly recommended standards <img src="/static/img/two_sta
 <tr>
 <td>Agricultural activities (Fertilization, Manure)</td>
 <td>EU Regulation 2003/2003 <br>
-VDLUFA Method Books</td>
+VDLUFA Method Books 
+<a href="https://www.vdlufa.de/Methodenbuch/index.php?option=com_content&view=article&id=7&Itemid=108&lang=de">[1]</a></td>
 </tr>
 <tr  style="background-color: #d3d3d3;">
 <td>Agricultural activities (Plant protection)</td>	
