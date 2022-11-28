@@ -29,7 +29,8 @@ _Overview of code lists on soil data survey_
 </thead>
 <tbody>
 <tr>
-<td>German Soil Survey Guideline (KA5)</td>
+<td>German Soil Survey Guideline (KA5)
+<a href="https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl">[1]</a></td>
 <td style="font-style: italic;">see Table 11</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
@@ -41,15 +42,15 @@ _Overview of code lists on soil data survey_
 <td style="font-style: italic;">see Table 13</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>FAO Guidelines for Soil description</td>
+<td><a href="https://www.fao.org/home/en/">FAO</a> Guidelines for Soil description</td>
 <td style="font-style: italic;">see Table 14</td>
 </tr>
 <tr>
-<td>ISO 25177:2008</td>
+<td>ISO 25177:2019</td>
 <td style="font-style: italic;">see Table 15</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>INSPIRE Code List, e.g. WRB for Reference Soil Groups, Qualifiers and Specifiers</td>
+<td><a href="https://inspire.ec.europa.eu">INSPIRE</a> Code List, e.g. WRB for Reference Soil Groups, Qualifiers and Specifiers</td>
 <td style="font-style: italic;">see Table 16</td>
 </tr>
 </tbody>
@@ -64,7 +65,7 @@ to be documented is also listed in the table. The accessibility of code lists is
 in the guideline, number and title of code list. Code lists for deduction of soil parameters are not mentioned in this
 overview, because they are not relevant for field soil description. 
 
-Table 12 gives an overview of parameters in the German standard DIN 4220 for soil feature designation and classification
+Table 12 gives an overview of parameters in the German standard **DIN 4220** for soil feature designation and classification
 as provided by code lists. Code lists used for deduction of soil parameters are not listed, as they are not required for
 field soil description. 
 
@@ -810,9 +811,10 @@ _Parameters for field soil description provided with code lists in DIN 4220:2008
 
 <br>
 
-The Guidelines for Soil Assessment (Bundesministerium der Finanzen 1996) includes code lists for several soil parameters 
-(Table 13). Symbols and class definitions of these code lists deviate conspicuously from other national standards
-(KA5 or DIN 4220) with the exception of the code lists for horizon symbols, which is taken from the German Soil Survey
+The Guidelines for Soil Assessment [[2]](https://www.hlnug.de/fileadmin/dokumente/boden/Gefaehrdung/NAG/Arbeitsanleitung_neues_Feldschaetzungsbuch_mit_Abkuerzungsverzeichnis.pdf)
+includes code lists for several soil parameters (Table 13). Symbols and class definitions of these code lists deviate
+conspicuously from other national standards (KA5 [[1]](https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl)
+or DIN 4220) with the exception of the code lists for horizon symbols, which is taken from the German Soil Survey
 Guideline, 4th edition (KA4). 
 
 <br>
@@ -1039,7 +1041,7 @@ In many cases several code lists are given for a distinct parameter describing d
 <br>
 
 ### Table 14
-_Parameters provided with code lists in FAO Guidelines for soil description (4th edition, 2006)_
+_Parameters provided with code lists in FAO Guidelines for soil description (4th edition, 2006) [[3]](https://www.fao.org/3/a0800e/a0800e00.htm)_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -1056,8 +1058,10 @@ _Parameters provided with code lists in FAO Guidelines for soil description (4th
 <td>weather</td>
 <td style="text-align: center;"> <p> 9 </p> 9 </td>
 <td style="text-align: center;"> <p> 2 </p>  2</td>
-<td> <p>Codes for weather conditions (Schoeneberger et al., 2012) </p>
-Former weather conditions (Ad-hoc-AG-Boden, 2005)</td>
+<td> <p>Codes for weather conditions
+<a href="https://www.nrcs.usda.gov/sites/default/files/2022-09/field-book.pdf">[4]</a></p>
+Former weather conditions
+<a href="https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl">[1]</a></td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>soil climate</td>
@@ -1376,7 +1380,7 @@ Examples of biological features</td>
 <br>
 
 ### Table 15
-_Parameters provided with code lists in ISO 25177:2008, Soil description in the field_
+_Parameters provided with code lists in ISO 25177:2019, Soil description in the field_
 
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
@@ -1523,7 +1527,8 @@ Bodengefügeformen</td>
 <td>Referenzbodengruppen</td>
 <td style="text-align: center;">21</td>
 <td style="text-align: center;">Tab. B.1</td>
-<td>Referenzbodengruppen der WRB (FAO, ISRIC und ISSS, 2006)</td>
+<td>Referenzbodengruppen der WRB <a href="https://www.fao.org/3/i3794en/I3794en.pdf">[5]</a>
+(FAO, ISRIC und ISSS, 2006)</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>fine earth fractions</td>
@@ -1559,7 +1564,7 @@ _[INSPIRE](https://inspire.ec.europa.eu/codelist) Code List register for soil pa
 <td>FAO Horizon Subordinate Value</td>
 </tr>
 <tr>
-<td>connotes the master horizon symbol of the lower of 2 or 3 (prime, double prime)
+<td>connotes the master horizon symbol of the lowest of 2 or 3 (prime, double prime)
 horizons with identical Arabic-numeral prefixes & letter combinations</td>
 <td>FAO Prime Value</td>
 </tr>
@@ -1644,40 +1649,39 @@ by the presence/ absence of specific diagnostic horizons, properties and/or mate
 -	The **International Code Council** ([ICC](https://www.iccsafe.org)) develops affordable code lists for global markets, agriculture and science.
 
 -	Within its World Program for the Census of Agriculture 2010, the **FAO** published an “Alphabetic List of Crops with
-Botanical Names and Crop Codes” [[2]](https://www.fao.org/3/a0135e/a0135e00.htm). 
+Botanical Names and Crop Codes” [[6]](https://www.fao.org/3/a0135e/a0135e00.htm). 
 
 -	The [Indicative Crop Classification](https://www.fao.org/fileadmin/templates/ess/documents/world_census_of_agriculture/appendix4_r7.pdf)
 (**ICC**-FAO) lists crop codes. The 2-4 digits codes do not differ between varieties and sowing dates (e.g. winter wheat).
-In 2017 a new version 1.1 was published which is now closely based on the Central Product Classification (CPC) [[3]](https://digitallibrary.un.org/record/3900378).
+In 2017 a new version 1.1 was published which is now closely based on the Central Product Classification (CPC) [[7]](https://digitallibrary.un.org/record/3900378).
 
 -	The [NCDI](https://www.ncbi.nlm.nih.gov/taxonomy) provides an extensive list of codes, besides many others, for field crops
 
--	The Central Product Classification (CPC)[[3]](https://digitallibrary.un.org/record/3900378) Version 2.1 was published by the United Nations (2015) and classifies goods
+-	The Central Product Classification (CPC)[[7]](https://digitallibrary.un.org/record/3900378) Version 2.1 was published by the United Nations (2015) and classifies goods
 and services such as crop products.
 
--	A code list for crops is provided by the **Clemson University** (2008) [[4]](http://www.clemson.edu/agsrvlb/CropCodesWeb.htm). 
+-	A code list for crops is provided by the **Clemson University** (2008) [[8]](http://www.clemson.edu/agsrvlb/CropCodesWeb.htm). 
 
 -	The Genetic Resources Information System ([GRIS](http://wheatpedigree.net)) provides breeding and variety information and codes for wheat and 
 triticale (09:2018: 171,000 varieties)
 
--	The Agronomy Ontology (AgrO) is built by CGIAR and describes agronomic practices, techniques and variables used in
+-	The Agronomy Ontology ([AgrO](https://bigdata.cgiar.org/resources/agronomy-ontology/)) is built by [CGIAR](https://www.cgiar.org) and describes agronomic practices, techniques and variables used in
 agronomic experiments. It provides codes for tillage practices.
 
 -	Codes for tractors and other agricultural machineries are provided by the Harmonized Commodity Description and
 Coding System ([HS-Codes](https://www.foreign-trade.com/reference/hscode.htm)) which was developed by the World Customs Organization (WCO).
 
 -	In Germany crop types and varieties are registered, described and coded by the Federal Plant Variety Office
-(**BSA**, Bundessortenamt). It provides descriptive variety lists e.g. for cereals, maize, oil and fiber plants. 
+(**BSA**, Bundessortenamt) [[9]](https://www.bundessortenamt.de/bsa/media/Files/BSL/bsl_getreide_2021.pdf). It provides descriptive variety lists e.g. for cereals, maize, oil and fiber plants. 
 
 -	Within the extended **BBCH-scale** phenological development stages are described and coded for all kinds of agricultural
-plants and products [[5]](https://www.openagrar.de/receive/openagrar_mods_00067370).
+plants and products [[10]](https://www.openagrar.de/receive/openagrar_mods_00067370).
 
 -	Based on the EU-regulation [1305/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R1305&from=DE)
 (in Germany “InVeKoS”) code lists on different crop types and culture codes,
 3 digits were established (e.g., Flächennutzungsnachweis, FNN).
 
--	In the United States, fertilizers are listed in the [UFTRS](http://agriculture.ks.gov/docs/default-source/pest---fert-uftrs/pf-uftrs-codes.pdf?sfvrsn=0)
-**Code List** (Uniform Fertilizer Tonnage Reporting System, 3 digits).
+-	In the United States, fertilizers are listed in the [UFTRS](http://agriculture.ks.gov/docs/default-source/pest---fert-uftrs/pf-uftrs-codes.pdf?sfvrsn=0) **Code List** (Uniform Fertilizer Tonnage Reporting System, 3 digits).
 
 -	The Federal Office of Consumer Protection and Food Security ([BVL](http://biosicherheit-bch.de/SharedDocs/Downloads/04_Pflanzenschutzmittel/psm_uebersichtsliste.pdf?__blob=publicationFile&v=33))
 provides code lists on land use (1 letter), plant protection (active substances, 4 digits), function (1 letter),
@@ -1695,19 +1699,19 @@ international science and engineering. UCUM is based on EN ISO 80000 and is used
 
 ### Important code lists for data management and metadata
 
--	There are 33 code lists in ISO 19115-1ff (including references to other ISO standards, e.g. language code- ISO 639-2).
-Code lists of EN ISO 19115-1:2003, 19115-2:2010 and 19119:2016 are used in INSPIRE and GDI-DE metadata schema as data type
+-	There are 33 code lists in **ISO 19115-1ff** (including references to other ISO standards, e.g. language code- ISO 639-2).
+Code lists of **EN ISO 19115-1:2003, 19115-2:2010** and **19119:2016** are used in INSPIRE and GDI-DE metadata schema as data type
 for several metadata elements, e.g. CI_RoleCode, MD_CharacterSetCode, MD_ClassificationCode, MD_keywordTypeCode, MD_RestrictionCode,
 and MD_TopicCategoryCode. 
 
--	While the standard EN ISO 19108:2005 deals with geographic information and a temporal schema, ISO 8601:2004 contains
+-	While the standard **EN ISO 19108:2005** deals with geographic information and a temporal schema, **ISO 8601:2019** contains
 data elements and interchange formats and represents date and times. Both have been implemented for INSPIRE. 
 
 -	RFC 4646:  tags for identifying languages, RFC 3986, Uniform Resource Identifier, TGN (Getty Thesaurus of Geographic Names)
 for coverage and DCMI Type Vocabulary [DCIM-TYPE], to describe nature or genre of the resource have been used in Dublin Core. 
 
--	The INSPIRE Metadata Regulation 1205/2008/EC (JRC 2007) mandate the presence of at least one keyword. This can be
-associated with a controlled vocabulary which in ISO standard is referred to as “thesaurus”. 
+-	The INSPIRE Metadata Regulation 1205/2008/EC [[11]](https://inspire.ec.europa.eu/documents/Metadata/INSPIRE_MD_IR_and_ISO_v1_2_20100616.pdf)
+mandate the presence of at least one keyword. This can be associated with a controlled vocabulary which in ISO standard is referred to as “thesaurus”. 
 
 <br>
 
@@ -1735,12 +1739,12 @@ InVeKoS-FNN (Flächen- und Nutzungsnachweis)</td>
 </tr>
 <tr>
 <td>date and time</td>
-<td>ISO 8601:2004</td>
+<td>ISO 8601:2019</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>languages, language names</td>
 <td>ISO 639-1:2002 and ISO 639-2:1998 <br>
-DIN 2335:2014-07</td>
+DIN 2335:2016-08</td>
 </tr>
 <tr>
 <td>SI units</td>
@@ -1752,7 +1756,7 @@ DIN 2335:2014-07</td>
 </tr>
 <tr>
 <td>sprayers</td>
-<td>ISO 10627-2:1996</td>
+<td>ISO 10627-2:1996 [withdrawn]</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>vegetation survey (homogeneity, species, abundance)</td>
@@ -1778,7 +1782,7 @@ _Glossaries and vocabularies_
 <tbody>
 <tr>
 <td>access panels in market, opinion, social research</td>
-<td>ISO 26362:2009</td>
+<td>ISO 20252:2019</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>castors and wheels</td>
@@ -1786,19 +1790,19 @@ _Glossaries and vocabularies_
 </tr>
 <tr>
 <td>earth-moving machinery</td>
-<td>ISO 6165:2012</td>
+<td>ISO 6165:2022</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>equipment for crop protection</td>
-<td>ISO/DIS 5681:2014</td>
+<td>ISO/DIS 5681:2020</td>
 </tr>
 <tr>
 <td>equipment of harvesting</td>
-<td>ISO 6689-1:1997</td>
+<td>ISO 6689:2021</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>forage harvester</td>
-<td>ISO 8909-1:1994</td>
+<td>ISO 8909-1:2021</td>
 </tr>
 <tr>
 <td>grain species</td>
@@ -1806,7 +1810,7 @@ _Glossaries and vocabularies_
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>market, opinion and social research</td>
-<td>ISO 20252:2006</td>
+<td>ISO 20252:2019</td>
 </tr>
 <tr>
 <td>meteorology (data aggregation)</td>
@@ -1818,7 +1822,7 @@ _Glossaries and vocabularies_
 </tr>
 <tr>
 <td>soil quality</td>
-<td>ISO 11074:2015</td>
+<td>ISO 11074:2015/Amd 1:2020</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>soil tillage, ploughing</td>
@@ -1838,11 +1842,11 @@ _Glossaries and vocabularies_
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>tractors - symbols for operators</td>
-<td>ISO 3767-2:2008</td>
+<td>ISO 3767-2:2016</td>
 </tr>
 <tr>
 <td>water quality</td>
-<td>ISO 6107-1:2004 </td>
+<td>ISO 6107-1:2021</td>
 </tr>
 </tbody>
 </table>
@@ -1854,17 +1858,30 @@ _Glossaries and vocabularies_
 
 ### References
 
-[1] FAO (2006). Food and Agriculture Organization of the United Nations. Guidelines for soil description. 4th edition. Rome.
+[1] Boden, Ad-hoc-AG (2005). Bodenkundliche Kartieranleitung (German Soil Survey Guideline). Hannover.
 
-[2] FAO (2005). A system of integrated agricultural censuses and surveys. Volume 1: World Programme for the Census of Agriculture 2010. Rome.
+[2] Bundesministerium der Finanzen (1996): Arbeitsanleitung neues Feldschätzungsbuch: Bodenschätzung. Berlin.
 
-[3] UN (2015). Central product classification (CPC) version 2.1. New York.
+[3] FAO (2006). Food and Agriculture Organization of the United Nations. Guidelines for soil description. 4th edition. Rome.
 
-[4] University, Clemson (2008). Computer Crop Codes for Soil Samples (http://www.clemson.edu/agsrvlb/CropCodesWeb.htm).
+[4]Schoeneberger, P.J., Wysocki, D.A., Benham, E.C (2012). Field Book for Describing and Sampling Soils. Lincoln, NE; Reprint 2021
 
-[5] Hack, H; Bleiholder, H.; Buhr, L.; Meier, U.; Schnock-Fricke, U.; Weber, E.; Weber, E. (1992).
+[5] WRB, IUSS Working Group (2014). World reference base for soil resources 2014: International soil classification system
+for naming soils and creating legends for soil maps: Update 2015. World Soil Resources Reports No. 106: 203.
+
+[6] FAO (2005). A system of integrated agricultural censuses and surveys. Volume 1: World Programme for the Census of Agriculture 2010. Rome.
+
+[7] UN (2015). Central product classification (CPC) version 2.1. New York.
+
+[8] University, Clemson (2008). Computer Crop Codes for Soil Samples (http://www.clemson.edu/agsrvlb/CropCodesWeb.htm).
+
+[9] Bundessortenamt (2021). Beschreibende Sortenliste. Getreide, Mais, Öl- und Fasepflanzen, Leguminosen, Rüben, Zwischenfrüchte. Hannover.
+
+[10] Hack, H; Bleiholder, H.; Buhr, L.; Meier, U.; Schnock-Fricke, U.; Weber, E.; Weber, E. (1992).
 Einheitliche Codierung der phaenologischen Entwicklungsstadien mono- und diktyler Planzen - Erweiterte BBCH-Skala,
 Allgemein. Narichtenbl. Deut. Pflanzenschutzd 44: 265-270.
 
+[11] JRC (2007, update 2013). "INSPIRE Metadata Implementing Rules: Technical Guidelines based on EN ISO 19115 and
+EN ISO 19119." from http://inspire.ec.europa.eu/documents/Metadata/INSPIRE_MD_IR_and_ISO_v1_2_20100616.pdf.
 
 :::
