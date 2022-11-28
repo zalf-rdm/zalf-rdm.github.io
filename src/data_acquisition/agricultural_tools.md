@@ -45,8 +45,11 @@ _Table 4: Recommended standards for tillage tools and agricultural machines_ ![]
 <td>Hoe blades</td> <td>ISO 4197:1989</td>
 </tr>
 <tr>
-<td>Pesticides and herbicides (granulated, equipment) <br> <div style="text-align: center;">(spraying)</div></td> 
-<td>ISO 8524:1984 <br> ISO 5682-1:1996 </td>
+<td><div style="text-align: center;">Pesticides and herbicides</div> <br> 
+<div style="text-align: center;">granulated, equipment <br>
+spraying</div></td> 
+<td><div style="text-align: center; padding-top: 50px;">ISO 8524:1984 <br>
+ISO 5682-1:1996</div> </td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>Plough</td>   <td>ISO 8910:1993</td>
@@ -108,16 +111,16 @@ _Table 4: Recommended standards for tillage tools and agricultural machines_ ![]
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>
-Tyres (agricultural): dimensions (-1) load ratings (-2) <br> 
-<div style="text-align: center;">
+<div style="text-align: center;">Tyres (agricultural): </div>
+<div style="text-align: center;">dimensions (-1) load ratings (-2) <br>
 dimensions and designation <br> 
 dimensions, load ratings and reference speeds
 </div>
 </td>
 <td>
-ISO/DIS 4251:2019 <br> 
+<div style="padding-top: 10px;">ISO/DIS 4251:2019 <br> 
 ISO 7867-1:2005 <br> 
-ISO/DIS 8664:2018
+ISO/DIS 8664:2018 </div>
 </td>
 </tr>
 <tr>

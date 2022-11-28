@@ -10,7 +10,7 @@ order: 80
 
 ### GlobalSoilMap (Sampling depths) ![](/static/img/two_star.png)
 
-The GlobalSoilMap initiative of the Digital Soil Mapping Working Group, International Union of Soil Science (IUSS),
+The GlobalSoilMap initiative of the Digital Soil Mapping Working Group, International Union of Soil Science ([IUSS](https://www.iuss.org)),
 supports generating and providing standardized soil data for the world. It sets-up an internationally accepted
 specification for six sampling and modelling depths: 0−5, 5−15, 15−30, 30−60, 60−100, and 100-200 cm.
 
@@ -26,7 +26,7 @@ safety aspects (ISO 18400-103:2017) and quality control/assurance (ISO 18400-106
 
 <br>
 
-### ISO 15903:2000 ![](/static/img/one_star.png)
+### ISO 15903:2002 ![](/static/img/one_star.png)
 #### Soil quality - Format for recording soil and site information
 
 This standard regulates the format and recording of soil information, including

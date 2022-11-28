@@ -32,7 +32,7 @@ edition.
 ### World Reference Base for Soil Resources ![](/static/img/two_star.png)
 
 The WRB [[2]](https://www.fao.org/3/i3794en/I3794en.pdf) was developed by a working group with the participation of
-IUSS, FAO, and ISRIC. It provides a standard taxonomic soil classification system which allows the accommodation of
+[IUSS](https://www.iuss.org), FAO, and ISRIC. It provides a standard taxonomic soil classification system which allows the accommodation of
 national systems. It is designed to serve as a common denominator for communication at the international level and
 as a correlation between existing classification systems. The WRB classification system contains two hierarchical levels:
 On the level of “Reference Soil Group” (RSG) 32 units are differentiated. On the second level the RSG is described more
@@ -48,7 +48,8 @@ The DIN 19682 series describes in 9 parts determination and measurement techniqu
 Those parts that address description of soil properties (color (1), particle size distribution and soil type (2), soil moisture (5), 
 soil structure (10) and decomposition level of peat soils (12)) are adopted from the German Soil Survey Guidelines. 
 The other parts contain analytical methods for field-measurements of the following parameters: water infiltration rate (7), water and air permeability (8 & 9), 
-carbonates, sulfides, pH-value and iron(II)-ions (13). This German standard is often used in international soil studies and can be a helpful supplement for general soil descriptions in the field by **ISO 25177:2008**.
+carbonates, sulfides, pH-value and iron(II)-ions (13). This German standard is often used in international soil studies
+and can be a helpful supplement for general soil descriptions in the field by **ISO 25177:2019**.
 
 <br>
 
@@ -67,7 +68,11 @@ is determined only by the profitability of the soil. It is the basis for taxatio
 
 <br>
 
-### FAO Guidelines for Soil Description (FAO, 2006) ![](/static/img/one_star.png)
+### FAO Guidelines for Soil Description ![](/static/img/one_star.png)
+
+!!!secondary
+FAO (2006)
+!!!
 
 The FAO guidelines provide a complete procedure for soil description and for collecting fiel
 data necessary for classification according to second edition of the World Reference Bas
@@ -76,7 +81,7 @@ and explain the relevance of the described feature for classification according 
 
 <br>
 
-### ISO 25177:2008 ![](/static/img/one_star.png)
+### ISO 25177:2019 ![](/static/img/one_star.png)
 #### Soil Quality – Field Soil Description 
 
 ISO 25177 traditionally was based on the FAO Guidelines, but was removed from it during

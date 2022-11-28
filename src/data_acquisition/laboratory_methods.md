@@ -79,10 +79,10 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 <td>carbonate</td> <td>ISO 10693:1995, DIN 19682-13:2009</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>cation exchange capacity</td> <td>(CEC) ISO 11260:1994</td>
+<td>cation exchange capacity</td> <td>(CEC) ISO 11260:2018</td>
 </tr>
 <tr>
-<td>color</td> <td>DIN 19682-1:2007/td>
+<td>color</td> <td>DIN 19682-1:2007</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>compression stress</td> <td>ISO 17892-5:2017</td>
@@ -91,13 +91,13 @@ _Table 2: recommended soil quality analysis as regulated by national or internat
 <td>DNA extraction</td> <td>ISO 11063:2020</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>dry bulk density</td> <td>ISO 11272:1998, ISO 17892-2:2015</td>
+<td>dry bulk density</td> <td>ISO 11272:2017, ISO 17892-2:2015</td>
 </tr>
 <tr>
 <td>dry matter fraction</td> <td>EN 15934:2012</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
-<td>ecotoxicological characterization</td> <td>ISO 15799:2003</td>
+<td>ecotoxicological characterization</td> <td>ISO 15799:2019</td>
 </tr>
 <tr>
 <td>electrical conductivity</td> <td>ISO 11265:1994</td>
@@ -131,7 +131,7 @@ ISO 19730:2008
 </td>
 </tr>
 <tr>
-<td>exchangeable acidity</td> <td>ISO 14254:2001</td>
+<td>exchangeable acidity</td> <td>ISO 14254:2018</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>Fe-oxides/hydroxides extraction/ions</td> <td>ISO 12782-1:2012, -2:2012,
@@ -173,7 +173,8 @@ ISO/TS 29843-1:2014, -2:2014</p></td>
 <td>nutrient supply condition</td> <td>DIN 19707:2004</td>
 </tr>
 <tr>
-<td>pH</td> <td>ISO 10390:2005, DIN 19682-13:2009, ASTM-E1910</td>
+<td>pH</td> 
+<td>ISO 10390:2021, DIN 19682-13:2009, ASTM-E1910</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>particle density</td> <td>ISO 17892-3:2015</td>
@@ -195,7 +196,7 @@ ISO/TS 29843-1:2014, -2:2014</p></td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>soil texture</td>
-<td>ISO 11277:1998, ISO 17892-4:2017, <br>
+<td>ISO 11277:2020, ISO 17892-4:2017, <br>
 DIN 18123:2011, DIN 19682-2:2014, <br>
 DIN 66115:1983</td>
 </tr>
@@ -206,17 +207,17 @@ DIN 18121-2:2020, DIN 19682-5:2007, <br>
 DIN 19745:2006
 </td>
 </tr>
-<tr>
+<tr style="background-color: #d3d3d3;">
 <td>Sulfide</td> <td>DIN 19682-13:2009</td>
 </tr>
-<tr style="background-color: #d3d3d3;">
+<tr>
 <td>sulfur (total)</td> <td>ISO 15178:2000</td>
 </tr>
-<tr>
+<tr style="background-color: #d3d3d3;">
 <td>thermal conductivity</td> <td>ISO 17628:2015</td>
 </tr>
-<tr style="background-color: #d3d3d3;">
-<td>water retention</td> <td>ISO 11274:1998</td>
+<tr>
+<td>water retention</td> <td>ISO 11274:2019</td>
 </tr>
 </tbody>
 </table>

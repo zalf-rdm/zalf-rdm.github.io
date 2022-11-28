@@ -151,7 +151,7 @@ VocBench</td>
 <td>Soil description and classification</td>
 <td>KA5, German Soil Survey Guidelines 
 <a href="https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl">[7]</a> <br>
-	IUSS WRB <a href="https://www.fao.org/3/i3794en/I3794en.pdf">[8]</a></td>
+	<a href="https://www.iuss.org">IUSS</a> WRB <a href="https://www.fao.org/3/i3794en/I3794en.pdf">[8]</a></td>
 </tr>
 <tr>
 <td>Soil description and classification (Condition)</td>

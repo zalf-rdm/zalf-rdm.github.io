@@ -58,9 +58,9 @@ Guideline [[4]](http://doi.org/10.20387/BonaRes-E1AZ-ETD7).
 
 According to the [GitHub FAIRMetrics](https://github.com/FAIRMetrics/Metrics),
 the [BonaRes Repository](https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en) serves all relevant
-elements of FAIR data principles (Findable, Accessible, Interoperable, Reusable, see [1]), and
+elements of FAIR data principles (Findable, Accessible, Interoperable, Reusable, see [[1]](https://doi.org/10.1038/sdata.2016.18)), and
 additionally, provides legal security for sensitive data and facilitate data up- and downloads. To meet these demands
-and to enhance research data reusability (FAIR Principle R 1.3), the use of relevant open community standards and data
+and to enhance research data reusability (FAIR Principle R 1.3)[[1]](https://doi.org/10.1038/sdata.2016.18), the use of relevant open community standards and data
 documentation during data life is necessary. Such standards concern, beside others, the classification and description
 of soils, field- and lab methods, agricultural technology, plant varieties, fertilizers, farming and agricultural
 business, data quality control, ontologies, data formats, data storage and -archiving, and metadata management. All
