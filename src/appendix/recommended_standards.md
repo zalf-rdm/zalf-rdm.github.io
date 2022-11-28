@@ -99,7 +99,7 @@ GeoSciML</td>
 <td>ISO 16269 series <br>
 DIN ISO 11843-1ff series <br>
 ISO 3534-1/-2 <br>
-DIN 66270:1998</td>
+DIN 66270:1998 [withdrawn]</td>
 </tr>
 <tr  style="background-color: #d3d3d3;">
 <td>Digital archives</td>
@@ -142,21 +142,22 @@ VocBench</td>
 <td>Soil analysis (Laboratory)</td>
 <td>ISO 11464:2006 <br>
 	DIN ISO 11843-1ff <br>
-	Methods of Soil Analysis (SSSA 2017) <br>
-	Handbook of Soil Investigations (Blume et al. 2016) <br>
-	VDLUFA Method Book (2016) <br>
+	Methods of Soil Analysis <a href="https://acsess.onlinelibrary.wiley.com/doi/book/10.2136/sssabookser5.1.2ed">[5]</a> <br>
+	Handbook of Soil Investigations <a href="https://www.amazon.de/Handbuch-Bodenuntersuchung-Ergänzungslieferung-Hans-Peter-Blume/dp/3527343709">[6]</a> <br>
+	VDLUFA Method Book (2016) <a href="https://www.vdlufa.de/Methodenbuch/index.php?option=com_content&view=article&id=7&Itemid=108&lang=de">[1]</a> <br>
 	detailed list for specific soil parameters see Tables 2 and 3</td>
 </tr>
 <tr  style="background-color: #d3d3d3;">
 <td>Soil description and classification</td>
-<td>KA5, German Soil Survey Guidelines <br>
-	IUSS WRB</td>
+<td>KA5, German Soil Survey Guidelines 
+<a href="https://www.schweizerbart.de/publications/detail/isbn/9783510959204/Bodenkundliche_Kartieranleitung_5_Aufl">[7]</a> <br>
+	IUSS WRB <a href="https://www.fao.org/3/i3794en/I3794en.pdf">[8]</a></td>
 </tr>
 <tr>
 <td>Soil description and classification (Condition)</td>
 <td>DIN 19706:2013 <br>
-DIN 19707:2004 <br>
-DIN 19708:2005</td>
+DIN 19707:2004 [withdrawn] <br>
+DIN 19708:2022</td>
 </tr>
 <tr  style="background-color: #d3d3d3;">
 <td>Soil description and classification (Conformity check)</td>
@@ -212,4 +213,15 @@ GODAN Agrisemantics Map of Standards</td>
 [3] KTBL (2014). Betriebsplanung 2014/2015. Kuratorium für Technik und Bauwesen in der Landwirtschaft e. V. Darmstadt.
 
 [4] Bundessortenamt (2021). Beschreibende Sortenliste. Getreide, Mais, Öl- und Fasepflanzen, Leguminosen, Rüben, Zwischenfrüchte. Hannover.
+
+[5] SSSA (2017). Methods of Soil Analysis (Part 1-5).
+
+[6] Blume, Hans-Peter, Berthold Deller, Klaus Furtmann, Rainer Horn, Reimar Leschber, Andreas Paetz and
+Berndt-Michael Wilke (2016). Handbuch der Bodenuntersuchung: Terminologie, Verfahrensvorschriften und Datenblätter ;
+physikalische, chemische, biologische Untersuchungsverfahren ; gesetzliche Regelwerke. Berlin; Wien u.a., Beuth
+
+[7] Boden, Ad-hoc-AG (2005). Bodenkundliche Kartieranleitung (German Soil Survey Guideline). Hannover.
+
+[8] WRB, IUSS Working Group (2014). World reference base for soil resources 2014: International soil classification system for naming soils and creating legends for soil maps: Update 2015. World Soil Resources Reports No. 106: 203.
+
 :::

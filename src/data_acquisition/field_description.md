@@ -113,7 +113,7 @@ to the international “Universal Soil Loss Equation” USLE and its modificatio
 
 <br>
 
-### DIN 19707:2004 ![](/static/img/one_star.png)
+### DIN 19707:2004 ![](/static/img/one_star.png) [withdrawn]
 #### Classification of the nutrient supply conditions of soil 
 
 This national standard is used to classify nutrient supply conditions of agricultural used soils.
