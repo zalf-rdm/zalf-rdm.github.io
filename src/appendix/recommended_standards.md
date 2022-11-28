@@ -31,13 +31,14 @@ VDLUFA Method Books
 <td>Agricultural activities (Rating)</td>
 <td>Boniturmethoden, Bundessortenamt (2000) 
 <a href="https://www.vdlufa.de/Methodenbuch/index.php?lang=de">[2]</a> <br>
-DIN 19707:2004</td>
+DIN 19707:2004 [withdrawn]</td>
 </tr>
 <tr  style="background-color: #d3d3d3;">
 <td>Agricultural activities (Soil management)</td>
-<td>DIN 18916:2016 <br>
+<td>DIN 18916:2016<br>
 GAP <br>
-Operation Planning Agriculture (KTBL, 2014)</td>
+Operation Planning Agriculture (KTBL, 2014) 
+<a href="https://www.ktbl.de/themen/bodenbearbeitungbestellung">[3]</a></td>
 </tr>
 <tr>
 <td>Agricultural activities (Sustainable management)</td>
@@ -49,13 +50,14 @@ Operation Planning Agriculture (KTBL, 2014)</td>
 </tr>
 <tr>
 <td>Crops (Varieties)</td>
-<td>Bundessortenamt (2015) </td>
+<td>Bundessortenamt (2021) 
+<a href="https://www.bundessortenamt.de/bsa/media/Files/BSL/bsl_getreide_2021.pdf">[4]</a> </td>
 </tr>
 <tr  style="background-color: #d3d3d3;">
 <td>Crops (Mass, Components)</td>
 <td>EN ISO 520:2010 <br>
 ISO 7971-1ff series <br>
-DIN EN 15587:2014</td>
+DIN EN 15587:2019</td>
 </tr>
 <tr>
 <td>Data conventions (General)</td>
@@ -69,7 +71,7 @@ XML</td>
 <tr>
 <td>Data exchange (Agricultural data)</td>
 <td>AgroXML <br>
-ISO-XML (ISO 11783-1:2007ff)</td>
+ISO-XML (ISO 11783-1:2017ff)</td>
 </tr>
 <tr  style="background-color: #d3d3d3;">
 <td>Data exchange (Geo-data)</td>
@@ -207,4 +209,7 @@ GODAN Agrisemantics Map of Standards</td>
 
 [2] Bundessortenamt (2000). Richtlinien für die Durchführung von landwirtschaftlichen Wertprüfungen und Sortenversuchen. Hannover.
 
+[3] KTBL (2014). Betriebsplanung 2014/2015. Kuratorium für Technik und Bauwesen in der Landwirtschaft e. V. Darmstadt.
+
+[4] Bundessortenamt (2021). Beschreibende Sortenliste. Getreide, Mais, Öl- und Fasepflanzen, Leguminosen, Rüben, Zwischenfrüchte. Hannover.
 :::

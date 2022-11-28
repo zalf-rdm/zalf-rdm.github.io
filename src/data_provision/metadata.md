@@ -56,7 +56,8 @@ The recent Metadata Scheme is 4.4 [[3]](https://schema.datacite.org/meta/kernel-
 ### Dublin Core Metadata Element Set (Version 1.1)  ![](/static/img/one_star.png) 
 
 This set is a vocabulary of fifteen properties to describe a resource. It is maintained by the Dublin Core Metadata Initiative
-(DCMI). The Dublin Core metadata elements formally endorsed in **ISO 15836:2009, ANSI/NISO Z39.85-2012** and **RFC 5013** [[4]](https://www.rfc-editor.org/rfc/rfc5013.html).
+(DCMI). The Dublin Core metadata elements formally endorsed in **ISO 15836-1:2017 and ISO 15836-2:2019, ANSI/NISO Z39.85-2012**
+and **RFC 5013** [[4]](https://www.rfc-editor.org/rfc/rfc5013.html).
 
 <br>
 
@@ -97,8 +98,9 @@ further development of the standards, as well as the connection to other standar
 <br>
 
 ### Quali-Service (University of Bremen)
-Emerging [data service center ](https://www.qualiservice.org/de/)for qualitative primary data (focus on interviews) and provision of reports about metadata standards,
-e.g.Betancort Cabrera and Haake 2014 [[7]](https://media.suub.uni-bremen.de/handle/elib/3020). 
+Emerging [data service center ](https://www.qualiservice.org/de/)for qualitative primary data (focus on interviews)
+and provision of reports about metadata standards, e.g. Betancort Cabrera and
+Haake 2014 [[7]](https://media.suub.uni-bremen.de/handle/elib/3020). 
 
 <br>
 
