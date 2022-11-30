@@ -250,7 +250,7 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 </tr>
 </thead>
 <tbody>
-<tr style="text-align: right;"><td>Chemical analyses (Section A)</td></tr>
+<tr style="text-align: right;"><td><strong>Chemical analyses (Section A)</strong></td></tr>
 <tr style="background-color: #d3d3d3;">
 <td>Ammonium</td> <td>A 6.1.2, 8.2</td>
 </tr>
@@ -329,7 +329,7 @@ _Table 3: Recommended soil quality analysis as regulated by the VDLUFA Method Bo
 <tr>
 <td>zinc (plant available)</td> <td>A 7.5</td>
 </tr>
-<tr style="text-align: right;"><td>Physical analyses (Section C)</td></tr>
+<tr style="text-align: right;"><td><strong>Physical analyses (Section C)</strong></td></tr>
 <tr style="background-color: #d3d3d3;">
 <td>bulk density</td> <td>C 1.3</td>
 </tr>

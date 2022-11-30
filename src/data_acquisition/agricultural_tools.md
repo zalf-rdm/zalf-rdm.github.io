@@ -28,7 +28,7 @@ _Table 4: Recommended standards for tillage tools and agricultural machines_ ![]
 </tr>
 </thead>
 <tbody>
-<tr style="text-align: center;"><td>Tools and Equipment</td></tr>
+<tr style="text-align: center;"><td><strong>Tools and Equipment</strong></td></tr>
 <tr style="background-color: #d3d3d3;">
 <td>Cultivator Blades (fixing dimensions)</td> <td>ISO 8945:1989</td>
 </tr>
@@ -45,10 +45,10 @@ _Table 4: Recommended standards for tillage tools and agricultural machines_ ![]
 <td>Hoe blades</td> <td>ISO 4197:1989</td>
 </tr>
 <tr>
-<td><div style="text-align: center;">Pesticides and herbicides</div> <br> 
-<div style="text-align: center;">granulated, equipment <br>
+<td><div>Pesticides and herbicides</div>
+<div style="padding-left: 20px;">granulated, equipment <br>
 spraying</div></td> 
-<td><div style="text-align: center; padding-top: 50px;">ISO 8524:1984 <br>
+<td><div style="padding-top: 20px;">ISO 8524:1984 <br>
 ISO 5682-1:1996</div> </td>
 </tr>
 <tr style="background-color: #d3d3d3;">
@@ -72,7 +72,7 @@ ISO 5682-1:1996</div> </td>
 <tr style="background-color: #d3d3d3;">
 <td>Turf and seeding</td>   <td>DIN 18917:2002</td>
 </tr>
-<tr style="text-align: center;"><td>Machines</td></tr>
+<tr style="text-align: center;"><td><strong>Machines</strong></td></tr>
 <tr style="background-color: #d3d3d3;">
 <td>Machines, self-propelled - assessment of stability</td> <td>ISO 16231:2013 (1-2)</td>
 </tr>

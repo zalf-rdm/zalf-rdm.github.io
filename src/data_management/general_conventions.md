@@ -29,7 +29,7 @@ _Table 6: Recommended data conventions (Standard for general and geographic data
 </tr>
 </thead>
 <tbody>
-<tr style="text-align: center;"><td>Data General</td></tr>
+<tr style="text-align: center;"><td><strong>Data General</strong></td></tr>
 <tr style=" background-color: #d3d3d3">
 <td>Alphabet (Latin) -8-bit single-byte coded graphic character set</td>	
 <td>ISO/IEC 8859-1:1998</td>
@@ -75,7 +75,7 @@ DIN 1313:1998 <br>
 <td>Universal coded character set</td>
 <td>ISO/IEC 10646:2020</td>
 </tr>
-<tr style="text-align: center;"><td>Geographic General</td></tr>
+<tr style="text-align: center;"><td><strong>Geographic General</strong></td></tr>
 <tr style=" background-color: #d3d3d3">
 <td>Application schema (rules)</td>
 <td>ISO/DIS 19109:2015</td>
