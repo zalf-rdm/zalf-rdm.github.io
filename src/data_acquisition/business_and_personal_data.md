@@ -114,8 +114,8 @@ _Table 5: Standards and guidelines for methodological approaches_ ![](/static/im
 <td>ISO 26000:2010 </td>
 </tr>
 <tr>
-<td> <p style="text-align: center;">Resource efficiency</p>
-<p style="text-align: center;"> 
+<td> <p>Resource efficiency</p>
+<p style="padding-left: 20px;"> 
 Methodical principles and strategies <br>
 Raw Materials
 </p>

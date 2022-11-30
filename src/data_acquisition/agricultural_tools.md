@@ -77,7 +77,7 @@ ISO 5682-1:1996</div> </td>
 <td>Machines, self-propelled - assessment of stability</td> <td>ISO 16231:2013 (1-2)</td>
 </tr>
 <tr>
-<td>Machines, safety (-6 sprayer, -9 seed drills, -10 rotary tedders, -12 rotary disc)</td> <td>ISO 4254 (1-12)</td>
+<td>Machines, safety <br> -6 sprayer <br> -9 seed drills <br> -10 rotary tedders <br> -12 rotary disc</td> <td>ISO 4254 (1-12)</td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>Machines operations</td>   <td>VDI 6101:2014</td>
@@ -111,21 +111,21 @@ ISO 5682-1:1996</div> </td>
 </tr>
 <tr style="background-color: #d3d3d3;">
 <td>
-<div style="text-align: center;">Tyres (agricultural): </div>
-<div style="text-align: center;">dimensions (-1) load ratings (-2) <br>
+<div>Tyres (agricultural): </div>
+<div style="padding-left: 20px;">dimensions (-1) load ratings (-2) <br>
 dimensions and designation <br> 
 dimensions, load ratings and reference speeds
 </div>
 </td>
 <td>
-<div style="padding-top: 10px;">ISO/DIS 4251:2019 <br> 
+<div style="padding-top: 20px;">ISO/DIS 4251:2019 <br> 
 ISO 7867-1:2005 <br> 
 ISO/DIS 8664:2018 </div>
 </td>
 </tr>
 <tr>
 <td>Wheels and tyres, radial construction <br>
-<div style="text-align: center;">measuring conditions</div> </td> 
+<div style="padding-left: 20px;">- measuring conditions</div> </td> 
 <td>DIN 7807:1995 <br> 
 DIN 70020-5:1986</td>
 </tr>
